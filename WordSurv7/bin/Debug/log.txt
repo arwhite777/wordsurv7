@@ -1,0 +1,13 @@
+Exception of type 'System.Exception' was thrown.
+Stack trace:
+   at WordSurv7.WordSurvForm.WordSurvForm_Shown(Object sender, EventArgs e) in Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\Forms\WordSurvForm.vb:line 62
+   at System.Windows.Forms.Form.OnShown(EventArgs e)
+   at System.Windows.Forms.Form.CallShownEvent()
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.runTryCode(Object userData)
+   at System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()

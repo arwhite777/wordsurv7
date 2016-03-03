@@ -1,0 +1,729 @@
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.EditComparisonForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.DictionarySelectionPopupForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.RenamePopupForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.PreferencesForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ProgressBarForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CopyTranscriptionsForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+Z:\2009 Spring\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.application
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CopyTranscriptionsForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.EditComparisonForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.DictionarySelectionPopupForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.RenamePopupForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.PreferencesForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ProgressBarForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.application
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+X:\.windows_settings\Desktop\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CopyTranscriptionsForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.EditComparisonForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.DictionarySelectionPopupForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.RenamePopupForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.PreferencesForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ProgressBarForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.GridTest.resources
+Z:\2009 SUMMER\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ExceptionShowerForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CopyTranscriptionsForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.EditComparisonForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.DictionarySelectionPopupForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.RenamePopupForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.PreferencesForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ProgressBarForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.ExceptionShowerForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.GridTest.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\WordSurv7 Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.CopyTranscriptionsForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.EditComparisonForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.DictionarySelectionPopupForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.RenamePopupForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.PreferencesForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ProgressBarForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ExceptionShowerForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.GridTest.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.CopyGroupingsForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ComparisonStatsForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.SplashScreenForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+W:\2009 SUMMER Version Control\Testing\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+W:\2009 SUMMER Version Control\Testing\WordSurv7\obj\Debug\WordSurv7.exe
+W:\2009 SUMMER Version Control\Testing\WordSurv7\obj\Debug\WordSurv7.xml
+W:\2009 SUMMER Version Control\Testing\WordSurv7\obj\Debug\WordSurv7.pdb
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.CopyTranscriptionsForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.EditComparisonForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.DictionarySelectionPopupForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.RenamePopupForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.PreferencesForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ProgressBarForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ComparisonStatsForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.CopyGroupingsForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.SplashScreenForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.ExceptionShowerForm.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.GridTest.resources
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.exe
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.xml
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.pdb
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.exe.config
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.application
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.exe
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.pdb
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\bin\Debug\WordSurv7.xml
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+W:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\WordSurv7 Experimental Xml Version\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox duplicate gloss branch\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Surveys without Validation\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Dcolgan Sandbox working on Comparisons\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2009 SUMMER Version Control\WordSurv7 New Data Model Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 SUMMER Version Control\Experimental Undo Branch\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2009 Fall\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.application
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.application
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+C:\Users\Art\Desktop\PROJECTS\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.VirtualGridTest.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2010 Spring\Backup of Wordsurv 7 Current 02-18-10\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2010 Spring\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\Office.dll
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+Z:\2010 Summer\Wordsurv 7 Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\bin\Debug\Office.dll
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\bin\Debug\Office.dll
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+C:\WordSurv\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.MetadataForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Office.dll
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.MetadataForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Office.dll
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.MetadataForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+C:\dcolgan\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\Office.dll
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.MetadataForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+C:\Users\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Office.dll
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\ResolveAssemblyReference.cache
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.MetadataForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+X:\My Documents\Downloads\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+Z:\2010Summer\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.DDExcludeCharsForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\Interop.LCC11.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.ResolveComReference.cache
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.MultilineInputForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.DDExcludeCharsForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\office.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\bin\Debug\Interop.LCC11.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.config
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.pdb
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\WordSurv7.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\office.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.MultilineInputForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.DDExcludeCharsForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current\WordSurv7\obj\Debug\WordSurv7.pdb
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.exe.config
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.pdb
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\office.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\Microsoft.Vbe.Interop.dll
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.MultilineInputForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.DDExcludeCharsForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.xml
+\\fileshare\arwhite\Desktop\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.pdb
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.exe.config
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\bin\Debug\WordSurv7.pdb
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.Resources.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.AboutWordSurvForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ComboForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ConfirmDeleteDialogBoxForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ComparisonMergeForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.MultilineInputForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.DDExcludeCharsForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.ExceptionForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.SplitterTest.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.SurveySelectForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.CreateVarietiesForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.EncodingChoice.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.InputForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.SearchForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.StrengthsSummaryForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.WordSurvForm.resources
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.vbproj.GenerateResource.Cache
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.TrustInfo.xml
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.exe.manifest
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.application
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.exe
+\\fileshare\arwhite\Desktop\HOLD WORDSURV\Wordsurv_7_Current_Beta_Luke\WordSurv7\obj\Debug\WordSurv7.pdb

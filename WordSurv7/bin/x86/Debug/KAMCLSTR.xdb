@@ -1,0 +1,3396 @@
+\id  kamclstr.db
+\cm WORDSURV DATABASE
+
+\record sky        sama
+\al 110
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tOndwaja            |c
+\r  a|tOndwai             |rk
+\r   |                    |
+\r  b|za~t                |s
+\r  b|za ro               |h
+\r  b|za ta               |i
+\r   |                    |
+\r  c|gaDu                |ua
+\r  c|gEDu                |e
+\r   |                    |
+\r  d|ran                 |o
+\end 1
+
+\record sun        rana
+\al 123
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a| o~ho~              |cs
+\r  a| O~hO~              |rk
+\r  a|wo~jo~              |o
+\r  a|wO wO               |i
+\r   |                    |
+\r  b|hwi~s               |h
+\r   |                    |
+\r  c|lEndZi              |uae
+\end 2
+
+\record cloud      girgije
+\al 150
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|Ondwaja             |c
+\r  a|Ondwai              |k
+\r  a|ondwai              |r
+\r   |                    |
+\r  b|--ran               |si
+\r  b|--lana              |h
+\r  b|reran               |o
+\r   |                    |
+\r  c|w@~tSi              |u
+\r  c|w@ tSi              |a
+\r  c|hu~tSi              |e
+\end 3
+
+\record wind       iska
+\al 184
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|pjar                |crkso
+\r  a|p ElE               |h
+\r  a|p ErE               |i
+\r   |                    |
+\r  b|pEpi                |uae
+\end 4
+
+\record moon       wata
+\al 128
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|pjana               |ck
+\r  a|pjEna               |r
+\r  a|pjan                |s
+\r  a|p En@               |h
+\r   |                    |
+\r  b|wOOto               |u
+\r  b|wo tO               |ae
+\r  b|waat                |io
+\end 5
+
+\record star       tauraro
+\al 113
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|rINgwane            |c
+\r  a|riNgwan             |s
+\r  a|rONgwan             |k
+\r  a|r@mgwan             |r
+\r   |                    |
+\r  b|gENga               |h
+\r   |                    |
+\r  c|tSitSE  ri          |u
+\r  c|t Et E?uri          |a
+\r  c|tSitSE  rE          |e
+\r   |                    |
+\r  d|--zE g              |i
+\r  d|z@z@Ngi             |o
+\end 6
+
+\record ground     Kasa
+\al 60
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|iNgE                |ck
+\r  a|iNki                |s
+\r  a|iNk                 |r
+\r  a|ENg                 |h
+\r   |                    |
+\r  b|gE                  |io
+\r   |                    |
+\r  c|Da                  |u
+\r  c|Daa                 |a
+\r   |                    |
+\r  d|bwO?                |e
+\end 7
+
+\record metal      Karfe
+\al 86
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|rOma                |c
+\r  a|roma                |i
+\r  a|rOm                 |rksho
+\r   |                    |
+\r  b|jumu                |uae
+\end 8
+
+\record rock       dutse
+\al 147
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tarE                |ci
+\r  a|tari                |huae
+\r  a|tali                |k
+\r  a|ta i                |r
+\r  a|taji                |o
+\r  a|te i                |s
+\end 9
+
+\record hill/mtn.  tsauni
+\al 140
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|Sama                |c
+\r  a|Sam                 |rksio
+\r   |                    |
+\r  b|?Og                 |h
+\r   |                    |
+\r  c|ku~                 |ua
+\r   |                    |
+\r  d|sa                  |e
+\end 10
+
+\record cave*        kogo
+\al 168
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a|bjar                |crkso
+\r   |                    |
+\r  b|p@t@                |u
+\r  b|p@ta                |a
+\r  b|pata                |e
+\end 11
+
+\record pit*         rami
+\al 134
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a|humbE               |c
+\r  a|hOmbi               |k
+\r  a|hambi               |s
+\r  a|w@mpi               |o
+\r   |                    |
+\r  b|k@~ji~              |r
+\r   |                    |
+\r  c|tSi                 |uae
+\end 12
+
+\record dust       Kura
+\al 198
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |crksuae
+\r   |                    |
+\r  a|bul                 |h
+\r   |                    |
+\r  b|bu k                |i
+\r  b|buNk                |o
+\end 13
+
+\record sand       yashi
+\al 82
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|--hjaga             |ck
+\r  a|--hjag              |r
+\r  a|--hjEg              |h
+\r  a|--hEEg              |s
+\r  a|ja j@g              |i
+\r  a|ja jEk              |o
+\r   |                    |
+\r  b|ju                  |u
+\r  b|ju~ u~              |a
+\r  b|jo~ju~              |e
+\end 14
+
+\record fire       wuta
+\al 17
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ra                  |cksi
+\r  a|la                  |hue
+\r  a|laa                 |a
+\r  a|r                   |ro
+\end 15
+
+\record burn (v)   Konewa/Kuna
+\al 67
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |i
+\r   |                    |
+\r  a|tuwa                |c
+\r   |                    |
+\r  b|r@n                 |rs
+\r  b|r@nE                |k
+\r  b|rOn                 |o
+\r   |                    |
+\r  c|tSO                 |h
+\r   |                    |
+\r  d|kule                |u
+\r  d|kul@                |a
+\r  d|kulu                |e
+\end 16
+
+\record firewood   icen wuta (x)
+\al 181
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded item     |crkshuaeio
+\end 17
+
+\record axe*         gatari
+\al 172
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|? Ap  --            |r
+\r  a|  a pO--            |c
+\r  a|? a~p --            |k
+\r  a|kja bowt            |s
+\r   |                    |
+\r  b|---BOw              |a
+\r  b|---Bo               |u
+\r  b|---bO               |e
+\r  b|---bu               |i
+\r  b|kjabowt             |s
+\r   |                    |
+\r  c|gup                 |o
+\end 18
+
+\record split (v)  faskare/"
+\al 103
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|bOra                |ck
+\r  a|bOr                 |r
+\r   |                    |
+\r  b|bant                |s
+\r  b|band                |h
+\r   |                    |
+\r  c|pEte                |uae
+\r   |                    |
+\r  d|sala                |i
+\r  d|sar                 |o
+\end 19
+
+\record ash (hot)  toka  (x)
+\al 18
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|mO t O              |c
+\r  a|mO t                |r
+\r  a|mO t u              |k
+\r  a|mo t u              |i
+\r  a|mO T                |o
+\r  a|mOwt                |s
+\r  a|mO tSwa             |h
+\r   |                    |
+\r  b|komO                |u
+\r  b|koma                |a
+\r  b|komo                |e
+\end 20
+
+\record smoke      hayaKi
+\al 187
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|mu hj @~            |c
+\r  a|mu hjua             |h
+\r  a|mu~   i~            |r
+\r  a|mu ?  i             |k
+\r  a|mu  w i             |sio
+\r   |                    |
+\r  b|tSu?wE              |u
+\r  b|tSu wo              |a
+\r  b|tSu? o              |e
+\end 21
+
+\record water      ruwa
+\al 23
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|m@ ni               |ckaei
+\r  a|m@ n                |ro
+\r  a|mE ni               |u
+\r  a|m@in                |s
+\r   |                    |
+\r  b|mia                 |h
+\end 22
+
+\record well*(n)     rijiya
+\al 125
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r  0|--Hausa loan        |uae
+\r   |                    |
+\r  a|w@g                 |r
+\r  a|w@                  |o
+\r  a|w@g@                |ck
+\r   |                    |
+\r  b|iju                 |s
+\end 23
+
+\record drink (v)  sha/"
+\al 136
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |i
+\r   |                    |
+\r  a|Es wa               |c
+\r  a|Es                  |r
+\r  a|Esu                 |k
+\r  a|-sowa               |h
+\r  a|-s  a               |s
+\r  a|-so i               |u
+\r  a|-sO                 |e
+\r  a|-s  e               |a
+\r  a|-s wOn              |o
+\end 24
+
+\record pour (v)   zubawa/zuba
+\al 101
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ZjI n---            |c
+\r  a|Z iann@m            |r
+\r  a|Z  @n u             |k
+\r   |                    |
+\r  b|zut@                |s
+\r  b|zut@n               |o
+\r  b|r@t@n               |i
+\r   |                    |
+\r  c|dZigo               |h
+\r   |                    |
+\r  d|tu~                 |ue
+\r  d|tu~u~               |a
+\end 25
+
+\record rain       ruwan sama
+\al 132
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded item     |uae
+\r   |                    |
+\r  a|SIrI                |c
+\r  a|Sir@                |r
+\r  a|Sir                 |ko
+\r  a|Sira                |i
+\r  a|SIr                 |s
+\r  a|s@l@                |h
+\end 26
+
+\record dew        raBa
+\al 65
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|t uni               |c
+\r  a|t unj@              |r
+\r  a|tSinja              |h
+\r  a|t umi               |ks
+\r   |                    |
+\r  b| iza                |u
+\r  b|?iza                |ae
+\r   |                    |
+\r  c|ts@ i~              |i
+\r  c|t O~i~              |o
+\end 27
+
+\record river      kogi
+\al 9
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|r ag                |cio
+\r  a|rwaga               |r
+\r  a|rwag                |ks
+\r   |                    |
+\r  b|w@                  |h
+\r   |                    |
+\r  c|dZEnE               |u
+\r   |                    |
+\r  d|hoju                |a
+\r   |                    |
+\r  e|Ba                  |e
+\end 28
+
+\record God*       Allah
+\al 129
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a|O~hO~               |c
+\r  a|O~hO                |rk
+\r  a|O  O                |s
+\r  a|o~ o~               |o
+\r   |                    |
+\r  b|kuNgwa              |uae
+\end 29
+
+\record person     mutum
+\al 84
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ga                  |crk
+\r   |                    |
+\r  b|bOt                 |sh
+\r   |                    |
+\r  c|bo~a~t              |io
+\r   |                    |
+\r  d|za                  |uae
+\end 30
+
+\record man        namiji
+\al 54
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|t w@ ri             |c
+\r  a|tuw   i             |r
+\r  a|tuw@ ri             |k
+\r  a|t wa  i             |s
+\r  a|t waari             |h
+\r   |                    |
+\r  b|va ri               |ue
+\r  b|vaari               |a
+\r  b|wa ri               |i
+\r  b|wa  i               |o
+\end 31
+
+\record husband    miji
+\al 213
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |uae
+\r   |                    |
+\r  a|@ ri                |ck
+\r  a|O ji                |r
+\r  a|O ri                |s
+\r  a|aari                |h
+\r   |                    |
+\r  b|jut                 |i
+\r  b|ju                  |o
+\end 32
+
+\record father*    baba
+\al 72
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a|bOtSi               |c
+\r  a|bOtS                |k
+\r  a|butS                |so
+\r   |                    |
+\r  b|tata                |r
+\r  b|dada                |ua
+\r   |                    |
+\r  c|bara                |e
+\end 33
+
+\record woman      mace
+\al 131
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |e
+\r   |                    |
+\r  a|?@?                 |c
+\r  a|?@                  |rk
+\r  a|?a                  |s
+\r  a|ka                  |ua
+\r  a|k                   |io
+\r   |                    |
+\r  b|b@tu w@twa          |h
+\end 34
+
+\record wife       mata
+\al 4
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |crksua
+\r   |                    |
+\r  a|?a                  |h
+\r   |                    |
+\r  b|ka-v@na i-t@na      |e
+\r   |                    |
+\r  c|Okajab              |i
+\r  c|@kejab              |o
+\end 35
+
+\record mother*      mama
+\al 202
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a| in E               |c
+\r  a| in                 |k
+\r  a|jin                 |o
+\r  a| in @n              |r
+\r  a| Inna               |u
+\r   |                    |
+\r  b|ono                 |ae
+\r   |                    |
+\r  c|nana                |s
+\end 36
+
+\record grandfather   kaka
+\al 7
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |crkho
+\r   |                    |
+\r  a|taT                 |s
+\r   |                    |
+\r  b|bara                |u
+\r   |                    |
+\r  c|aki                 |a
+\r   |                    |
+\r  d|kavu                |e
+\r   |                    |
+\r  e|Sigu                |i
+\end 37
+
+\record child      Da
+\al 3
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|j@                  |c
+\r  a|jok                 |i
+\r  a| Ok                 |o
+\r   |                    |
+\r  b|?O                  |rk
+\r  b| O                  |h
+\r  b| a                  |s
+\r   |                    |
+\r  c|mo~                 |ua
+\r  c|mO                  |e
+\end 38
+
+\record chief*       sarki
+\al 38
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|gwama               |cr
+\r  a|gwam                |ksi
+\r  a|gw@m                |o
+\r  a| womo               |ua
+\r  a| wOmO               |e
+\end 39
+
+\record stranger*    baKo
+\al 87
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|t@--ham atS         |c
+\r  a|tO--ham atS         |r
+\r  a|ta--hom atS         |k
+\r  a|--maSEm E S         |i
+\r  a|--maSamwatS         |o
+\r   |                    |
+\r  b|ganja               |s
+\r   |                    |
+\r  c|motSi               |u
+\r  c|mOtSi               |ae
+\end 40
+
+\record name       suna
+\al 215
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a| Z@                 |cr
+\r  a|dZ@                 |k
+\r   |                    |
+\r  b|zE--                |s
+\r  b|zija                |h
+\r   |                    |
+\r  c|zaki                |io
+\r   |                    |
+\r  d|jula                |ua
+\r  d|hula                |e
+\end 41
+
+\record one        Daya
+\al 209
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|i~ a~               |c
+\r  a|i~j@~               |rks
+\r  a|i~ja~               |h
+\r   |                    |
+\r  b|rii                 |i
+\r  b|ri@                 |o
+\r   |                    |
+\r  c|tE                  |u
+\r   |                    |
+\r  d|to                  |a
+\r  d|too                 |e
+\end 42
+
+\record two        biyu
+\al 223
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|d@re                |c
+\r  a|d@rja               |k
+\r  a|d@rjo               |s
+\r   |                    |
+\r  b|hEndZO              |h
+\r   |                    |
+\r  c|uj@~                |r
+\r   |                    |
+\r  d|japu                |uae
+\r   |                    |
+\r  e|reek                |i
+\r  e|re k@               |o
+\end 43
+
+\record three      uku
+\al 191
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ta  tO              |cksho
+\r  a|ta  tO~             |r
+\r  a|ta at               |i
+\r  a|ta  tu              |ue
+\r  a|ta?atu              |a
+\end 44
+
+\record four       huDu
+\al 162
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|n@ S i              |crko
+\r  a|n@@S i              |s
+\r  a|n@ ssi~             |h
+\r  a|n@ s i              |a
+\r  a|n@ s i~             |e
+\r  a|nE s i              |u
+\r  a|n@ ss               |i
+\end 45
+
+\record five       biyar
+\al 144
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|taa                 |crks
+\r  a|ta ?                |hio
+\r  a|taa u~              |u
+\r  a|ta  u~              |e
+\r  a|ta  o~              |a
+\end 46
+
+\record six        shida
+\al 194
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tunu hi~            |c
+\r  a|tunu~hi~            |r
+\r  a|tunu hi             |k
+\r  a|t@nu ---            |s
+\r  a|tuni hIn            |h
+\r  a|t@r  hi             |u
+\r  a|t@ri hi             |a
+\r  a|t@ri hi~            |e
+\r   |                    |
+\r  b|tSIni               |i
+\r  b|tSInija             |o
+\end 47
+
+\record seven      bakwai
+\al 161
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |crksh
+\r   |                    |
+\r  a|tIndaja             |uae
+\r  a|tEnd@ri             |i
+\r  a|t@ndaje             |o
+\end 48
+
+\record eight      takwas
+\al 179
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |crkshio
+\r   |                    |
+\r  a|rilo                |ae
+\r  a|rElE                |u
+\end 49
+
+\record nine       tara
+\al 200
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |crkshio
+\r   |                    |
+\r  a|tI ti               |ue
+\r  a|tIIti               |a
+\end 50
+
+\record ten        goma
+\al 44
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|kwOpE               |i
+\r  a|kwapi               |o
+\r  a|kjOp                |s
+\r  a|k upE               |h
+\r  a|k upa?              |ue
+\r  a|k upa               |a
+\r  a|  opa               |c
+\r  a|  opa?              |rk
+\end 51
+
+\record twenty*      ashirin
+\al 43
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  0|--excluded          |crkuaeo
+\r   |                    |
+\r  a|a-kOp ha-rigjE      |s
+\end 52
+
+\record hundred*     Dari
+\al 78
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r  0|--Hausa loan        |crkeo
+\r   |                    |
+\r  a|manda               |ua
+\r   |                    |
+\r  b|bwini               |s
+\end 53
+
+\record many       yawa
+\al 68
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |ck
+\r   |                    |
+\r  a|kwaSE               |r
+\r   |                    |
+\r  b|dE~ja~              |s
+\r   |                    |
+\r  c|pugO                |h
+\r   |                    |
+\r  d|pilu                |ue
+\r  d|pElu                |a
+\r   |                    |
+\r  e|t@nd@               |i
+\r   |                    |
+\r  f|dub                 |o
+\end 54
+
+\record all        duka
+\al 163
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|sabE                |cr
+\r  a|sabE?               |io
+\r  a|sob                 |k
+\r   |                    |
+\r  b|kutSi               |s
+\r   |                    |
+\r  c|k@m                 |h
+\r   |                    |
+\r  d|vEsi                |u
+\r  d|v@si                |a
+\r   |                    |
+\r  e|k@pu                |u
+\r   |                    |
+\r  f|po~?                |e
+\end 55
+
+\record speak (v)  magana/"
+\al 190
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |ki
+\r   |                    |
+\r  a|hjam a              |c
+\r  a|hja~                |e
+\r  a|h a~?a~             |a
+\r   |                    |
+\r  b|zw@maigEm           |r
+\r  b|z Oma g--           |o
+\r  b|zw@ma  --           |s
+\r   |                    |
+\r  c|hargo               |h
+\r   |                    |
+\r  d|dama                |u
+\end 56
+
+\record count (v)  Kirga/"
+\al 167
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|rOtag               |io
+\r  a|rOt -               |sh
+\r  a|rObo                |c
+\r  a|rOp                 |r
+\r  a|rOg                 |k
+\r   |                    |
+\r  b|tSEte               |ae
+\r  b|tSIti               |u
+\end 57
+
+\record know (v)   sani/"
+\al 73
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|j a~                |c
+\r  a|E~a~                |k
+\r  a|A~o~                |r
+\r   |                    |
+\r  b|dEku                |s
+\r  b|dEk                 |h
+\r   |                    |
+\r  c|-na pa              |ua
+\r  c|-la pa              |e
+\r  c|-naap               |i
+\r  c|j~a p               |o
+\end 58
+
+\record bean*        waki
+\al 212
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|geja                |c
+\r  a|g@ji                |r
+\r  a|gaje                |k
+\r  a|gEh                 |s
+\r  a|ge i                |i
+\r  a|ga i                |o
+\r   |                    |
+\r  b|ja----              |ua
+\r  b|jakOto              |e
+\end 59
+
+\record groundnut*   gyada
+\al 61
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a| eraba              |c
+\r  a|?Erab               |r
+\r  a| Erab               |o
+\r  a| erab               |k
+\r   |                    |
+\r  b|gwinE----           |u
+\r  b|gwino----           |a
+\r  b|g ino----           |e
+\r  b|gw@nitOri           |s
+\end 60
+
+\record guinea corn* dawa
+\al 169
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|hi                  |crks
+\r   |                    |
+\r  b|da ?u~              |u
+\r  b|da~?u~              |a
+\r  b|da ?o~              |e
+\r   |                    |
+\r  c|ji                  |i
+\r   |                    |
+\r  d|bi                  |o
+\end 61
+
+\record rice*        shinkafa
+\al 28
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r  0|--Hausa loan        |crkso
+\r   |                    |
+\r  a|bE e                |u
+\r  a|beje                |ae
+\end 62
+
+\record salt       gishiri
+\al 14
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ma ndZe             |c
+\r  a|ma ndZ              |r
+\r  a|ma nd               |k
+\r  a|maandZ              |sh
+\r   |                    |
+\r  b|k omo               |u
+\r  b|kwomo               |a
+\r  b|kwOmO               |e
+\r   |                    |
+\r  c|k@@k                |i
+\r  c|k@ k                |o
+\end 63
+
+\record pepper(red)* tankwa
+\al 30
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r  0|--Hausa loan        |s
+\r   |                    |
+\r  a|twaSE               |c
+\r  a|twaS                |ki
+\r  a|toaS                |o
+\r  a|to si               |u
+\r  a|t @si               |a
+\r  a|tOOsi               |e
+\r   |                    |
+\r  b|SEt                 |r
+\end 64
+
+\record die (v)    mutuwa/mutu
+\al 171
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|?w@                 |cr
+\r  a|?wu                 |s
+\r  a|? u                 |k
+\r  a|kwE                 |u
+\r  a|kwo                 |a
+\r  a|k o                 |e
+\r  a|k                   |io
+\r   |                    |
+\r  b|dZu                 |h
+\end 65
+
+\record corpse*      gawa
+\al 227
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a| ?w@                |cr
+\r  a| ?wO                |h
+\r  a|  wu                |k
+\r  a|   u                |s
+\r  a| kwe~               |u
+\r  a| kwe                |ae
+\r  a| k u                |o
+\r  a|uk                  |i
+\end 66
+
+\record bury (v)   bizne/"
+\al 219
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|dZidEnu             |u
+\r  a|dZIdOnu             |a
+\r  a|tSIDono             |e
+\r   |                    |
+\r  b|bumb@n              |c
+\r  b|bunbun              |r
+\r  b|bunb@n              |k
+\r  b| uNb@n              |h
+\r  b|  mb@               |s
+\r   |                    |
+\r  c|m@?@m               |i
+\r  c|m@  n               |o
+\end 67
+
+\record marry (v)  yi aure/aure
+\al 8
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|z a                 |k
+\r  a|Z a                 |cr
+\r  a|Z @n                |o
+\r  a|Z @N                |i
+\r  a|Sian                |s
+\r   |                    |
+\r  b|ardZ                |c
+\r   |                    |
+\r  c|tSig@               |h
+\r   |                    |
+\r  d|?ita                |e
+\r   |                    |
+\r  e|tani                |u
+\r  e|t@ni                |a
+\end 68
+
+\record give birth (v)  haifuwa/"
+\al 112
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|mat a               |ua
+\r  a|m@t a               |e
+\r  a|mat                 |crks
+\r  a|matS                |h
+\r   |                    |
+\r  b|gw@r                |i
+\r  b|gw@g                |o
+\end 69
+
+\record sickness*     ciwo
+\al 137
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|g om a              |c
+\r  a|g Om a              |r
+\r  a|g Omb               |k
+\r  a|gw@m                |io
+\r   |                    |
+\r  b| b@tSi              |ua
+\r  b|?w@tSi              |e
+\r   |                    |
+\r  c|hOn                 |s
+\end 70
+
+\record cry*(v)       kuka
+\al 108
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|O to                |c
+\r  a|OOt                 |k
+\r   |                    |
+\r  b|?og@n               |r
+\r   |                    |
+\r  c|tadaro              |s
+\r   |                    |
+\r  d|so~o~               |e
+\r   |                    |
+\r  e|misi~               |u
+\r  e|misi                |a
+\r   |                    |
+\r  f|tSumuk              |i
+\r   |                    |
+\r  g|tSag                |o
+\end 71
+
+\record fear (v)   jin tsoro/ts
+\al 185
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|wa sa               |c
+\r  a|wa~s                |rk
+\r  a|wa s                |h
+\r  a| a s                |s
+\r   |                    |
+\r  b|wovo                |u
+\r  b|wOvo~               |a
+\r  b|wOwO                |e
+\r   |                    |
+\r  c|k Ore               |i
+\r  c|kwo i               |o
+\end 72
+
+\record laugh (v)  dariya/"
+\al 145
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|h ENga--            |c
+\r  a|h ENgu--            |k
+\r  a|hjENg --            |r
+\r  a|S En----            |o
+\r  a|S In--tu            |i
+\r   |                    |
+\r  b|zwOsO               |e
+\r  b|z oso               |a
+\r  b|z o?o               |u
+\r   |                    |
+\r  c|rat                 |s
+\r   |                    |
+\r  d|sama                |h
+\end 73
+
+\record see (v)    gani/"
+\al 146
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hjEnEm-             |c
+\r  a|hjan---             |r
+\r  a|hjan--u             |k
+\r  a|hj@n---             |s
+\r  a|hj@~---             |h
+\r   |                    |
+\r  b|inda                |u
+\r  b|Inda                |ae
+\r   |                    |
+\r  c|jiI~                |o
+\r  c|ni n                |i
+\end 74
+
+\record show (v)   nunawa/nuni
+\al 70
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|---s@?@n            |crk
+\r  a| EEsE  nu           |u
+\r  a|?E sE  nu           |a
+\r  a|?O z@  nu           |e
+\r   |                    |
+\r  b|tSeban              |s
+\r  b|tS@bO               |h
+\r   |                    |
+\r  c|b@ k@n              |i
+\r  c|bONkEn              |o
+\end 75
+
+\record smell (v)  wuri/"
+\al 21
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|nusu                |c
+\r   |                    |
+\r  b|sEm----             |r
+\r  b|s@m@n--             |i
+\r  b|s@m@nEm             |k
+\r   |                    |
+\r  c|wa S                |s
+\r  c|waaS                |o
+\r  c|wu s                |h
+\r   |                    |
+\r  d|su ~                |u
+\r  d|suu~                |a
+\r  d|su n                |e
+\end 76
+
+\record hear (v)   ji/"
+\al 211
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hOga                |c
+\r  a|hOgi                |r
+\r  a|hOg@m               |k
+\r  a|hOg                 |sh
+\r  a| ug                 |i
+\r  a|jag                 |o
+\r   |                    |
+\r  b|uwa                 |uae
+\end 77
+
+\record hunger     yunwa
+\al 32
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|SImbu               |ck
+\r  a|Simbu               |r
+\r   |                    |
+\r  b|m era               |h
+\r  b|m Eru               |i
+\r  b|mja u               |o
+\r   |                    |
+\r  c|rIjanu              |s
+\r   |                    |
+\r  d|lu                  |uae
+\end 78
+
+\record eat (v)    ci/"
+\al 170
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|r jami              |k
+\r  a|rija--              |s
+\r  a|r jo--              |h
+\r  a|rijo--              |i
+\r   |                    |
+\r  b|ra                  |uae
+\r   |                    |
+\r  c|  Ere               |c
+\r  c|  Eri               |k
+\r  c|  E i               |r
+\r  c|?jE i               |o
+\end 79
+
+\record bite (v)   cizo/"
+\al 88
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |i
+\r   |                    |
+\r  a|t@ n                |c
+\r  a|tEine               |r
+\r  a|tEiN                |k
+\r   |                    |
+\r  b|hak                 |s
+\r  b|haku                |h
+\r   |                    |
+\r  c|numanu              |u
+\r  c|numa--              |ae
+\r   |                    |
+\r  d|Et                  |o
+\end 80
+
+\record porridge   tuwo
+\al 85
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|t Ega               |c
+\r  a|t Og                |ro
+\r  a|t Eg                |k
+\r  a|t @gu               |s
+\r  a|ts@g@               |i
+\r   |                    |
+\r  b|ta                  |ue
+\r  b|taa                 |a
+\end 81
+
+\record sauce      miya
+\al 228
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|Siipa               |c
+\r  a|SE p                |rks
+\r  a|SEEp                |i
+\r  a|Seap                |o
+\r   |                    |
+\r  b|sa?a                |uae
+\end 82
+
+\record mortar*       turmi
+\al 175
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|@~ru                |c
+\r  a|@ ru                |r
+\r  a|E~ru~               |k
+\r   |                    |
+\r  b|uun                 |s
+\r   |                    |
+\r  c|nu                  |i
+\r   |                    |
+\r  d|ku                  |o
+\r   |                    |
+\r  e|d@vu                |ae
+\r  e|dovu                |u
+\end 83
+
+\record pestle*       tabarya
+\al 12
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a| Oro                |c
+\r  a|?or                 |r
+\r  a| Or                 |k
+\r   |                    |
+\r  b|si                  |u
+\r  b|sii                 |a
+\r  b|si ~                |e
+\r   |                    |
+\r  c|SEnu                |i
+\r  c|SEn                 |o
+\r  c|SEru                |s
+\end 84
+
+\record pot(cooking) tukunya
+\al 25
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|kwa?e               |c
+\r  a|kwa i               |k
+\r  a|kwe Es              |i
+\r  a|kwe as              |o
+\r   |                    |
+\r  b|m@m                 |r
+\r   |                    |
+\r  c|kImbu               |s
+\r   |                    |
+\r  d|taku                |h
+\r   |                    |
+\r  e|tIlu                |ue
+\r  e|tilu                |a
+\end 85
+
+\record milk       nono
+\al 5
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|sup@                |c
+\r  a|sup                 |rksh
+\r  a|s@b@                |i
+\r  a|sub                 |o
+\r   |                    |
+\r  b|sija                |u
+\r  b|seja                |a
+\r   |                    |
+\r  c|Ini                 |e
+\end 86
+
+\record suck (v)   sha/" (x)
+\al 2
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |h
+\r  0|--missing item      |ki
+\r   |                    |
+\r  a|susumb@--           |c
+\r  a|susumb --           |r
+\r  a|susumb@gu           |s
+\r  a|susum  --           |o
+\r   |                    |
+\r  b|sivE                |u
+\r  b|s@vo                |ae
+\end 87
+
+\record black      baki
+\al 221
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|SIri                |cs
+\r  a|Si i                |r
+\r  a|Siri                |k
+\r  a|siri                |h
+\r   |                    |
+\r  b|rumE                |u
+\r  b|rumo                |ae
+\r   |                    |
+\r  c|nius                |io
+\end 88
+
+\record white      fari
+\al 124
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tSEni               |cksh
+\r  a|tSEnE               |r
+\r   |                    |
+\r  b|?ujE                |u
+\r  b|?ujo                |a
+\r  b|?@jo                |e
+\r   |                    |
+\r  c|buru                |io
+\end 89
+
+\record red        ja
+\al 62
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|SEne                |c
+\r  a|SEnI                |r
+\r  a|SEni                |ks
+\r  a|sani                |h
+\r  a|S@ni                |i
+\r  a|SEn                 |o
+\r   |                    |
+\r  b|sI l a              |u
+\r  b|si lla              |a
+\r  b|si l a              |e
+\end 90
+
+\record walk (v)   tafiya/"
+\al 111
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|h@ rugu             |c
+\r  a|ha r gu             |rk
+\r  a|ha lu--             |ua
+\r  a|haala--             |e
+\r   |                    |
+\r  b|han                 |s
+\r  b|hanu                |h
+\r  b|wan                 |io
+\end 91
+
+\record leave (v)  bari/"
+\al 216
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tur @m              |c
+\r  a|turi@mu             |k
+\r   |                    |
+\r  b|tii                 |r
+\r   |                    |
+\r  c|gwO                 |s
+\r   |                    |
+\r  d|bolu                |h
+\r   |                    |
+\r  e|na  su              |u
+\r  e|naha--              |a
+\r  e|nahasu              |e
+\r   |                    |
+\r  f|kotai               |i
+\r   |                    |
+\r  g|taak                |o
+\end 92
+
+\record come (v)   zuwa/zo
+\al 115
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gwE?Im              |c
+\r  a|gwE?im              |r
+\r  a|gw@?Im              |k
+\r   |                    |
+\r  b|kOrja               |s
+\r  b|kur a               |h
+\r   |                    |
+\r  c|aja                 |uae
+\r   |                    |
+\r  d|SEgEp               |i
+\r   |                    |
+\r  e|wuut                |o
+\end 93
+
+\record follow*(v)    biyowa
+\al 45
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a| aNganEm            |c
+\r  a| aNg@n--            |r
+\r  a| a gan@m            |k
+\r  a|ga gano             |s
+\r   |                    |
+\r  b|don o               |u
+\r  b|d@n u               |a
+\r  b|d@nno               |e
+\r   |                    |
+\r  c|tSEg                |i
+\r   |                    |
+\r  d|Zab                 |o
+\end 94
+
+\record stand up(v) tashi/"
+\al 6
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|Si gana             |c
+\r  a|sINg@n              |r
+\r  a|SE gan@m            |k
+\r  a|SINgE---            |s
+\r  a|s@NgE---            |h
+\r   |                    |
+\r  b|?uNgwE              |u
+\r  b|?uNgwO              |a
+\r  b|?@Ng o              |e
+\r   |                    |
+\r  c|bi~k                |i
+\r  c|bi k                |o
+\end 95
+
+\record sit down(v) zama/"
+\al 47
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|nEkjam              |c
+\r  a|nEki--              |r
+\r  a|nEkj@m              |k
+\r   |                    |
+\r  b|Si                  |s
+\r   |                    |
+\r  c|dala                |h
+\r   |                    |
+\r  d|dE nu               |u
+\r  d|d@ nu               |a
+\r  d|doono               |e
+\r   |                    |
+\r  e|Sik@n               |io
+\end 96
+
+\record lie down (v)   kwanta**
+\al 201
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|r@b t @m            |c
+\r  a|rabutS--            |r
+\r  a|r@g t @m            |k
+\r  a|rabOt --            |s
+\r  a|rabot --            |io
+\r   |                    |
+\r  b| ituni              |u
+\r  b|wita--              |a
+\r  b|?itu--              |e
+\end 97
+
+\record jump*(v)      tsalle
+\al 193
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|banam               |c
+\r   |                    |
+\r  b|hi@Ng               |r
+\r   |                    |
+\r  c|tSanum@m            |k
+\r   |                    |
+\r  d|mahE~               |s
+\r   |                    |
+\r  e|tEdu E              |u
+\r  e|t@du o              |a
+\r  e|t@Duwo              |e
+\r   |                    |
+\r  f|rEE~k               |i
+\r  f|rE ~ka              |o
+\end 98
+
+\record fall (v)    faDuwa/"
+\al 107
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hinjago             |c
+\r  a|hEn o--             |rk
+\r   |                    |
+\r  b|supi                |s
+\r   |                    |
+\r  c|gjantu              |h
+\r   |                    |
+\r  d|juwI                |u
+\r  d|ju o                |a
+\r  d|juwo                |e
+\r   |                    |
+\r  e|b@riok              |i
+\r  e|bErE ku             |o
+\end 99
+
+\record break*(v)     pasawa
+\al 210
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a|kumbaki             |c
+\r  a|humbak              |r
+\r   |                    |
+\r  b|kasamu              |k
+\r   |                    |
+\r  c|pusOw               |s
+\r  c|pus                 |o
+\r  c|pisE                |u
+\r  c|piso                |a
+\r   |                    |
+\r  d|B@ta                |e
+\end 100
+
+\record pull (v)    ja/"
+\al 102
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|@mb@m               |c
+\r  a|@mba                |r
+\r  a|@mbam               |k
+\r   |                    |
+\r  b|num                 |shi
+\r   |                    |
+\r  c|jono                |u
+\r  c|j@no                |ae
+\r   |                    |
+\r  d|k@k                 |o
+\end 101
+
+\record push (v)    turawa/turi
+\al 26
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |i
+\r   |                    |
+\r  a|sOp te              |c
+\r  a|sOp ta              |r
+\r  a|sop tam             |k
+\r  a|saboka              |h
+\r   |                    |
+\r  b|@tuur               |s
+\r   |                    |
+\r  c|tIs u--             |u
+\r  c|t@s u--             |a
+\r  c|t@sj@no             |e
+\r   |                    |
+\r  d|tSEndZekan          |o
+\end 102
+
+\record squeeze (v) matsewa/"tsa
+\al 95
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|pij@m@-             |c
+\r  a|pir@---             |r
+\r  a|pi @N -             |k
+\r  a|piru---             |h
+\r  a|piri--g             |i
+\r   |                    |
+\r  b|p@bu                |s
+\r   |                    |
+\r  c|hukwInu             |u
+\r  c|hukwO--             |a
+\r   |                    |
+\r  d|m@DO                |e
+\r   |                    |
+\r  e|d@v                 |o
+\end 103
+
+\record wash (e.g.pot) wanki**
+\al 105
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hambar@m            |c
+\r  a|hambar--            |rk
+\r   |                    |
+\r  b|gu z                |s
+\r  b|guuz                |h
+\r  b|gi z                |i
+\r  b|g@ z                |o
+\r   |                    |
+\r  c|?iza?u~             |u
+\r  c|?iz@?u              |a
+\r  c|?Iz@?@~             |e
+\end 104
+
+\record wash(clothes) wanki
+\al 22
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |kshi
+\r  0|--excluded          |cruaeo
+\end 105
+
+\record send (v)     aikeya/aike
+\al 48
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |i
+\r   |                    |
+\r  a|t Omu               |c
+\r  a|t oman              |r
+\r  a|t @mu               |k
+\r  a|t Oma               |s
+\r  a|tS@m                |h
+\r  a|t oma~              |o
+\r   |                    |
+\r  b|nijo~--             |u
+\r  b|nijo vi             |a
+\r  b|niju --             |e
+\end 106
+
+\record farm*(n)      gona
+\al 164
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|saNga               |ci
+\r  a|saNg                |rs
+\r  a|saNgu               |k
+\r  a|saNk                |o
+\r   |                    |
+\r  b|nija                |uae
+\end 107
+
+\record cultivate (v)     noma/"
+\al 152
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tOma                |cr
+\r  a|tOmo                |k
+\r  a|tOm                 |so
+\r  a|tom                 |i
+\r   |                    |
+\r  b|hOl@                |h
+\r   |                    |
+\r  c|nu ~                |u
+\r  c|nuu                 |a
+\r  c|nu                  |e
+\end 108
+
+\record harvest*(n)    girbe
+\al 195
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r  0|--Hausa loan        |sio
+\r   |                    |
+\r  a|gitum               |cr
+\r   |                    |
+\r  b|japu                |k
+\r   |                    |
+\r  c|tSa?a               |ua
+\r  c|tS@?a               |e
+\end 109
+
+\record sleep (v)     kwana/"
+\al 159
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ZIku                |c
+\r  a|Zuk                 |rk
+\r   |                    |
+\r  b|rOb                 |s
+\r  b|labu                |h
+\r  b|lavo                |u
+\r  b|lEvu                |a
+\r  b|rabu                |i
+\r  b|rab                 |o
+\r   |                    |
+\r  c|letta               |e
+\end 110
+
+\record want (v)     so/"
+\al 139
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|k orag              |c
+\r  a|kworag              |rk
+\r  a|k odag              |s
+\r   |                    |
+\r  b|gjEmbu              |h
+\r   |                    |
+\r  c|ta?a                |uae
+\r   |                    |
+\r  d|darau               |i
+\r   |                    |
+\r  e|doi                 |o
+\end 111
+
+\record give(v)     bayarwa/"yar
+\al 174
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|pa nam              |c
+\r  a|pa n--              |rs
+\r  a|p@ n@m              |k
+\r  a|paan--              |io
+\r   |                    |
+\r  b|t a n               |h
+\r  b|tSaana              |u
+\r  b|tSa na              |a
+\r  b|tSaa--              |e
+\end 112
+
+\record steal (v)     sata/"
+\al 116
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|zumb@m              |ck
+\r  a|zumb--              |r
+\r   |                    |
+\r  b|rix                 |s
+\r   |                    |
+\r  c|hj@                 |h
+\r   |                    |
+\r  d|bo--                |u
+\r  d|bowo                |a
+\r  d|bO O                |e
+\r   |                    |
+\r  e|bisi                |i
+\r   |                    |
+\r  f|ju~                 |o
+\end 113
+
+\record house/hut   Daki
+\al 53
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |r
+\r   |                    |
+\r  a|b@n                 |ck
+\r  a|bUn                 |s
+\r   |                    |
+\r  b|kaba                |h
+\r   |                    |
+\r  c|ja                  |uae
+\r   |                    |
+\r  d|ts wats             |i
+\r  d|t owak              |o
+\end 114
+
+\record compound*      gida
+\al 66
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|jaba                |crhi
+\r  a|jab                 |kso
+\r   |                    |
+\r  b|a?a                 |uae
+\end 115
+
+\record stool-cook's   kujera (x)
+\al 40
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|rOs                 |crk
+\r   |                    |
+\r  b|nuunu               |s
+\r   |                    |
+\r  c|dalo                |h
+\r   |                    |
+\r  d|dEntu               |u
+\r  d|dontu               |ae
+\r   |                    |
+\r  e|kogu                |i
+\r   |                    |
+\r  f|Sik                 |o
+\end 116
+
+\record village     Kauye
+\al 225
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |u
+\r   |                    |
+\r  a|undu                |crk
+\r   |                    |
+\r  b|hIr                 |s
+\r  b|hil@                |h
+\r   |                    |
+\r  c|ruweji              |a
+\r   |                    |
+\r  d|daba                |e
+\r   |                    |
+\r  e|Ob@                 |i
+\r  e|Ob                  |o
+\end 117
+
+\record town*       gari
+\al 141
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |h
+\r   |                    |
+\r  a|tSIpO               |c
+\r  a|tSEp                |rk
+\r  a| SEp                |so
+\r  a| S@pu               |i
+\r   |                    |
+\r  b|rej                 |u
+\r  b|reI                 |a
+\r  b|re                  |e
+\end 118
+
+\record path         hanya
+\al 64
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|anEni               |c
+\r  a|anEn                |rk
+\r   |                    |
+\r  b|O nija              |c
+\r  b|oin --              |k
+\r   |                    |
+\r  c|jE n a              |s
+\r  c|jI nna              |h
+\r  c|wE n @              |i
+\r  c|weEn                |o
+\r   |                    |
+\r  d|ja                  |ue
+\r  d|jaa                 |a
+\end 119
+
+\record rope     igiya
+\al 148
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|uhw@                |c
+\r  a|uhu                 |r
+\r  a|u u                 |k
+\r   |                    |
+\r  b|hand                |s
+\r   |                    |
+\r  c|rig                 |h
+\r   |                    |
+\r  d|maNga               |uae
+\r   |                    |
+\r  e|mjEg@               |i
+\r  e|mjEg                |o
+\end 120
+
+\record tie (v)     Daurewa
+\al 203
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|par@n@m-            |c
+\r  a|paran---            |r
+\r  a|par@m---            |k
+\r  a|para---g            |s
+\r   |                    |
+\r  b|va?a                |uae
+\r   |                    |
+\r  c|rOkag               |i
+\r  c|rokag               |o
+\end 121
+
+\record broom*      tsintsiya
+\al 178
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|bjEso               |c
+\r  a|bias                |rks
+\r  a|vi su               |uae
+\r  a|bjas                |io
+\end 122
+
+\record sweep*(v)   sharewa
+\al 220
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|bjEsago             |c
+\r  a|bjESEg--            |r
+\r  a|b ESegam            |k
+\r  a|  Esag@n            |s
+\r  a|b ESEga             |i
+\r  a|bjaS@g--            |o
+\r   |                    |
+\r  b|huDi                |u
+\r  b|huDu                |a
+\r  b|huDo                |e
+\end 123
+
+\record who     wa
+\al 126
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gamba               |ch
+\r  a|gamb                |r
+\r  a|gambu               |k
+\r  a|ga~--               |s
+\r  a| amba?              |i
+\r  a| amb                |o
+\r   |                    |
+\r  b|janu~--             |u
+\r  b|jani --             |a
+\r  b|janE vi             |e
+\end 124
+
+\record what     me
+\al 138
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|--ja ba             |c
+\r  a|--ja b              |rk
+\r  a|i~ja~--             |s
+\r  a| ~ja --             |o
+\r   |                    |
+\r  b|zamai               |h
+\r   |                    |
+\r  c|jini                |u
+\r  c|jIni                |a
+\r  c| Ine                |e
+\r   |                    |
+\r  d|jatai               |i
+\end 125
+
+\record why     dom me
+\al 35
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|zoma jaba           |c
+\r  a|zOma jA--           |r
+\r  a|zOma ja--           |k
+\r  a|zom ija             |s
+\r   |                    |
+\r  b|zamai Egja          |h
+\r   |                    |
+\r  c|saba jini           |u
+\r  c|sabanjini           |a
+\r  c|sObIn Ine           |e
+\r   |                    |
+\r  d|SIpe ja             |i
+\r  d|Sipi~ja             |o
+\end 126
+
+\record night     dare
+\al 50
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|g Eta               |ch
+\r  a|gjIta               |r
+\r  a|g Et                |ks
+\r  a|gjEt                |io
+\r   |                    |
+\r  b|hi~?i~              |ue
+\r  b|hi~ i~              |a
+\end 127
+
+\record morning*    safe
+\al 83
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|bONgo               |c
+\r  a|boNgo               |i
+\r  a|bONgu               |rks
+\r  a|boNg                |o
+\r   |                    |
+\r  b|kwa ?a              |ua
+\r  b|kwa~?a~             |e
+\end 128
+
+\record afternoon*  darana
+\al 55
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|O~hO~               |c
+\r  a|o~ho~               |r
+\r  a|O~---               |k
+\r  a|O  O                |s
+\r  a|u  u                |o
+\r  a|o~ o~               |i
+\r   |                    |
+\r  b|lEndZi              |uae
+\end 129
+
+\record evening       yamma
+\al 155
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a| r@ mbE             |c
+\r  a| r@ mbi             |r
+\r  a| ra mbi             |k
+\r  a| rE mbi             |s
+\r  a|kwE mbi             |i
+\r  a|kwEEm--             |o
+\r   |                    |
+\r  b|kurivi              |ue
+\r  b|kOrIvi              |a
+\end 130
+
+\record year          shekara
+\al 135
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |sio
+\r   |                    |
+\r  a|ja                  |ch
+\r  a|jai                 |r
+\r  a| a                  |k
+\r   |                    |
+\r  b|sa                  |uae
+\end 131
+
+\record rainy season   damana
+\al 90
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|Si                  |crks
+\r   |                    |
+\r  b|ruSi                |u
+\r  b|rusi                |ae
+\r   |                    |
+\r  c|gwOS                |i
+\r  c|gwaS                |o
+\end 132
+
+\record dry season*   rani
+\al 13
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a| rEho               |cs
+\r  a|?jEhu               |r
+\r  a| rE o               |k
+\r   |                    |
+\r  b|andej               |u
+\r  b|andaji              |a
+\r  b|ande--              |e
+\r   |                    |
+\r  c|O bu                |i
+\r  c|oab                 |o
+\end 133
+
+\record play (v)     wasa/"
+\al 81
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ragu                |cs
+\r  a|rago                |rk
+\r  a|lagu                |h
+\r  a|wagu                |i
+\r  a|wak                 |o
+\r   |                    |
+\r  b|laba                |ua
+\r  b|l@b@                |e
+\end 134
+
+\record dance        rawa
+\al 29
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|h Ebu               |cksi
+\r  a|hjEb                |r
+\r  a|  Eb                |o
+\r   |                    |
+\r  b|zI ?u~              |u
+\r  b|zE ?u~              |a
+\r  b|zE~?E~              |e
+\end 135
+
+\record drum         ganga
+\al 151
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r  0|--Hausa loan        |crksio
+\r   |                    |
+\r  a|kwEEtE              |u
+\r  a|k O to              |a
+\r  a|k O tO              |e
+\end 136
+
+\record sing (v)     waKa/"
+\al 96
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|zOg                 |crksh
+\r  a|zog                 |o
+\r   |                    |
+\r  b|supa                |ua
+\r  b|sipa                |e
+\r   |                    |
+\r  c|rEg                 |i
+\end 137
+
+\record whistle (v)     shewa/"
+\al 89
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|b Er                |c
+\r  a|bjEr                |r
+\r  a|bjEro               |ki
+\r   |                    |
+\r  b|hOrOm               |s
+\r  b|horum               |h
+\r  b|wOru                |o
+\r   |                    |
+\r  c|?ulu                |u
+\r  c|?ila                |a
+\r  c|?iru                |e
+\end 138
+
+\record war     yaKi
+\al 104
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gjas                |crk
+\r  a|g as                |sh
+\r  a|g @s                |o
+\r  a|g @sa               |i
+\r   |                    |
+\r  b|ruma                |uae
+\end 139
+
+\record hit (v)     bugu/"
+\al 165
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hwam--              |c
+\r  a|hwa-g               |r
+\r  a|hwa-go              |k
+\r   |                    |
+\r  b|sup                 |sh
+\r   |                    |
+\r  c|nIp                 |io
+\r   |                    |
+\r  d|vasa                |ue
+\r   |                    |
+\r  e|vuwe                |u
+\r   |                    |
+\r  f|gwanta              |a
+\end 140
+
+\record tree     ice
+\al 52
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|?O~                 |cks
+\r  a|?o~                 |r
+\r  a| O~?                |h
+\r   |                    |
+\r  b|DaNga               |ua
+\r  b|D@Nga               |e
+\r   |                    |
+\r  c|okwu                |i
+\r  c|Ok u                |o
+\end 141
+
+\record bark-on tree     Bawa (x)
+\al 59
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gugu                |crki
+\r  a|gug                 |sho
+\r   |                    |
+\r  b|wu ~                |u
+\r  b|wuu                 |a
+\r   |                    |
+\r  c|kuti                |e
+\end 142
+
+\record branch*      reshe
+\al 100
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|bobo                |c
+\r  a|bob                 |rk
+\r  a|gog                 |s
+\r   |                    |
+\r  b|ne?e                |u
+\r  b|ni?i                |e
+\r   |                    |
+\r  c|raNki               |i
+\r  c|raNk                |o
+\r   |                    |
+\r  d|vatu                |a
+\end 143
+
+\record flower*      fure
+\al 186
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hk
+\r  0|--Hausa loan        |cruaeo
+\r   |                    |
+\r  a|sumb@               |s
+\r  a|sump                |i
+\end 144
+
+\record leaf     ganye
+\al 92
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|bombowa             |c
+\r  a|bomb --             |r
+\r  a|bOmbo--             |k
+\r  a|b@mbu--             |h
+\r   |                    |
+\r  b|hOOm                |s
+\r   |                    |
+\r  c|sa                  |uae
+\r   |                    |
+\r  d|ma ma               |i
+\r  e|maam                |o
+\end 145
+
+\record seed        iri**
+\al 106
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|bjEro               |c
+\r  a|bjEr                |rk
+\r  a|bjErO               |s
+\r  a|b iru               |i
+\r  a|bja u               |o
+\r   |                    |
+\r  b|tSu~?u~             |ue
+\r  b|tSu ?u              |a
+\end 146
+
+\record root     saye
+\al 120
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|guNgu               |crk
+\r  a|guntu               |s
+\r  a|g@nt                |h
+\r   |                    |
+\r  b|jaju                |uae
+\r   |                    |
+\r  c|nipu                |i
+\r  c|nip                 |o
+\end 147
+
+\record round     kewaye
+\al 63
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|rINg u              |ck
+\r  a| iNg @n             |r
+\r  a|riNg---             |s
+\r  a|rINk u              |h
+\r  a|ruNgwE              |u
+\r  a|ruNg o              |ae
+\r   |                    |
+\r  b|giru                |i
+\r   |                    |
+\r  c|gEtSig              |o
+\end 148
+
+\record hot     zafi
+\al 114
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|zOm                 |crksio
+\r   |                    |
+\r  b|bOmi                |h
+\r   |                    |
+\r  c|siDi                |ua
+\r  c|sIdi                |e
+\end 149
+
+\record cold     dari
+\al 93
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hwO bi              |cr
+\r  a|h oibi              |k
+\r  a|hw@ bi              |s
+\r   |                    |
+\r  b|dur                 |h
+\r   |                    |
+\r  c|jeju                |ue
+\r  c|jEju                |a
+\r  c|r@ru                |i
+\r   |                    |
+\r  d|riagu               |o
+\end 150
+
+\record dry (adj.)  a bushe**
+\al 133
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a| hwa? o---          |c
+\r  a|   E wa~            |r
+\r  a| hwO? O---          |k
+\r  a| hwe------          |s
+\r  a| h O------          |h
+\r  a| hju wi---          |u
+\r  a|?h E?wi---          |a
+\r  a| h e?wi---          |e
+\r  a|  wO w@-k-          |i
+\r  a|  wO wO--v          |o
+\end 151
+
+\record dark*       duhu
+\al 27
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|tun  tSi            |c
+\r  a|tuN  tSi            |r
+\r  a|tumu tS             |k
+\r  a|tumu~ S             |s
+\r   |                    |
+\r  b|tSiimbi             |u
+\r  b|tSiImbi             |a
+\r  b|tSI mbi             |e
+\r   |                    |
+\r  c|kuS                 |io
+\end 152
+
+\record new     sabo
+\al 127
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |uae
+\r   |                    |
+\r  a|jOpw@               |c
+\r  a| ub u               |r
+\r  a| up u               |k
+\r  a|jup                 |sh
+\r   |                    |
+\r  b|m@ P                |i
+\r  b|m@~v                |o
+\end 153
+
+\record good     kyau
+\al 37
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a| o~ZE~              |c
+\r  a|w@ Zi               |i
+\r   |                    |
+\r  b|zEgi                |rko
+\r   |                    |
+\r  c|buri                |k
+\r   |                    |
+\r  d|sambari             |s
+\r   |                    |
+\r  e|gam                 |h
+\r   |                    |
+\r  f|lIpa~j              |ua
+\r  f|lipa i              |e
+\end 154
+
+\record evil*       mugu
+\al 199
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hk
+\r  0|--Hausa loan        |e
+\r   |                    |
+\r  a|wO                  |c
+\r   |                    |
+\r  b|ame?aw              |r
+\r   |                    |
+\r  c|EdZEsO?O            |s
+\r   |                    |
+\r  d|w in @              |u
+\r  d|wuin @              |a
+\r  d|w i~jO              |io
+\end 155
+
+\record big*        babba
+\al 183
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|OtO?O               |c
+\r  a|Ot---               |k
+\r   |                    |
+\r  b|towag               |rs
+\r   |                    |
+\r  c|pInu                |u
+\r  c|pEne                |a
+\r  c|peno                |e
+\r   |                    |
+\r  d|rapi                |i
+\r   |                    |
+\r  e|t@nd@               |o
+\end 156
+
+\record tall-trees     tsawo (x)
+\al 51
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gjEso               |c
+\r  a|g Es                |r
+\r  a|g Esu               |k
+\r  a|gjEs                |s
+\r   |                    |
+\r  b|z@Ngeru             |h
+\r   |                    |
+\r  c|g@~j                |u
+\r  c|ga ji               |a
+\r  c|ga~ji~              |e
+\r   |                    |
+\r  d|wOgEEnsu            |i
+\r  d| ogEEns             |o
+\end 157
+
+\record long-rope     dogo (x)
+\al 176
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |k
+\r  0|--excluded          |crsuaeio
+\r   |                    |
+\r  a|mEri                |h
+\end 158
+
+\record small     Karami
+\al 76
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tSimu               |c
+\r  a|tSim                |ro
+\r   |                    |
+\r  b|jan                 |k
+\r   |                    |
+\r  c|EnnO~               |s
+\r   |                    |
+\r  d|damani              |h
+\r   |                    |
+\r  e|DInu                |u
+\r  e|Dene                |a
+\r  e|Deno                |e
+\r   |                    |
+\r  f|kuri                |i
+\r   |                    |
+\r  g|maak                |o
+\end 159
+
+\record short     guntu
+\al 75
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |s
+\r   |                    |
+\r  a|kuri                |ck
+\r  a|guri                |r
+\r   |                    |
+\r  b|kotS                |h
+\r   |                    |
+\r  c|togi                |u
+\r  c|t@gi                |ae
+\r   |                    |
+\r  d|tSimu               |i
+\r   |                    |
+\r  e|kw@m                |o
+\end 160
+
+\record sharp(edge)*  kaifi
+\al 173
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a|tOre                |c
+\r  a|toji                |r
+\r  a|tO i                |k
+\r  a|tOri                |s
+\r   |                    |
+\r  b|kara                |uae
+\r   |                    |
+\r  c|?Eri                |o
+\end 161
+
+\record full     cika
+\al 69
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|SInd u              |c
+\r  a|SindZ               |r
+\r  a|SInd u              |k
+\r  a|SInt                |s
+\r  a|s@nd                |h
+\r  a|Sint                |i
+\r  a|S@ndZi              |o
+\r   |                    |
+\r  b|suNgw a             |ua
+\r  b|s@Ngusa             |e
+\end 162
+
+\record animal     dabba
+\al 206
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |k
+\r   |                    |
+\r  a|dO kE--             |c
+\r  a|do ke--             |r
+\r  a|du kija             |a
+\r  a|doike--             |io
+\r   |                    |
+\r  b|mwOg                |s
+\r  b|m Og                |h
+\r   |                    |
+\r  c|kula                |ue
+\end 163
+
+\record fat (animal)  kitse
+\al 33
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|n Ebi               |crk
+\r  a|n Ibi               |s
+\r  a|no pi               |i
+\r  a|noip                |o
+\r   |                    |
+\r  b|bjabu               |h
+\r   |                    |
+\r  c|ja?a                |uae
+\end 164
+
+\record horn     Kaho
+\al 149
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|O~hI~               |c
+\r  a|o~hE~               |r
+\r  a|O~ i~               |k
+\r   |                    |
+\r  b|njEgu               |s
+\r  b|njOgu               |h
+\r  b|n Eku               |i
+\r  b|n Egu               |o
+\r   |                    |
+\r  c|lamba               |ua
+\r  c|lambO~              |e
+\end 165
+
+\record tail     bundi
+\al 157
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tw@ri               |c
+\r  a|twoji               |r
+\r  a|toiri               |k
+\r   |                    |
+\r  b|?En                 |s
+\r  b|?Ena                |h
+\r   |                    |
+\r  c|?iza                |uae
+\r   |                    |
+\r  d|rum@                |i
+\r  d|rum                 |o
+\end 166
+
+\record cow     sa
+\al 180
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|na                  |cshuae
+\r  a|n                   |r
+\r  a|no                  |k
+\r  a|nak                 |io
+\end 167
+
+\record chicken     kaza
+\al 39
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|a rOma              |c
+\r  a|A rom               |r
+\r  a|a rOm               |k
+\r  a|a~rOm               |s
+\r  a|a r@m               |h
+\r  a|--romi              |i
+\r  a|--rom               |o
+\r   |                    |
+\r  b|kuto--              |u
+\r  b|kutowu              |a
+\r  b|kutO--              |e
+\end 168
+
+\record guinea fowl*  zabo
+\al 196
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|ri gwa              |c
+\r  a|jE gwa              |r
+\r  a|rjagu               |ks
+\r  a| E gu               |io
+\r   |                    |
+\r  b|pi a                |ue
+\r  b|pija                |a
+\end 169
+
+\record egg     Kwai
+\al 49
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ENge                |c
+\r  a|aNg                 |r
+\r  a|ENg                 |k
+\r  a|E gi                |s
+\r  a|E k                 |h
+\r  a|a ki                |i
+\r  a|e ki                |o
+\r   |                    |
+\r  b|k o                 |u
+\r  b|kwoo~               |a
+\r  b|k o ~               |e
+\end 170
+
+\record dog     kare
+\al 24
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|a  wa               |ce
+\r  a|au w                |r
+\r  a|au wa               |k
+\r  a|au --               |sh
+\r  a|a ~wa               |u
+\r  a|a  waa              |a
+\r  a|a  wu               |io
+\end 171
+
+\record bark (v)   haushi/"
+\al 142
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gwasu               |c
+\r  a|gwOs                |rko
+\r  a|gwoS                |s
+\r  a|g Os                |h
+\r  a|gw@s                |i
+\r  a| w@si               |ue
+\r  a| wOsi               |a
+\end 172
+
+\record sheep*        tunKiya
+\al 160
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|t@m@                |c
+\r  a|t@ma                |r
+\r  a|t@mu                |k
+\r  a|tEmi                |s
+\r   |                    |
+\r  b|tSo?o               |u
+\r  b|tSo o               |a
+\r  b|tS@?O               |e
+\r   |                    |
+\r  c|tSi                 |i
+\r  c|tSiNk               |o
+\end 173
+
+\record goat     akuya
+\al 154
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|E ~                 |cs
+\r  a|E n                 |r
+\r  a|EE~                 |k
+\r   |                    |
+\r  b|a~i                 |h
+\r   |                    |
+\r  c|vEEtE               |u
+\r  c|vo tu               |ae
+\r   |                    |
+\r  d|rar@                |i
+\r  d|rar                 |o
+\end 174
+
+\record mosquito     sauro
+\al 36
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |h
+\r   |                    |
+\r  a|wa                  |crk
+\r  a|ja~                 |s
+\r  a|w                   |i
+\r  a|i ~                 |o
+\r   |                    |
+\r  b|sIpiju              |ua
+\r  b|s@piju              |e
+\end 175
+
+\record louse     KwarKwata
+\al 31
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |shuae
+\r   |                    |
+\r  a|rag Eta             |c
+\r  a|rAg Et              |k
+\r  a|rEgwEt              |i
+\r  a|rag Et              |o
+\r   |                    |
+\r  b|jei                 |r
+\end 176
+
+\record spider*      gizo
+\al 224
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |uae
+\r   |                    |
+\r  a|na ta---            |ck
+\r  a|na t ---            |r
+\r  a|na~t ---            |i
+\r  a|na tanat            |o
+\r   |                    |
+\r  b|kaa~t               |s
+\r  b|kaa t               |h
+\end 177
+
+\record buffalo*     Bauna
+\al 16
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r  0|--Hausa loan        |ua
+\r   |                    |
+\r  a|hE tSi              |c
+\r  a|hI tS               |r
+\r  a|hE tS               |k
+\r  a|ha  S               |s
+\r  a|heItS               |o
+\r   |                    |
+\r  b|supo                |e
+\end 178
+
+\record elephant     giwa
+\al 130
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |crkshuaeio
+\end 179
+
+\record crocodile*   kada
+\al 71
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing item      |hi
+\r   |                    |
+\r  a|b@                  |cr
+\r  a|b                   |k
+\r  a|bau                 |o
+\r   |                    |
+\r  b|u~S                 |s
+\r   |                    |
+\r  c|jupu                |ue
+\r  c|jIpu                |a
+\end 180
+
+\record fish     kifi
+\al 46
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|rI g                |ck
+\r  a|rE g                |h
+\r  a|jENg                |r
+\r   |                    |
+\r  b|?jo?jo --           |ua
+\r  b|?jO?jO --           |e
+\r  b|kja ja --           |i
+\r  b|kjekjEm--           |o
+\r  b|---kjambu           |s
+\end 181
+
+\record swim (v)     iyo/"
+\al 166
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hEna                |c
+\r  a|hEn                 |r
+\r  a|hEnu                |k
+\r   |                    |
+\r  b|jag                 |sh
+\r  b| ag                 |o
+\r   |                    |
+\r  c|dEsI                |u
+\r  c|dosu                |a
+\r  c|doso                |e
+\r   |                    |
+\r  d|Saki?o              |i
+\end 182
+
+\record bird     tsuntsu
+\al 80
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|nwOnu               |i
+\r  a|n ono               |c
+\r  a|n on                |r
+\r  a|n On                |k
+\r  a|nuun                |s
+\r  a| wanu               |h
+\r  a|n u~                |u
+\r  a|nuu                 |a
+\r  a|n u                 |e
+\r  a|nOOn                |o
+\end 183
+
+\record wing     fiffike
+\al 34
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ka                  |c
+\r  a|k                   |k
+\r   |                    |
+\r  b|p@p@s               |r
+\r   |                    |
+\r  c|gamb                |s
+\r  c|g@mpu               |i
+\r  c|g@m--               |o
+\r   |                    |
+\r  d|babu                |h
+\r   |                    |
+\r  e|vElu                |uae
+\end 184
+
+\record feather     gashi (x)
+\al 207
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|t@mba               |c
+\r  a|tomb                |r
+\r  a|tOmbu               |k
+\r   |                    |
+\r  b|?jEndZ-             |s
+\r  b|?jendZ-             |h
+\r  b|kjEn--E             |i
+\r  b|kjan--              |o
+\r   |                    |
+\r  c|si ?i               |u
+\r  c|si~?i~              |ae
+\end 185
+
+\record fly (v)   shawagi/" (x)
+\al 94
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |o
+\r   |                    |
+\r  a|jahi~ja~            |c
+\r   |                    |
+\r  b|jaNg--              |r
+\r  b|jOm-bu              |k
+\r  b|hON --              |s
+\r  b|hum-bi              |i
+\r   |                    |
+\r  c|rINku------         |h
+\r  c|ruNgwE-----         |u
+\r  c|ruNgO-ruNgo         |a
+\r  c|ruNgwo-----         |e
+\end 186
+
+\record snake     maciji
+\al 56
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hOhwa               |c
+\r  a|--h O               |rk
+\r  a|--hwa               |s
+\r  a|--hwO               |h
+\r   |                    |
+\r  b|voo                 |u
+\r   |                    |
+\r  c|buNgu               |ae
+\r   |                    |
+\r  d|kaK                 |i
+\r  d|kak                 |o
+\end 187
+
+\record tortoise     kunkuru
+\al 118
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|?uru                |ckh
+\r  a| uru                |rs
+\r  a|kulu                |uae
+\r  a|kuru                |i
+\r  a|ku--                |o
+\end 188
+
+\record arrow*       Kibiya
+\al 20
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing           |h
+\r   |                    |
+\r  a|kjEra               |i
+\r  a|kjar                |o
+\r  a| i ra               |c
+\r  a|? Er                |rs
+\r  a|  Era               |k
+\r   |                    |
+\r  b|h a?a               |u
+\r  b|hja a               |a
+\r  b|hja?a               |e
+\end 189
+
+\record spear     mashi
+\al 177
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--Hausa loan        |crkso
+\r   |                    |
+\r  a|gwaba               |h
+\r   |                    |
+\r  b|saju                |uae
+\r   |                    |
+\r  c|dak                 |i
+\end 190
+
+\record throw (v)     jefa/"
+\al 121
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|?Ogam               |c
+\r  a| Og@m               |k
+\r   |                    |
+\r  b|hugun               |r
+\r   |                    |
+\r  c|mata                |s
+\r   |                    |
+\r  d|bO?                 |h
+\r   |                    |
+\r  e|kuDa                |ua
+\r   |                    |
+\r  f|vaju                |e
+\r   |                    |
+\r  g|usagu               |i
+\r   |                    |
+\r  h|n@s                 |o
+\end 191
+
+\record knife     wuKa
+\al 58
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|p upo               |c
+\r  a|p Op                |k
+\r  a|pwOpu               |s
+\r  a|p Opu               |h
+\r   |                    |
+\r  b|Amp                 |r
+\r   |                    |
+\r  c|kantu               |uae
+\r   |                    |
+\r  d|fak                 |i
+\r  d|pak                 |o
+\end 192
+
+\record kill (v)    kashe/"
+\al 218
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|h Onam              |c
+\r  a|hwOn--              |rs
+\r  a|hwan--              |k
+\r  a|hwana               |h
+\r  a|h ona               |u
+\r  a|h una               |ae
+\r  a| OOn--              |i
+\r  a|? On--              |o
+\end 193
+
+\record skin     fata
+\al 1
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|t@k                 |crksho
+\r  a|t@K                 |i
+\r   |                    |
+\r  b|kwa                 |u
+\r  b|kwaa                |a
+\r  b|kwa ~               |e
+\end 194
+
+\record head     kai
+\al 77
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|h i                 |c
+\r  a|hwi                 |r
+\r  a|hwii                |k
+\r   |                    |
+\r  b|jatu                |s
+\r   |                    |
+\r  c|t                   |h
+\r  c|tS                  |o
+\r  c|tSi                 |i
+\r   |                    |
+\r  d|ti ~                |ue
+\r  d|tii                 |a
+\end 195
+
+\record hair     gashi
+\al 109
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hIndZa-             |c
+\r  a|hIndZ -             |rsh
+\r  a|hInd  -             |k
+\r  a|siNg--i             |u
+\r  a|sINg--i             |ae
+\r  a| indZ -             |io
+\end 196
+
+\record face*    fuska
+\al 99
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing           |h
+\r  0|--Hausa loan        |u
+\r   |                    |
+\r  a|nu                  |crks
+\r   |                    |
+\r  b|tSii~               |a
+\r  b| SiO~               |o
+\r   |                    |
+\r  c|w@si                |e
+\r   |                    |
+\r  d|S@r                 |i
+\end 197
+
+\record ear     kunne
+\al 79
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|t O mbi             |cr
+\r  a|t O mbii            |k
+\r  a|t O  bi             |s
+\r  a|t u@ bi             |h
+\r  a|t  i vi             |ue
+\r  a|t  I vi             |a
+\r  a|tsw@ bi             |i
+\r  a|t oi bi             |o
+\end 198
+
+\record eye     ido
+\al 197
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hees                |h
+\r  a|  iS@               |c
+\r  a| iiS                |rk
+\r  a| IIS                |s
+\r  a| jIsi               |u
+\r  a| wusi               |a
+\r  a|  osi               |e
+\r  a| wuS                |i
+\r  a| juS                |o
+\end 199
+
+\record nose     hanci
+\al 42
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|E no                |c
+\r  a|EEm                 |r
+\r  a|EEno                |k
+\r   |                    |
+\r  b|OOn                 |s
+\r  b|wanu                |h
+\r   |                    |
+\r  c|hu ~                |ue
+\r  c|hoo~                |a
+\r   |                    |
+\r  d|j onu               |i
+\r  d|jOon                |o
+\end 200
+
+\record lip*     leBo
+\al 214
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing           |hai
+\r  0|--Hausa loan        |u
+\r   |                    |
+\r  a|rumbo               |c
+\r  a|r@mbO               |r
+\r  a|rOmbO               |k
+\r  a|dOmbu               |s
+\r   |                    |
+\r  b|gudu                |e
+\r   |                    |
+\r  c|mOs                 |o
+\end 201
+
+\record mouth     baki
+\al 41
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|nu                  |ckshio
+\r  a|n                   |r
+\r  a|noo~                |a
+\r  a|noo                 |e
+\r   |                    |
+\r  b|nI                  |u
+\end 202
+
+\record tongue     harshe
+\al 204
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ri                  |shi
+\r  a|rI?I                |u
+\r  a|rE E                |a
+\r  a|re?e                |e
+\r   |                    |
+\r  b|i~                  |ro
+\r   |                    |
+\r  c|an                  |k
+\r   |                    |
+\r  d|ra                  |c
+\end 203
+
+\record tooth     haKori
+\al 188
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ine                 |c
+\r  a|in                  |r
+\r  a|In                  |k
+\r   |                    |
+\r  b|EEr                 |s
+\r  b|jEla                |h
+\r  b|jEr                 |i
+\r  b|jar                 |o
+\r   |                    |
+\r  c|Nga                 |uae
+\end 204
+
+\record neck     wuya
+\al 153
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|ragu                |c
+\r  a|jagu                |r
+\r  a|rAgu                |k
+\r   |                    |
+\r  b|gwOpu               |s
+\r   |                    |
+\r  c|tSwaru              |h
+\r  c|tswOru              |i
+\r   |                    |
+\r  d|tSillu              |u
+\r  d|tSIllu              |e
+\r  d|tSIl u              |a
+\r   |                    |
+\r  e|tog                 |o
+\end 205
+
+\record hand         hannu
+\al 189
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|wO --               |ck
+\r  a|ow --               |r
+\r  a|wa --               |sh
+\r  a|wO ku               |i
+\r  a|wOOp                |o
+\r   |                    |
+\r  b|tSi E               |u
+\r  b|tSe e               |a
+\r  b|tSije               |e
+\end 206
+
+\record finger*    yatsa
+\al 208
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|b obwa              |c
+\r  a|b ob                |r
+\r  a|b Ob                |k
+\r  a|bwab                |shi
+\r  a|bwOb                |o
+\r   |                    |
+\r  b|zuvu                |ue
+\r  b|zufu                |a
+\end 207
+
+\record fingernail     akaifa
+\al 15
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|s O ri--            |c
+\r  a|swOiri--            |r
+\r  a|s Oiri--            |k
+\r  a|s u ri--            |s
+\r  a|swa ri--            |h
+\r  a|sw E--j@            |i
+\r  a|s oi----            |o
+\r   |                    |
+\r  b|kantSEri            |ua
+\r  b|kantSiri            |e
+\end 208
+
+\record palm(of hand)* tafi (x)
+\al 119
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing           |hi
+\r   |                    |
+\r  a|tara                |c
+\r  a|tar                 |k
+\r   |                    |
+\r  b|tSe~ja              |r
+\r   |                    |
+\r  c|taka                |s
+\r   |                    |
+\r  d|t@d@                |u
+\r  d|t@da                |ae
+\r   |                    |
+\r  e|nEg                 |o
+\end 209
+
+\record breast     nono
+\al 122
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|sub                 |cshio
+\r  a|sup                 |rk
+\r   |                    |
+\r  b|se   a              |u
+\r  b|si~ ja              |a
+\r  b|si~?ja              |e
+\end 210
+
+\record heart     zuciya
+\al 217
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|iiru                |c
+\r  a|i ru                |rk
+\r  a|jitu                |i
+\r   |                    |
+\r  b|k Ok                |s
+\r  b|kwOku               |h
+\r   |                    |
+\r  c|Du                  |u
+\r  c|duu                 |a
+\r  c|Du ~                |e
+\r   |                    |
+\r  d|sOk                 |o
+\end 211
+
+\record belly     ciki
+\al 156
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|tSaNga              |c
+\r  a|tS@Ngu              |r
+\r  a|tSENgu              |k
+\r   |                    |
+\r  b|k@b                 |sh
+\r   |                    |
+\r  c|timE                |u
+\r  c|tumo                |ae
+\r   |                    |
+\r  d|Siwu                |i
+\r  d|Si u                |o
+\end 212
+
+\record intestine     hanji
+\al 98
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|SImbu               |c
+\r  a|Simbu               |r
+\r  a|SImbuu              |k
+\r  a|SI bu               |s
+\r  a|su bu               |h
+\r   |                    |
+\r  b|k@t@me              |u
+\r  b|kotumo              |a
+\r   |                    |
+\r  c|tSIntSu             |e
+\r   |                    |
+\r  d|ru r                |i
+\r  d|ruu                 |o
+\end 213
+
+\record liver     hanta
+\al 158
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--excluded          |e
+\r   |                    |
+\r  a|b @ Za              |c
+\r  a|b o sEn             |r
+\r  a|bwOdZe              |k
+\r  a|b O S--             |i
+\r  a|b O Z--             |o
+\r   |                    |
+\r  b|sOb                 |sh
+\r   |                    |
+\r  c|piri                |ua
+\end 214
+
+\record navel     cibi
+\al 205
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|  Obu               |c
+\r  a| wobu               |r
+\r  a|  obu               |k
+\r  a|  Ob                |s
+\r  a|?wObu               |h
+\r  a|kw@bu               |i
+\r  a|kw@b                |o
+\r   |                    |
+\r  b|hi~vi               |u
+\r  b|ji vi               |a
+\r   |                    |
+\r  c|rigidO              |e
+\end 215
+
+\record leg     Kafa
+\al 97
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|bw@na               |c
+\r  a|bwOn                |rh
+\r  a|bwOni               |k
+\r  a|vwOn                |s
+\r  a|bw@n                |i
+\r  a|b @n                |o
+\r   |                    |
+\r  b|na                  |ue
+\r  b|naa                 |a
+\end 216
+
+\record heel*        duduge
+\al 10
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing           |hki
+\r   |                    |
+\r  a|kutaku              |c
+\r  a|kut@g               |r
+\r  a|kut@ku              |s
+\r   |                    |
+\r  b|tSibi               |u
+\r  b|tSIvo               |a
+\r   |                    |
+\r  c|pitatu              |e
+\r   |                    |
+\r  d|kant                |o
+\end 217
+
+\record knee     gwiwa
+\al 192
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gur@Ngu             |cr
+\r  a|g@r@N--             |k
+\r   |                    |
+\r  b|?u                  |s
+\r   |                    |
+\r  c|kwut@k              |h
+\r   |                    |
+\r  d|lu ?                |u
+\r  d|luu                 |a
+\r  d|lu                  |e
+\r   |                    |
+\r  e|kunu                |i
+\r  e|ku~                 |o
+\end 218
+
+\record buttocks     Duwawu
+\al 11
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|?Os                 |c
+\r  a|?os                 |rk
+\r   |                    |
+\r  b|ta u                |s
+\r  b|tO                  |h
+\r  b|taku                |io
+\r   |                    |
+\r  c|gutu                |uae
+\end 219
+
+\record swell (v)     kumburi/"
+\al 182
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing           |i
+\r   |                    |
+\r  a|Si a~u~             |c
+\r  a|Siian--             |r
+\r  a|SE --o              |k
+\r   |                    |
+\r  b|SEt                 |so
+\r   |                    |
+\r  c|tSupu~              |h
+\r   |                    |
+\r  d|sita                |uae
+\end 220
+
+\record blood     jini
+\al 226
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|hj@ ---             |c
+\r  a|h i ---             |r
+\r  a|  i ---             |kh
+\r  a| ji ---             |s
+\r  a|h i~?i~             |ue
+\r  a|hii ---             |a
+\r  a|  i~---             |io
+\end 221
+
+\record bone     Kashi
+\al 143
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a| up@~               |c
+\r  a|?up                 |r
+\r  a| up                 |ksh
+\r  a|kuP                 |i
+\r  a|kup                 |o
+\r   |                    |
+\r  b|tErE                |u
+\r  b|t@re                |a
+\r  b|tEre                |e
+\end 222
+
+\record urine     fitsari
+\al 117
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|rINga               |c
+\r  a| INk                |r
+\r  a|rINg@               |k
+\r   |                    |
+\r  b|nug                 |s
+\r  b|nugu                |h
+\r   |                    |
+\r  c|silEnE              |u
+\r  c|sulInoo             |a
+\r  c|sIlEno              |e
+\r   |                    |
+\r  d|tSuk                |i
+\r  d|tSEg                |o
+\end 223
+
+\record spit (v)     tudda/"
+\al 19
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|p@Ngi--             |c
+\r  a|p@Ng --             |r
+\r  a|p@N--@m             |k
+\r  a|p@Ngu--             |s
+\r   |                    |
+\r  b|tumbi--             |h
+\r  b|tu b-@N             |i
+\r   |                    |
+\r  c|tuNgwI              |u
+\r  c|tuNgo               |ae
+\r   |                    |
+\r  d|Sii~k               |o
+\end 224
+
+\record vomit (v)     amai/"
+\al 91
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gw@-------          |c
+\r  a|g u-------          |rk
+\r  a|g O-------          |sh
+\r  a| wowi-----          |u
+\r  a| wow@lu---          |a
+\r  a| wOwu-----          |e
+\r  a|gwa  -----          |i
+\r  a|gw@----kag          |o
+\end 225
+
+\record blow (v)     hurawa/"ra
+\al 222
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  0|--missing           |i
+\r  0|--Hausa loan        |h
+\r   |                    |
+\r  a|hur p@n--           |cr
+\r  a|hur p@n@m           |k
+\r  a|hur f@nu            |s
+\r  a| @r@p@n--           |o
+\r   |                    |
+\r  b|hulEnu              |u
+\r  b|hulo--              |ae
+\end 226
+
+\record cough(v)     tari/"
+\al 57
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|?ub                 |cr
+\r  a|?ubu                |k
+\r   |                    |
+\r  b|?wai  Et            |h
+\r  b|?w----Etu           |s
+\r  b|kwa rgEt            |i
+\r  b|kwai gEt            |o
+\r   |                    |
+\r  c|tSErE               |u
+\r  c|tSEre               |ae
+\end 227
+
+\record scratch (v)     sosa/"
+\al 74
+\cm 1|12345678901234567890|1234567890123456789012345
+\r  a|gwapa--             |c
+\r  a|gwap --             |rshi
+\r  a|gwOp --             |k
+\r  a|gw@faig             |o
+\r   |                    |
+\r  b|havi--              |ue
+\r  b|havila              |a
+\end 228
+

@@ -1,0 +1,53 @@
+\id  kamclstr.cat
+\cm WORDSURV CATALOG
+
+\symbol a
+\title  KAKIHUM
+\reliab 4
+\end
+
+\symbol c
+\title  CINDA
+\reliab 3
+\end
+
+\symbol e
+\title  KARISEN
+\reliab 4
+\end
+
+\symbol h
+\title  HUNGWORO
+\reliab 4
+\end
+
+\symbol i
+\title  RANDEGGI
+\reliab 4
+\end
+
+\symbol k
+\title  KUKI
+\reliab 4
+\end
+
+\symbol o
+\title  BOBI
+\reliab 3
+\end
+
+\symbol r
+\title  REGI
+\reliab 3
+\end
+
+\symbol s
+\title  SHAMA
+\reliab 3
+\end
+
+\symbol u
+\title  KUMBASHI
+\reliab 3
+\end
+

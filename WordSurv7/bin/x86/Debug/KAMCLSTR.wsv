@@ -1,0 +1,4916 @@
+﻿Start Dictionary
+	Name=New Dictionary 1
+	Start Glosses
+		sky        sama||||
+		sun        rana||||
+		cloud      girgije||||
+		wind       iska||||
+		moon       wata||||
+		star       tauraro||||
+		ground     Kasa||||
+		metal      Karfe||||
+		rock       dutse||||
+		hill/mtn.  tsauni||||
+		cave*        kogo||||
+		pit*         rami||||
+		dust       Kura||||
+		sand       yashi||||
+		fire       wuta||||
+		burn (v)   Konewa/Kuna||||
+		firewood   icen wuta (x)||||
+		axe*         gatari||||
+		split (v)  faskare/"||||
+		ash (hot)  toka  (x)||||
+		smoke      hayaKi||||
+		water      ruwa||||
+		well*(n)     rijiya||||
+		drink (v)  sha/"||||
+		pour (v)   zubawa/zuba||||
+		rain       ruwan sama||||
+		dew        raBa||||
+		river      kogi||||
+		God*       Allah||||
+		person     mutum||||
+		man        namiji||||
+		husband    miji||||
+		father*    baba||||
+		woman      mace||||
+		wife       mata||||
+		mother*      mama||||
+		grandfather   kaka||||
+		child      Da||||
+		chief*       sarki||||
+		stranger*    baKo||||
+		name       suna||||
+		one        Daya||||
+		two        biyu||||
+		three      uku||||
+		four       huDu||||
+		five       biyar||||
+		six        shida||||
+		seven      bakwai||||
+		eight      takwas||||
+		nine       tara||||
+		ten        goma||||
+		twenty*      ashirin||||
+		hundred*     Dari||||
+		many       yawa||||
+		all        duka||||
+		speak (v)  magana/"||||
+		count (v)  Kirga/"||||
+		know (v)   sani/"||||
+		bean*        waki||||
+		groundnut*   gyada||||
+		guinea corn* dawa||||
+		rice*        shinkafa||||
+		salt       gishiri||||
+		pepper(red)* tankwa||||
+		die (v)    mutuwa/mutu||||
+		corpse*      gawa||||
+		bury (v)   bizne/"||||
+		marry (v)  yi aure/aure||||
+		give birth (v)  haifuwa/"||||
+		sickness*     ciwo||||
+		cry*(v)       kuka||||
+		fear (v)   jin tsoro/ts||||
+		laugh (v)  dariya/"||||
+		see (v)    gani/"||||
+		show (v)   nunawa/nuni||||
+		smell (v)  wuri/"||||
+		hear (v)   ji/"||||
+		hunger     yunwa||||
+		eat (v)    ci/"||||
+		bite (v)   cizo/"||||
+		porridge   tuwo||||
+		sauce      miya||||
+		mortar*       turmi||||
+		pestle*       tabarya||||
+		pot(cooking) tukunya||||
+		milk       nono||||
+		suck (v)   sha/" (x)||||
+		black      baki||||
+		white      fari||||
+		red        ja||||
+		walk (v)   tafiya/"||||
+		leave (v)  bari/"||||
+		come (v)   zuwa/zo||||
+		follow*(v)    biyowa||||
+		stand up(v) tashi/"||||
+		sit down(v) zama/"||||
+		lie down (v)   kwanta**||||
+		jump*(v)      tsalle||||
+		fall (v)    faDuwa/"||||
+		break*(v)     pasawa||||
+		pull (v)    ja/"||||
+		push (v)    turawa/turi||||
+		squeeze (v) matsewa/"tsa||||
+		wash (e.g.pot) wanki**||||
+		wash(clothes) wanki||||
+		send (v)     aikeya/aike||||
+		farm*(n)      gona||||
+		cultivate (v)     noma/"||||
+		harvest*(n)    girbe||||
+		sleep (v)     kwana/"||||
+		want (v)     so/"||||
+		give(v)     bayarwa/"yar||||
+		steal (v)     sata/"||||
+		house/hut   Daki||||
+		compound*      gida||||
+		stool-cook's   kujera (x)||||
+		village     Kauye||||
+		town*       gari||||
+		path         hanya||||
+		rope     igiya||||
+		tie (v)     Daurewa||||
+		broom*      tsintsiya||||
+		sweep*(v)   sharewa||||
+		who     wa||||
+		what     me||||
+		why     dom me||||
+		night     dare||||
+		morning*    safe||||
+		afternoon*  darana||||
+		evening       yamma||||
+		year          shekara||||
+		rainy season   damana||||
+		dry season*   rani||||
+		play (v)     wasa/"||||
+		dance        rawa||||
+		drum         ganga||||
+		sing (v)     waKa/"||||
+		whistle (v)     shewa/"||||
+		war     yaKi||||
+		hit (v)     bugu/"||||
+		tree     ice||||
+		bark-on tree     Bawa (x)||||
+		branch*      reshe||||
+		flower*      fure||||
+		leaf     ganye||||
+		seed        iri**||||
+		root     saye||||
+		round     kewaye||||
+		hot     zafi||||
+		cold     dari||||
+		dry (adj.)  a bushe**||||
+		dark*       duhu||||
+		new     sabo||||
+		good     kyau||||
+		evil*       mugu||||
+		big*        babba||||
+		tall-trees     tsawo (x)||||
+		long-rope     dogo (x)||||
+		small     Karami||||
+		short     guntu||||
+		sharp(edge)*  kaifi||||
+		full     cika||||
+		animal     dabba||||
+		fat (animal)  kitse||||
+		horn     Kaho||||
+		tail     bundi||||
+		cow     sa||||
+		chicken     kaza||||
+		guinea fowl*  zabo||||
+		egg     Kwai||||
+		dog     kare||||
+		bark (v)   haushi/"||||
+		sheep*        tunKiya||||
+		goat     akuya||||
+		mosquito     sauro||||
+		louse     KwarKwata||||
+		spider*      gizo||||
+		buffalo*     Bauna||||
+		elephant     giwa||||
+		crocodile*   kada||||
+		fish     kifi||||
+		swim (v)     iyo/"||||
+		bird     tsuntsu||||
+		wing     fiffike||||
+		feather     gashi (x)||||
+		fly (v)   shawagi/" (x)||||
+		snake     maciji||||
+		tortoise     kunkuru||||
+		arrow*       Kibiya||||
+		spear     mashi||||
+		throw (v)     jefa/"||||
+		knife     wuKa||||
+		kill (v)    kashe/"||||
+		skin     fata||||
+		head     kai||||
+		hair     gashi||||
+		face*    fuska||||
+		ear     kunne||||
+		eye     ido||||
+		nose     hanci||||
+		lip*     leBo||||
+		mouth     baki||||
+		tongue     harshe||||
+		tooth     haKori||||
+		neck     wuya||||
+		hand         hannu||||
+		finger*    yatsa||||
+		fingernail     akaifa||||
+		palm(of hand)* tafi (x)||||
+		breast     nono||||
+		heart     zuciya||||
+		belly     ciki||||
+		intestine     hanji||||
+		liver     hanta||||
+		navel     cibi||||
+		leg     Kafa||||
+		heel*        duduge||||
+		knee     gwiwa||||
+		buttocks     Duwawu||||
+		swell (v)     kumburi/"||||
+		blood     jini||||
+		bone     Kashi||||
+		urine     fitsari||||
+		spit (v)     tudda/"||||
+		vomit (v)     amai/"||||
+		blow (v)     hurawa/"ra||||
+		cough(v)     tari/"||||
+		scratch (v)     sosa/"||||
+	End Glosses
+	Start Sorts
+		Import Sort Order|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|100|101|102|103|104|105|106|107|108|109|110|111|112|113|114|115|116|117|118|119|120|121|122|123|124|125|126|127|128|129|130|131|132|133|134|135|136|137|138|139|140|141|142|143|144|145|146|147|148|149|150|151|152|153|154|155|156|157|158|159|160|161|162|163|164|165|166|167|168|169|170|171|172|173|174|175|176|177|178|179|180|181|182|183|184|185|186|187|188|189|190|191|192|193|194|195|196|197|198|199|200|201|202|203|204|205|206|207|208|209|210|211|212|213|214|215|216|217|218|219|220|221|222|223|224|225|226|227
+	End Sorts
+	Current Sort=0
+	Current Gloss=0
+	Current Gloss Column Index=0
+End Dictionary
+Start Survey
+	Associated Dictionary=0
+	Name=Survey1
+	Start Varieties
+		Start Variety
+			Associated Dictionary=0
+			Name = KAKIHUM
+			Start Transcriptions
+				0|0|ga[x0]u||
+				1|1|lɘnd[x1]i||
+				2|2|ẘ t[x2]i||
+				3|3|pɘpi||
+				4|4|wo tɵ||
+				5|5|t ɘt ɘ?uri||
+				6|6|[x0]aa||
+				7|7|jumu||
+				8|8|tari||
+				9|9|kũ||
+				10|10|p̊ta||
+				11|11|t[x2]i||
+				12|12|̞ʜausa loan||
+				13|13|jũ ũ||
+				14|14|laa||
+				15|15|kul̊||
+				16|16|̞excluded item||
+				17|17|̙ʙɵw||
+				18|18|pɘte||
+				19|19|koma||
+				20|20|t[x2]u wo||
+				21|21|m̊ ni||
+				22|22|̞ʜausa loan||
+				23|23|̠s  e||
+				24|24|tũũ||
+				25|25|̞excluded item||
+				26|26|?iza||
+				27|27|hoju||
+				28|28|kuɴgwa||
+				29|29|za||
+				30|30|vaari||
+				31|31|̞excluded||
+				32|32|dada||
+				33|33|ka||
+				34|34|̞excluded||
+				35|35|ono||
+				36|36|aki||
+				37|37|mõ||
+				38|38|womo||
+				39|39|mɵt[x2]i||
+				40|40|jula||
+				41|41|to||
+				42|42|japu||
+				43|43|ta?atu||
+				44|44|n̊ s i||
+				45|45|ta  õ||
+				46|46|t̊ri hi||
+				47|47|tIndaja||
+				48|48|rilo||
+				49|49|tIIti||
+				50|50|k upa||
+				51|51|̞excluded||
+				52|52|manda||
+				53|53|pɘlu||
+				54|54|v̊si||
+				55|55|h ã?ã||
+				56|56|t[x2]ɘte||
+				57|57|̠na pa||
+				58|58|ja̜||
+				59|59|gwino̜||
+				60|60|dã?ũ||
+				61|61|beje||
+				62|62|kwomo||
+				63|63|t ̊si||
+				64|64|kwo||
+				65|65|kwe||
+				66|66|d[x1]Idɵnu||
+				67|67|t̊ni||
+				68|68|mat a||
+				69|69|b̊t[x2]i||
+				70|70|misi||
+				71|71|wɵvõ||
+				72|72|z oso||
+				73|73|Inda||
+				74|74|?ɘ sɘ  nu||
+				75|75|suũ||
+				76|76|uwa||
+				77|77|lu||
+				78|78|ra||
+				79|79|numa̞||
+				80|80|taa||
+				81|81|sa?a||
+				82|82|d̊vu||
+				83|83|sii||
+				84|84|tilu||
+				85|85|seja||
+				86|86|s̊vo||
+				87|87|rumo||
+				88|88|?ujo||
+				89|89|si lla||
+				90|90|ha lu̞||
+				91|91|naha̞||
+				92|92|aja||
+				93|93|d̊n u||
+				94|94|?uɴgwɵ||
+				95|95|d̊ nu||
+				96|96|wita̞||
+				97|97|t̊du o||
+				98|98|ju o||
+				99|99|piso||
+				100|100|j̊no||
+				101|101|t̊s u̞||
+				102|102|hukwɵ̞||
+				103|103|?iz̊?u||
+				104|104|̞excluded||
+				105|105|nijo vi||
+				106|106|nija||
+				107|107|nuu||
+				108|108|t[x2]a?a||
+				109|109|lɘvu||
+				110|110|ta?a||
+				111|111|t[x2]a na||
+				112|112|bowo||
+				113|113|ja||
+				114|114|a?a||
+				115|115|dontu||
+				116|116|ruweji||
+				117|117|reI||
+				118|118|jaa||
+				119|119|maɴga||
+				120|120|va?a||
+				121|121|vi su||
+				122|122|hu[x0]u||
+				123|123|jani ̞||
+				124|124|jIni||
+				125|125|sabanjini||
+				126|126|hĩ ĩ||
+				127|127|kwa ?a||
+				128|128|lɘnd[x1]i||
+				129|129|kɵrIvi||
+				130|130|sa||
+				131|131|rusi||
+				132|132|andaji||
+				133|133|laba||
+				134|134|zɘ ?ũ||
+				135|135|k ɵ to||
+				136|136|supa||
+				137|137|?ila||
+				138|138|ruma||
+				139|139|gwanta||
+				140|140|[x0]aɴga||
+				141|141|wuu||
+				142|142|vatu||
+				143|143|̞ʜausa loan||
+				144|144|sa||
+				145|145|t[x2]u ?u||
+				146|146|jaju||
+				147|147|ruɴg o||
+				148|148|si[x0]i||
+				149|149|jɘju||
+				150|150|?h ɘ?wi̙||
+				151|151|t[x2]iImbi||
+				152|152|̞ʜausa loan||
+				153|153|lIpãj||
+				154|154|wuin ̊||
+				155|155|pɘne||
+				156|156|ga ji||
+				157|157|̞excluded||
+				158|158|[x0]ene||
+				159|159|t̊gi||
+				160|160|kara||
+				161|161|suɴgw a||
+				162|162|du kija||
+				163|163|ja?a||
+				164|164|lamba||
+				165|165|?iza||
+				166|166|na||
+				167|167|kutowu||
+				168|168|pija||
+				169|169|kwoõ||
+				170|170|a  waa||
+				171|171|wɵsi||
+				172|172|t[x2]o o||
+				173|173|vo tu||
+				174|174|sIpiju||
+				175|175|̞ʜausa loan||
+				176|176|̞ʜausa loan||
+				177|177|̞ʜausa loan||
+				178|178|̞ʜausa loan||
+				179|179|jIpu||
+				180|180|?jo?jo ̞||
+				181|181|dosu||
+				182|182|nuu||
+				183|183|vɘlu||
+				184|184|sĩ?ĩ||
+				185|185|ruɴgɵ̠ruɴgo||
+				186|186|buɴgu||
+				187|187|kulu||
+				188|188|hja a||
+				189|189|saju||
+				190|190|ku[x0]a||
+				191|191|kantu||
+				192|192|h una||
+				193|193|kwaa||
+				194|194|tii||
+				195|195|sIɴg̞i||
+				196|196|t[x2]iĩ||
+				197|197|t  I vi||
+				198|198|wusi||
+				199|199|hoõ||
+				200|200|̞missing||
+				201|201|noõ||
+				202|202|rɘ ɘ||
+				203|203|ɴga||
+				204|204|t[x2]Il u||
+				205|205|t[x2]e e||
+				206|206|zufu||
+				207|207|kant[x2]ɘri||
+				208|208|t̊da||
+				209|209|sĩ ja||
+				210|210|duu||
+				211|211|tumo||
+				212|212|kotumo||
+				213|213|piri||
+				214|214|ji vi||
+				215|215|naa||
+				216|216|t[x2]Ivo||
+				217|217|luu||
+				218|218|gutu||
+				219|219|sita||
+				220|220|hii ̙||
+				221|221|t̊re||
+				222|222|sulInoo||
+				223|223|tuɴgo||
+				224|224|woẘlu̙||
+				225|225|hulo̞||
+				226|226|t[x2]ɘre||
+				227|227|havila||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety KAKIHUM
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = CINDA
+			Start Transcriptions
+				0|0|tɵndwaja||
+				1|1|õhõ||
+				2|2|ɵndwaja||
+				3|3|pjar||
+				4|4|pjana||
+				5|5|rIɴgwane||
+				6|6|iɴgɘ||
+				7|7|rɵma||
+				8|8|tarɘ||
+				9|9|[x2]ama||
+				10|10|bjar||
+				11|11|humbɘ||
+				12|12|̞ʜausa loan||
+				13|13|̞hjaga||
+				14|14|ra||
+				15|15|tuwa||
+				16|16|̞excluded item||
+				17|17|a pɵ̞||
+				18|18|bɵra||
+				19|19|mɵ t ɵ||
+				20|20|mu hj ̊̃||
+				21|21|m̊ ni||
+				22|22|ẘg̊||
+				23|23|ɘs wa||
+				24|24|[x1]jI n̙||
+				25|25|[x2]IrI||
+				26|26|t uni||
+				27|27|r ag||
+				28|28|ɵ̃hɵ̃||
+				29|29|ga||
+				30|30|t ẘ ri||
+				31|31|̊ ri||
+				32|32|bɵt[x2]i||
+				33|33|?̊?||
+				34|34|̞excluded||
+				35|35|in ɘ||
+				36|36|̞ʜausa loan||
+				37|37|j̊||
+				38|38|gwama||
+				39|39|t̞̊ham at[x2]||
+				40|40|[x1]̊||
+				41|41|ĩ ã||
+				42|42|d̊re||
+				43|43|ta  tɵ||
+				44|44|n̊ [x2] i||
+				45|45|taa||
+				46|46|tunu hĩ||
+				47|47|̞excluded||
+				48|48|̞excluded||
+				49|49|̞excluded||
+				50|50|opa||
+				51|51|̞excluded||
+				52|52|̞ʜausa loan||
+				53|53|̞ʜausa loan||
+				54|54|sabɘ||
+				55|55|hjam a||
+				56|56|rɵbo||
+				57|57|j ã||
+				58|58|geja||
+				59|59|eraba||
+				60|60|hi||
+				61|61|̞ʜausa loan||
+				62|62|ma nd[x1]e||
+				63|63|twa[x2]ɘ||
+				64|64|?ẘ||
+				65|65|?ẘ||
+				66|66|bumb̊n||
+				67|67|[x1] a,ard[x1]||
+				68|68|mat||
+				69|69|g om a||
+				70|70|ɵ to||
+				71|71|wa sa||
+				72|72|h ɘɴga̞||
+				73|73|hjɘnɘm̠||
+				74|74|̙s̊?̊n||
+				75|75|nusu||
+				76|76|hɵga||
+				77|77|[x2]Imbu||
+				78|78|ɘre||
+				79|79|t̊ n||
+				80|80|t ɘga||
+				81|81|[x2]iipa||
+				82|82|̊̃ru||
+				83|83|ɵro||
+				84|84|kwa?e||
+				85|85|sup̊||
+				86|86|susumb̞̊||
+				87|87|[x2]Iri||
+				88|88|t[x2]ɘni||
+				89|89|[x2]ɘne||
+				90|90|h̊ rugu||
+				91|91|tur ̊m||
+				92|92|gwɘ?Im||
+				93|93|aɴganɘm||
+				94|94|[x2]i gana||
+				95|95|nɘkjam||
+				96|96|r̊b t ̊m||
+				97|97|banam||
+				98|98|hinjago||
+				99|99|kumbaki||
+				100|100|̊mb̊m||
+				101|101|sɵp te||
+				102|102|pij̊m̠̊||
+				103|103|hambar̊m||
+				104|104|̞excluded||
+				105|105|t ɵmu||
+				106|106|saɴga||
+				107|107|tɵma||
+				108|108|gitum||
+				109|109|[x1]Iku||
+				110|110|k orag||
+				111|111|pa nam||
+				112|112|zumb̊m||
+				113|113|b̊n||
+				114|114|jaba||
+				115|115|rɵs||
+				116|116|undu||
+				117|117|t[x2]Ipɵ||
+				118|118|anɘni,ɵ nija||
+				119|119|uhẘ||
+				120|120|par̊n̊m̠||
+				121|121|bjɘso||
+				122|122|bjɘsago||
+				123|123|gamba||
+				124|124|̞ja ba||
+				125|125|zoma jaba||
+				126|126|g ɘta||
+				127|127|bɵɴgo||
+				128|128|ɵ̃hɵ̃||
+				129|129|r̊ mbɘ||
+				130|130|ja||
+				131|131|[x2]i||
+				132|132|rɘho||
+				133|133|ragu||
+				134|134|h ɘbu||
+				135|135|̞ʜausa loan||
+				136|136|zɵg||
+				137|137|b ɘr||
+				138|138|gjas||
+				139|139|hwam̞||
+				140|140|?ɵ̃||
+				141|141|gugu||
+				142|142|bobo||
+				143|143|̞ʜausa loan||
+				144|144|bombowa||
+				145|145|bjɘro||
+				146|146|guɴgu||
+				147|147|rIɴg u||
+				148|148|zɵm||
+				149|149|hwɵ bi||
+				150|150|hwa? o̙||
+				151|151|tun  t[x2]i||
+				152|152|jɵpẘ||
+				153|153|õ[x1]ɘ̃||
+				154|154|wɵ||
+				155|155|ɵtɵ?ɵ||
+				156|156|gjɘso||
+				157|157|̞excluded||
+				158|158|t[x2]imu||
+				159|159|kuri||
+				160|160|tɵre||
+				161|161|[x2]Ind u||
+				162|162|dɵ kɘ̞||
+				163|163|n ɘbi||
+				164|164|ɵ̃hĨ||
+				165|165|tẘri||
+				166|166|na||
+				167|167|a rɵma||
+				168|168|ri gwa||
+				169|169|ɘɴge||
+				170|170|a  wa||
+				171|171|gwasu||
+				172|172|t̊m̊||
+				173|173|ɘ ̃||
+				174|174|wa||
+				175|175|rag ɘta||
+				176|176|na ta̙||
+				177|177|hɘ t[x2]i||
+				178|178|̞ʜausa loan||
+				179|179|b̊||
+				180|180|rI g||
+				181|181|hɘna||
+				182|182|n ono||
+				183|183|ka||
+				184|184|t̊mba||
+				185|185|jahĩjã||
+				186|186|hɵhwa||
+				187|187|?uru||
+				188|188|i ra||
+				189|189|̞ʜausa loan||
+				190|190|?ɵgam||
+				191|191|p upo||
+				192|192|h ɵnam||
+				193|193|t̊k||
+				194|194|h i||
+				195|195|hInd[x1]a̠||
+				196|196|nu||
+				197|197|t ɵ mbi||
+				198|198|i[x2]̊||
+				199|199|ɘ no||
+				200|200|rumbo||
+				201|201|nu||
+				202|202|ra||
+				203|203|ine||
+				204|204|ragu||
+				205|205|wɵ ̞||
+				206|206|b obwa||
+				207|207|s ɵ ri̞||
+				208|208|tara||
+				209|209|sub||
+				210|210|iiru||
+				211|211|t[x2]aɴga||
+				212|212|[x2]Imbu||
+				213|213|b ̊ [x1]a||
+				214|214|ɵbu||
+				215|215|bẘna||
+				216|216|kutaku||
+				217|217|gur̊ɴgu||
+				218|218|?ɵs||
+				219|219|[x2]i ãũ||
+				220|220|hj̊ ̙||
+				221|221|up̊̃||
+				222|222|rIɴga||
+				223|223|p̊ɴgi̞||
+				224|224|gẘ̜̙||
+				225|225|hur p̊n̞||
+				226|226|?ub||
+				227|227|gwapa̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety CINDA
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = KARISEN
+			Start Transcriptions
+				0|0|gɘ[x0]u||
+				1|1|lɘnd[x1]i||
+				2|2|hũt[x2]i||
+				3|3|pɘpi||
+				4|4|wo tɵ||
+				5|5|t[x2]it[x2]ɘ  rɘ||
+				6|6|bwɵ?||
+				7|7|jumu||
+				8|8|tari||
+				9|9|sa||
+				10|10|pata||
+				11|11|t[x2]i||
+				12|12|̞ʜausa loan||
+				13|13|jõjũ||
+				14|14|la||
+				15|15|kulu||
+				16|16|̞excluded item||
+				17|17|̙bɵ||
+				18|18|pɘte||
+				19|19|komo||
+				20|20|t[x2]u? o||
+				21|21|m̊ ni||
+				22|22|̞ʜausa loan||
+				23|23|̠sɵ||
+				24|24|tũ||
+				25|25|̞excluded item||
+				26|26|?iza||
+				27|27|ʙa||
+				28|28|kuɴgwa||
+				29|29|za||
+				30|30|va ri||
+				31|31|̞excluded||
+				32|32|bara||
+				33|33|̞ʜausa loan||
+				34|34|ka̠v̊na i̠t̊na||
+				35|35|ono||
+				36|36|kavu||
+				37|37|mɵ||
+				38|38|wɵmɵ||
+				39|39|mɵt[x2]i||
+				40|40|hula||
+				41|41|too||
+				42|42|japu||
+				43|43|ta  tu||
+				44|44|n̊ s ĩ||
+				45|45|ta  ũ||
+				46|46|t̊ri hĩ||
+				47|47|tIndaja||
+				48|48|rilo||
+				49|49|tI ti||
+				50|50|k upa?||
+				51|51|̞excluded||
+				52|52|̞ʜausa loan||
+				53|53|pilu||
+				54|54|põ?||
+				55|55|hjã||
+				56|56|t[x2]ɘte||
+				57|57|̠la pa||
+				58|58|jakɵto||
+				59|59|g ino̜||
+				60|60|da ?õ||
+				61|61|beje||
+				62|62|kwɵmɵ||
+				63|63|tɵɵsi||
+				64|64|k o||
+				65|65|kwe||
+				66|66|t[x2]I[x0]ono||
+				67|67|?ita||
+				68|68|m̊t a||
+				69|69|?ẘt[x2]i||
+				70|70|sõõ||
+				71|71|wɵwɵ||
+				72|72|zwɵsɵ||
+				73|73|Inda||
+				74|74|?ɵ z̊  nu||
+				75|75|su n||
+				76|76|uwa||
+				77|77|lu||
+				78|78|ra||
+				79|79|numa̞||
+				80|80|ta||
+				81|81|sa?a||
+				82|82|d̊vu||
+				83|83|si ̃||
+				84|84|tIlu||
+				85|85|Ini||
+				86|86|s̊vo||
+				87|87|rumo||
+				88|88|?̊jo||
+				89|89|si l a||
+				90|90|haala̞||
+				91|91|nahasu||
+				92|92|aja||
+				93|93|d̊nno||
+				94|94|?̊ɴg o||
+				95|95|doono||
+				96|96|?itu̞||
+				97|97|t̊[x0]uwo||
+				98|98|juwo||
+				99|99|ʙ̊ta||
+				100|100|j̊no||
+				101|101|t̊sj̊no||
+				102|102|m̊[x0]ɵ||
+				103|103|?Iz̊?̊̃||
+				104|104|̞excluded||
+				105|105|niju ̞||
+				106|106|nija||
+				107|107|nu||
+				108|108|t[x2]̊?a||
+				109|109|letta||
+				110|110|ta?a||
+				111|111|t[x2]aa̞||
+				112|112|bɵ ɵ||
+				113|113|ja||
+				114|114|a?a||
+				115|115|dontu||
+				116|116|daba||
+				117|117|re||
+				118|118|ja||
+				119|119|maɴga||
+				120|120|va?a||
+				121|121|vi su||
+				122|122|hu[x0]o||
+				123|123|janɘ vi||
+				124|124|Ine||
+				125|125|sɵbIn Ine||
+				126|126|hĩ?ĩ||
+				127|127|kwã?ã||
+				128|128|lɘnd[x1]i||
+				129|129|kurivi||
+				130|130|sa||
+				131|131|rusi||
+				132|132|ande̞||
+				133|133|l̊b̊||
+				134|134|zɘ̃?ɘ̃||
+				135|135|k ɵ tɵ||
+				136|136|sipa||
+				137|137|?iru||
+				138|138|ruma||
+				139|139|vasa||
+				140|140|[x0]̊ɴga||
+				141|141|kuti||
+				142|142|ni?i||
+				143|143|̞ʜausa loan||
+				144|144|sa||
+				145|145|t[x2]ũ?ũ||
+				146|146|jaju||
+				147|147|ruɴg o||
+				148|148|sIdi||
+				149|149|jeju||
+				150|150|h e?wi̙||
+				151|151|t[x2]I mbi||
+				152|152|̞ʜausa loan||
+				153|153|lipa i||
+				154|154|̞ʜausa loan||
+				155|155|peno||
+				156|156|gãjĩ||
+				157|157|̞excluded||
+				158|158|[x0]eno||
+				159|159|t̊gi||
+				160|160|kara||
+				161|161|s̊ɴgusa||
+				162|162|kula||
+				163|163|ja?a||
+				164|164|lambɵ̃||
+				165|165|?iza||
+				166|166|na||
+				167|167|kutɵ̞||
+				168|168|pi a||
+				169|169|k o ̃||
+				170|170|a  wa||
+				171|171|ẘsi||
+				172|172|t[x2]̊?ɵ||
+				173|173|vo tu||
+				174|174|s̊piju||
+				175|175|̞ʜausa loan||
+				176|176|̞ʜausa loan||
+				177|177|supo||
+				178|178|̞ʜausa loan||
+				179|179|jupu||
+				180|180|?jɵ?jɵ ̞||
+				181|181|doso||
+				182|182|n u||
+				183|183|vɘlu||
+				184|184|sĩ?ĩ||
+				185|185|ruɴgwo̜̠||
+				186|186|buɴgu||
+				187|187|kulu||
+				188|188|hja?a||
+				189|189|saju||
+				190|190|vaju||
+				191|191|kantu||
+				192|192|h una||
+				193|193|kwa ̃||
+				194|194|ti ̃||
+				195|195|sIɴg̞i||
+				196|196|ẘsi||
+				197|197|t  i vi||
+				198|198|osi||
+				199|199|hu ̃||
+				200|200|gudu||
+				201|201|noo||
+				202|202|re?e||
+				203|203|ɴga||
+				204|204|t[x2]Illu||
+				205|205|t[x2]ije||
+				206|206|zuvu||
+				207|207|kant[x2]iri||
+				208|208|t̊da||
+				209|209|sĩ?ja||
+				210|210|[x0]u ̃||
+				211|211|tumo||
+				212|212|t[x2]Int[x2]u||
+				213|213|̞excluded||
+				214|214|rigidɵ||
+				215|215|na||
+				216|216|pitatu||
+				217|217|lu||
+				218|218|gutu||
+				219|219|sita||
+				220|220|h ĩ?ĩ||
+				221|221|tɘre||
+				222|222|sIlɘno||
+				223|223|tuɴgo||
+				224|224|wɵwu̜̠||
+				225|225|hulo̞||
+				226|226|t[x2]ɘre||
+				227|227|havi̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety KARISEN
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = HUNGWORO
+			Start Transcriptions
+				0|0|za ro||
+				1|1|hwĩs||
+				2|2|̞lana||
+				3|3|p ɘlɘ||
+				4|4|p ɘn̊||
+				5|5|gɘɴga||
+				6|6|ɘɴg||
+				7|7|rɵm||
+				8|8|tari||
+				9|9|?ɵg||
+				10|10|̞missing item||
+				11|11|̞missing item||
+				12|12|bul||
+				13|13|̞hjɘg||
+				14|14|la||
+				15|15|t[x2]ɵ||
+				16|16|̞excluded item||
+				17|17|̞missing item||
+				18|18|band||
+				19|19|mɵ t[x2]wa||
+				20|20|mu hjua||
+				21|21|mia||
+				22|22|̞missing item||
+				23|23|̠sowa||
+				24|24|d[x1]igo||
+				25|25|s̊l̊||
+				26|26|t[x2]inja||
+				27|27|ẘ||
+				28|28|̞missing item||
+				29|29|bɵt||
+				30|30|t waari||
+				31|31|aari||
+				32|32|̞missing item||
+				33|33|b̊tu ẘtwa||
+				34|34|?a||
+				35|35|̞missing item||
+				36|36|̞ʜausa loan||
+				37|37|ɵ||
+				38|38|̞missing item||
+				39|39|̞missing item||
+				40|40|zija||
+				41|41|ĩjã||
+				42|42|hɘnd[x1]ɵ||
+				43|43|ta  tɵ||
+				44|44|n̊ ssĩ||
+				45|45|ta ?||
+				46|46|tuni hIn||
+				47|47|̞excluded||
+				48|48|̞excluded||
+				49|49|̞excluded||
+				50|50|k upɘ||
+				51|51|̞missing item||
+				52|52|̞missing item||
+				53|53|pugɵ||
+				54|54|k̊m||
+				55|55|hargo||
+				56|56|rɵt ̠||
+				57|57|dɘk||
+				58|58|̞missing item||
+				59|59|̞missing item||
+				60|60|̞missing item||
+				61|61|̞missing item||
+				62|62|maand[x1]||
+				63|63|̞missing item||
+				64|64|d[x1]u||
+				65|65|?wɵ||
+				66|66|uɴb̊n||
+				67|67|t[x2]ig̊||
+				68|68|mat[x2]||
+				69|69|̞missing item||
+				70|70|̞missing item||
+				71|71|wa s||
+				72|72|sama||
+				73|73|hj̙̊̃||
+				74|74|t[x2]̊bɵ||
+				75|75|wu s||
+				76|76|hɵg||
+				77|77|m era||
+				78|78|r jo̞||
+				79|79|haku||
+				80|80|̞missing item||
+				81|81|̞missing item||
+				82|82|̞missing item||
+				83|83|̞missing item||
+				84|84|taku||
+				85|85|sup||
+				86|86|̞excluded||
+				87|87|siri||
+				88|88|t[x2]ɘni||
+				89|89|sani||
+				90|90|hanu||
+				91|91|bolu||
+				92|92|kur a||
+				93|93|̞missing item||
+				94|94|s̊ɴgɘ̙||
+				95|95|dala||
+				96|96|̞missing item||
+				97|97|̞missing item||
+				98|98|gjantu||
+				99|99|̞missing item||
+				100|100|num||
+				101|101|saboka||
+				102|102|piru̙||
+				103|103|guuz||
+				104|104|̞missing item||
+				105|105|t[x2]̊m||
+				106|106|̞missing item||
+				107|107|hɵl̊||
+				108|108|̞missing item||
+				109|109|labu||
+				110|110|gjɘmbu||
+				111|111|t a n||
+				112|112|hj̊||
+				113|113|kaba||
+				114|114|jaba||
+				115|115|dalo||
+				116|116|hil̊||
+				117|117|̞excluded||
+				118|118|jI nna||
+				119|119|rig||
+				120|120|̞missing item||
+				121|121|̞missing item||
+				122|122|̞missing item||
+				123|123|gamba||
+				124|124|zamai||
+				125|125|zamai ɘgja||
+				126|126|g ɘta||
+				127|127|̞missing item||
+				128|128|̞missing item||
+				129|129|̞missing item||
+				130|130|ja||
+				131|131|̞missing item||
+				132|132|̞missing item||
+				133|133|lagu||
+				134|134|̞missing item||
+				135|135|̞missing item||
+				136|136|zɵg||
+				137|137|horum||
+				138|138|g as||
+				139|139|sup||
+				140|140|ɵ̃?||
+				141|141|gug||
+				142|142|̞missing item||
+				143|143|̞missing item||
+				144|144|b̊mbu̞||
+				145|145|̞missing item||
+				146|146|g̊nt||
+				147|147|rIɴk u||
+				148|148|bɵmi||
+				149|149|dur||
+				150|150|h ɵ̜̞||
+				151|151|̞missing item||
+				152|152|jup||
+				153|153|gam||
+				154|154|̞missing item||
+				155|155|̞missing item||
+				156|156|z̊ɴgeru||
+				157|157|mɘri||
+				158|158|damani||
+				159|159|kot[x2]||
+				160|160|̞missing item||
+				161|161|s̊nd||
+				162|162|m ɵg||
+				163|163|bjabu||
+				164|164|njɵgu||
+				165|165|?ɘna||
+				166|166|na||
+				167|167|a r̊m||
+				168|168|̞missing item||
+				169|169|ɘ k||
+				170|170|au ̞||
+				171|171|g ɵs||
+				172|172|̞missing item||
+				173|173|ãi||
+				174|174|̞missing item||
+				175|175|̞ʜausa loan||
+				176|176|kaa t||
+				177|177|̞missing item||
+				178|178|̞ʜausa loan||
+				179|179|̞missing item||
+				180|180|rɘ g||
+				181|181|jag||
+				182|182|wanu||
+				183|183|babu||
+				184|184|?jend[x1]̠||
+				185|185|rIɴku̜̞||
+				186|186|̞hwɵ||
+				187|187|?uru||
+				188|188|̞missing||
+				189|189|gwaba||
+				190|190|bɵ?||
+				191|191|p ɵpu||
+				192|192|hwana||
+				193|193|t̊k||
+				194|194|t||
+				195|195|hInd[x1] ̠||
+				196|196|̞missing||
+				197|197|t ů bi||
+				198|198|hees||
+				199|199|wanu||
+				200|200|̞missing||
+				201|201|nu||
+				202|202|ri||
+				203|203|jɘla||
+				204|204|t[x2]waru||
+				205|205|wa ̞||
+				206|206|bwab||
+				207|207|swa ri̞||
+				208|208|̞missing||
+				209|209|sub||
+				210|210|kwɵku||
+				211|211|k̊b||
+				212|212|su bu||
+				213|213|sɵb||
+				214|214|?wɵbu||
+				215|215|bwɵn||
+				216|216|̞missing||
+				217|217|kwut̊k||
+				218|218|tɵ||
+				219|219|t[x2]upũ||
+				220|220|i ̙||
+				221|221|up||
+				222|222|nugu||
+				223|223|tumbi̞||
+				224|224|g ɵ̜̙||
+				225|225|̞ʜausa loan||
+				226|226|?wai  ɘt||
+				227|227|gwap ̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety HUNGWORO
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = RANDEGGI
+			Start Transcriptions
+				0|0|za ta||
+				1|1|wɵ wɵ||
+				2|2|̞ran||
+				3|3|p ɘrɘ||
+				4|4|waat||
+				5|5|̞zɘ g||
+				6|6|gɘ||
+				7|7|roma||
+				8|8|tarɘ||
+				9|9|[x2]am||
+				10|10|̞missing item||
+				11|11|̞missing item||
+				12|12|bu k||
+				13|13|ja j̊g||
+				14|14|ra||
+				15|15|̞missing item||
+				16|16|̞excluded item||
+				17|17|̙bu||
+				18|18|sala||
+				19|19|mo t u||
+				20|20|mu  w i||
+				21|21|m̊ ni||
+				22|22|̞missing item||
+				23|23|̞missing item||
+				24|24|r̊t̊n||
+				25|25|[x2]ira||
+				26|26|ts̊ ĩ||
+				27|27|r ag||
+				28|28|̞missing item||
+				29|29|bõãt||
+				30|30|wa ri||
+				31|31|jut||
+				32|32|̞missing item||
+				33|33|k||
+				34|34|ɵkajab||
+				35|35|̞missing item||
+				36|36|[x2]igu||
+				37|37|jok||
+				38|38|gwam||
+				39|39|̞ma[x2]ɘm ɘ [x2]||
+				40|40|zaki||
+				41|41|rii||
+				42|42|reek||
+				43|43|ta at||
+				44|44|n̊ ss||
+				45|45|ta ?||
+				46|46|t[x2]Ini||
+				47|47|tɘnd̊ri||
+				48|48|̞excluded||
+				49|49|̞excluded||
+				50|50|kwɵpɘ||
+				51|51|̞missing item||
+				52|52|̞missing item||
+				53|53|t̊nd̊||
+				54|54|sabɘ?||
+				55|55|̞missing item||
+				56|56|rɵtag||
+				57|57|̠naap||
+				58|58|ge i||
+				59|59|̞missing item||
+				60|60|ji||
+				61|61|̞missing item||
+				62|62|k̊̊k||
+				63|63|twa[x2]||
+				64|64|k||
+				65|65|uk||
+				66|66|m̊?̊m||
+				67|67|[x1] ̊ɴ||
+				68|68|gẘr||
+				69|69|gẘm||
+				70|70|t[x2]umuk||
+				71|71|k ɵre||
+				72|72|[x2] In̞tu||
+				73|73|ni n||
+				74|74|b̊ k̊n||
+				75|75|s̊m̊n̞||
+				76|76|ug||
+				77|77|m ɘru||
+				78|78|rijo̞||
+				79|79|̞missing item||
+				80|80|ts̊g̊||
+				81|81|[x2]ɘɘp||
+				82|82|nu||
+				83|83|[x2]ɘnu||
+				84|84|kwe ɘs||
+				85|85|s̊b̊||
+				86|86|̞missing item||
+				87|87|nius||
+				88|88|buru||
+				89|89|[x2]̊ni||
+				90|90|wan||
+				91|91|kotai||
+				92|92|[x2]ɘgɘp||
+				93|93|t[x2]ɘg||
+				94|94|bĩk||
+				95|95|[x2]ik̊n||
+				96|96|rabot ̞||
+				97|97|rɘɘ̃k||
+				98|98|b̊riok||
+				99|99|̞missing item||
+				100|100|num||
+				101|101|̞missing item||
+				102|102|piri̞g||
+				103|103|gi z||
+				104|104|̞missing item||
+				105|105|̞missing item||
+				106|106|saɴga||
+				107|107|tom||
+				108|108|̞ʜausa loan||
+				109|109|rabu||
+				110|110|darau||
+				111|111|paan̞||
+				112|112|bisi||
+				113|113|ts wats||
+				114|114|jaba||
+				115|115|kogu||
+				116|116|ɵb̊||
+				117|117|[x2]̊pu||
+				118|118|wɘ n ̊||
+				119|119|mjɘg̊||
+				120|120|rɵkag||
+				121|121|bjas||
+				122|122|b ɘ[x2]ɘga||
+				123|123|amba?||
+				124|124|jatai||
+				125|125|[x2]Ipe ja||
+				126|126|gjɘt||
+				127|127|boɴgo||
+				128|128|õ õ||
+				129|129|kwɘ mbi||
+				130|130|̞ʜausa loan||
+				131|131|gwɵ[x2]||
+				132|132|ɵ bu||
+				133|133|wagu||
+				134|134|h ɘbu||
+				135|135|̞ʜausa loan||
+				136|136|rɘg||
+				137|137|bjɘro||
+				138|138|g ̊sa||
+				139|139|nIp||
+				140|140|okwu||
+				141|141|gugu||
+				142|142|raɴki||
+				143|143|sump||
+				144|144|ma ma||
+				145|145|b iru||
+				146|146|nipu||
+				147|147|giru||
+				148|148|zɵm||
+				149|149|r̊ru||
+				150|150|wɵ ẘ̠k̠||
+				151|151|ku[x2]||
+				152|152|m̊ [x3]||
+				153|153|ẘ [x1]i||
+				154|154|w ĩjɵ||
+				155|155|rapi||
+				156|156|wɵgɘɘnsu||
+				157|157|̞excluded||
+				158|158|kuri||
+				159|159|t[x2]imu||
+				160|160|̞missing item||
+				161|161|[x2]int||
+				162|162|doike̞||
+				163|163|no pi||
+				164|164|n ɘku||
+				165|165|rum̊||
+				166|166|nak||
+				167|167|̞romi||
+				168|168|ɘ gu||
+				169|169|a ki||
+				170|170|a  wu||
+				171|171|gẘs||
+				172|172|t[x2]i||
+				173|173|rar̊||
+				174|174|w||
+				175|175|rɘgwɘt||
+				176|176|nãt ̙||
+				177|177|̞missing item||
+				178|178|̞ʜausa loan||
+				179|179|̞missing item||
+				180|180|kja ja ̞||
+				181|181|[x2]aki?o||
+				182|182|nwɵnu||
+				183|183|g̊mpu||
+				184|184|kjɘn̞ɘ||
+				185|185|hum̠bi||
+				186|186|ka[x4]||
+				187|187|kuru||
+				188|188|kjɘra||
+				189|189|dak||
+				190|190|usagu||
+				191|191|fak||
+				192|192|ɵɵn̞||
+				193|193|t̊[x4]||
+				194|194|t[x2]i||
+				195|195|ind[x1] ̠||
+				196|196|[x2]̊r||
+				197|197|tsẘ bi||
+				198|198|wu[x2]||
+				199|199|j onu||
+				200|200|̞missing||
+				201|201|nu||
+				202|202|ri||
+				203|203|jɘr||
+				204|204|tswɵru||
+				205|205|wɵ ku||
+				206|206|bwab||
+				207|207|sw ɘ̞j̊||
+				208|208|̞missing||
+				209|209|sub||
+				210|210|jitu||
+				211|211|[x2]iwu||
+				212|212|ru r||
+				213|213|b ɵ [x2]̞||
+				214|214|kẘbu||
+				215|215|bẘn||
+				216|216|̞missing||
+				217|217|kunu||
+				218|218|taku||
+				219|219|̞missing||
+				220|220|ĩ̙||
+				221|221|ku[x3]||
+				222|222|t[x2]uk||
+				223|223|tu b̠̊ɴ||
+				224|224|gwa  ̜̠||
+				225|225|̞missing||
+				226|226|kwa rgɘt||
+				227|227|gwap ̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety RANDEGGI
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = KUKI
+			Start Transcriptions
+				0|0|tɵndwai||
+				1|1|ɵ̃hɵ̃||
+				2|2|ɵndwai||
+				3|3|pjar||
+				4|4|pjana||
+				5|5|rɵɴgwan||
+				6|6|iɴgɘ||
+				7|7|rɵm||
+				8|8|tali||
+				9|9|[x2]am||
+				10|10|bjar||
+				11|11|hɵmbi||
+				12|12|̞ʜausa loan||
+				13|13|̞hjaga||
+				14|14|ra||
+				15|15|r̊nɘ||
+				16|16|̞excluded item||
+				17|17|? ãp ̞||
+				18|18|bɵra||
+				19|19|mɵ t u||
+				20|20|mu ?  i||
+				21|21|m̊ ni||
+				22|22|ẘg̊||
+				23|23|ɘsu||
+				24|24|[x1]  ̊n u||
+				25|25|[x2]ir||
+				26|26|t umi||
+				27|27|rwag||
+				28|28|ɵ̃hɵ||
+				29|29|ga||
+				30|30|tuẘ ri||
+				31|31|̊ ri||
+				32|32|bɵt[x2]||
+				33|33|?̊||
+				34|34|̞excluded||
+				35|35|in||
+				36|36|̞ʜausa loan||
+				37|37|?ɵ||
+				38|38|gwam||
+				39|39|ta̞hom at[x2]||
+				40|40|d[x1]̊||
+				41|41|ĩj̊̃||
+				42|42|d̊rja||
+				43|43|ta  tɵ||
+				44|44|n̊ [x2] i||
+				45|45|taa||
+				46|46|tunu hi||
+				47|47|̞excluded||
+				48|48|̞excluded||
+				49|49|̞excluded||
+				50|50|opa?||
+				51|51|̞excluded||
+				52|52|̞ʜausa loan||
+				53|53|̞ʜausa loan||
+				54|54|sob||
+				55|55|̞missing item||
+				56|56|rɵg||
+				57|57|ɘ̃ã||
+				58|58|gaje||
+				59|59|erab||
+				60|60|hi||
+				61|61|̞ʜausa loan||
+				62|62|ma nd||
+				63|63|twa[x2]||
+				64|64|? u||
+				65|65|wu||
+				66|66|bunb̊n||
+				67|67|z a||
+				68|68|mat||
+				69|69|g ɵmb||
+				70|70|ɵɵt||
+				71|71|wãs||
+				72|72|h ɘɴgu̞||
+				73|73|hjan̞u||
+				74|74|̙s̊?̊n||
+				75|75|s̊m̊nɘm||
+				76|76|hɵg̊m||
+				77|77|[x2]Imbu||
+				78|78|r jami,ɘri||
+				79|79|tɘiɴ||
+				80|80|t ɘg||
+				81|81|[x2]ɘ p||
+				82|82|ɘ̃rũ||
+				83|83|ɵr||
+				84|84|kwa i||
+				85|85|sup||
+				86|86|̞missing item||
+				87|87|[x2]iri||
+				88|88|t[x2]ɘni||
+				89|89|[x2]ɘni||
+				90|90|ha r gu||
+				91|91|turi̊mu||
+				92|92|gẘ?Im||
+				93|93|a gan̊m||
+				94|94|[x2]ɘ gan̊m||
+				95|95|nɘkj̊m||
+				96|96|r̊g t ̊m||
+				97|97|t[x2]anum̊m||
+				98|98|hɘn o̞||
+				99|99|kasamu||
+				100|100|̊mbam||
+				101|101|sop tam||
+				102|102|pi ̊ɴ ̠||
+				103|103|hambar̞||
+				104|104|̞missing item||
+				105|105|t ̊mu||
+				106|106|saɴgu||
+				107|107|tɵmo||
+				108|108|japu||
+				109|109|[x1]uk||
+				110|110|kworag||
+				111|111|p̊ n̊m||
+				112|112|zumb̊m||
+				113|113|b̊n||
+				114|114|jab||
+				115|115|rɵs||
+				116|116|undu||
+				117|117|t[x2]ɘp||
+				118|118|anɘn,oin ̞||
+				119|119|u u||
+				120|120|par̊m̙||
+				121|121|bias||
+				122|122|b ɘ[x2]egam||
+				123|123|gambu||
+				124|124|̞ja b||
+				125|125|zɵma ja̞||
+				126|126|g ɘt||
+				127|127|bɵɴgu||
+				128|128|ɵ̙̃||
+				129|129|ra mbi||
+				130|130|a||
+				131|131|[x2]i||
+				132|132|rɘ o||
+				133|133|rago||
+				134|134|h ɘbu||
+				135|135|̞ʜausa loan||
+				136|136|zɵg||
+				137|137|bjɘro||
+				138|138|gjas||
+				139|139|hwa̠go||
+				140|140|?ɵ̃||
+				141|141|gugu||
+				142|142|bob||
+				143|143|̞missing item||
+				144|144|bɵmbo̞||
+				145|145|bjɘr||
+				146|146|guɴgu||
+				147|147|rIɴg u||
+				148|148|zɵm||
+				149|149|h oibi||
+				150|150|hwɵ? ɵ̙||
+				151|151|tumu t[x2]||
+				152|152|up u||
+				153|153|zɘgi,buri||
+				154|154|̞missing item||
+				155|155|ɵt̙||
+				156|156|g ɘsu||
+				157|157|̞missing item||
+				158|158|jan||
+				159|159|kuri||
+				160|160|tɵ i||
+				161|161|[x2]Ind u||
+				162|162|̞missing item||
+				163|163|n ɘbi||
+				164|164|ɵ̃ ĩ||
+				165|165|toiri||
+				166|166|no||
+				167|167|a rɵm||
+				168|168|rjagu||
+				169|169|ɘɴg||
+				170|170|au wa||
+				171|171|gwɵs||
+				172|172|t̊mu||
+				173|173|ɘɘ̃||
+				174|174|wa||
+				175|175|r[x5]g ɘt||
+				176|176|na ta̙||
+				177|177|hɘ t[x2]||
+				178|178|̞ʜausa loan||
+				179|179|b||
+				180|180|rI g||
+				181|181|hɘnu||
+				182|182|n ɵn||
+				183|183|k||
+				184|184|tɵmbu||
+				185|185|jɵm̠bu||
+				186|186|̞h ɵ||
+				187|187|?uru||
+				188|188|ɘra||
+				189|189|̞ʜausa loan||
+				190|190|ɵg̊m||
+				191|191|p ɵp||
+				192|192|hwan̞||
+				193|193|t̊k||
+				194|194|hwii||
+				195|195|hInd  ̠||
+				196|196|nu||
+				197|197|t ɵ mbii||
+				198|198|ii[x2]||
+				199|199|ɘɘno||
+				200|200|rɵmbɵ||
+				201|201|nu||
+				202|202|an||
+				203|203|In||
+				204|204|r[x5]gu||
+				205|205|wɵ ̞||
+				206|206|b ɵb||
+				207|207|s ɵiri̞||
+				208|208|tar||
+				209|209|sup||
+				210|210|i ru||
+				211|211|t[x2]ɘɴgu||
+				212|212|[x2]Imbuu||
+				213|213|bwɵd[x1]e||
+				214|214|obu||
+				215|215|bwɵni||
+				216|216|̞missing||
+				217|217|g̊r̊ɴ̞||
+				218|218|?os||
+				219|219|[x2]ɘ ̞o||
+				220|220|i ̙||
+				221|221|up||
+				222|222|rIɴg̊||
+				223|223|p̊ɴ̞̊m||
+				224|224|g u̜̙||
+				225|225|hur p̊n̊m||
+				226|226|?ubu||
+				227|227|gwɵp ̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety KUKI
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = BOBI
+			Start Transcriptions
+				0|0|ran||
+				1|1|wõjõ||
+				2|2|reran||
+				3|3|pjar||
+				4|4|waat||
+				5|5|z̊z̊ɴgi||
+				6|6|gɘ||
+				7|7|rɵm||
+				8|8|taji||
+				9|9|[x2]am||
+				10|10|bjar||
+				11|11|ẘmpi||
+				12|12|buɴk||
+				13|13|ja jɘk||
+				14|14|r||
+				15|15|rɵn||
+				16|16|̞excluded item||
+				17|17|gup||
+				18|18|sar||
+				19|19|mɵ [x6]||
+				20|20|mu  w i||
+				21|21|m̊ n||
+				22|22|ẘ||
+				23|23|̠s wɵn||
+				24|24|zut̊n||
+				25|25|[x2]ir||
+				26|26|t ɵ̃ĩ||
+				27|27|r ag||
+				28|28|õ õ||
+				29|29|bõãt||
+				30|30|wa  i||
+				31|31|ju||
+				32|32|but[x2]||
+				33|33|k||
+				34|34|̊kejab||
+				35|35|jin||
+				36|36|̞ʜausa loan||
+				37|37|ɵk||
+				38|38|gẘm||
+				39|39|̞ma[x2]amwat[x2]||
+				40|40|zaki||
+				41|41|ri̊||
+				42|42|re k̊||
+				43|43|ta  tɵ||
+				44|44|n̊ [x2] i||
+				45|45|ta ?||
+				46|46|t[x2]Inija||
+				47|47|t̊ndaje||
+				48|48|̞excluded||
+				49|49|̞excluded||
+				50|50|kwapi||
+				51|51|̞excluded||
+				52|52|̞ʜausa loan||
+				53|53|dub||
+				54|54|sabɘ?||
+				55|55|z ɵma g̞||
+				56|56|rɵtag||
+				57|57|j̃a p||
+				58|58|ga i||
+				59|59|ɘrab||
+				60|60|bi||
+				61|61|̞ʜausa loan||
+				62|62|k̊ k||
+				63|63|toa[x2]||
+				64|64|k||
+				65|65|k u||
+				66|66|m̊  n||
+				67|67|[x1] ̊n||
+				68|68|gẘg||
+				69|69|gẘm||
+				70|70|t[x2]ag||
+				71|71|kwo i||
+				72|72|[x2] ɘn̜||
+				73|73|jiĨ||
+				74|74|bɵɴkɘn||
+				75|75|waa[x2]||
+				76|76|jag||
+				77|77|mja u||
+				78|78|?jɘ i||
+				79|79|ɘt||
+				80|80|t ɵg||
+				81|81|[x2]eap||
+				82|82|ku||
+				83|83|[x2]ɘn||
+				84|84|kwe as||
+				85|85|sub||
+				86|86|susum  ̞||
+				87|87|nius||
+				88|88|buru||
+				89|89|[x2]ɘn||
+				90|90|wan||
+				91|91|taak||
+				92|92|wuut||
+				93|93|[x1]ab||
+				94|94|bi k||
+				95|95|[x2]ik̊n||
+				96|96|rabot ̞||
+				97|97|rɘ ̃ka||
+				98|98|bɘrɘ ku||
+				99|99|pus||
+				100|100|k̊k||
+				101|101|t[x2]ɘnd[x1]ekan||
+				102|102|d̊v||
+				103|103|g̊ z||
+				104|104|̞excluded||
+				105|105|t omã||
+				106|106|saɴk||
+				107|107|tɵm||
+				108|108|̞ʜausa loan||
+				109|109|rab||
+				110|110|doi||
+				111|111|paan̞||
+				112|112|jũ||
+				113|113|t owak||
+				114|114|jab||
+				115|115|[x2]ik||
+				116|116|ɵb||
+				117|117|[x2]ɘp||
+				118|118|weɘn||
+				119|119|mjɘg||
+				120|120|rokag||
+				121|121|bjas||
+				122|122|bja[x2]̊g̞||
+				123|123|amb||
+				124|124|̃ja ̞||
+				125|125|[x2]ipĩja||
+				126|126|gjɘt||
+				127|127|boɴg||
+				128|128|u  u||
+				129|129|kwɘɘm̞||
+				130|130|̞ʜausa loan||
+				131|131|gwa[x2]||
+				132|132|oab||
+				133|133|wak||
+				134|134|ɘb||
+				135|135|̞ʜausa loan||
+				136|136|zog||
+				137|137|wɵru||
+				138|138|g ̊s||
+				139|139|nIp||
+				140|140|ɵk u||
+				141|141|gug||
+				142|142|raɴk||
+				143|143|̞ʜausa loan||
+				144|144|maam||
+				145|145|bja u||
+				146|146|nip||
+				147|147|gɘt[x2]ig||
+				148|148|zɵm||
+				149|149|riagu||
+				150|150|wɵ wɵ̞v||
+				151|151|ku[x2]||
+				152|152|m̊̃v||
+				153|153|zɘgi||
+				154|154|w ĩjɵ||
+				155|155|t̊nd̊||
+				156|156|ogɘɘns||
+				157|157|̞excluded||
+				158|158|t[x2]im,maak||
+				159|159|kẘm||
+				160|160|?ɘri||
+				161|161|[x2]̊nd[x1]i||
+				162|162|doike̞||
+				163|163|noip||
+				164|164|n ɘgu||
+				165|165|rum||
+				166|166|nak||
+				167|167|̞rom||
+				168|168|ɘ gu||
+				169|169|e ki||
+				170|170|a  wu||
+				171|171|gwɵs||
+				172|172|t[x2]iɴk||
+				173|173|rar||
+				174|174|i ̃||
+				175|175|rag ɘt||
+				176|176|na tanat||
+				177|177|heIt[x2]||
+				178|178|̞ʜausa loan||
+				179|179|bau||
+				180|180|kjekjɘm̞||
+				181|181|ag||
+				182|182|nɵɵn||
+				183|183|g̊m̞||
+				184|184|kjan̞||
+				185|185|̞excluded||
+				186|186|kak||
+				187|187|ku̞||
+				188|188|kjar||
+				189|189|̞ʜausa loan||
+				190|190|n̊s||
+				191|191|pak||
+				192|192|? ɵn̞||
+				193|193|t̊k||
+				194|194|t[x2]||
+				195|195|ind[x1] ̠||
+				196|196|[x2]iɵ̃||
+				197|197|t oi bi||
+				198|198|ju[x2]||
+				199|199|jɵon||
+				200|200|mɵs||
+				201|201|nu||
+				202|202|ĩ||
+				203|203|jar||
+				204|204|tog||
+				205|205|wɵɵp||
+				206|206|bwɵb||
+				207|207|s oi̜||
+				208|208|nɘg||
+				209|209|sub||
+				210|210|sɵk||
+				211|211|[x2]i u||
+				212|212|ruu||
+				213|213|b ɵ [x1]̞||
+				214|214|kẘb||
+				215|215|b ̊n||
+				216|216|kant||
+				217|217|kũ||
+				218|218|taku||
+				219|219|[x2]ɘt||
+				220|220|ĩ̙||
+				221|221|kup||
+				222|222|t[x2]ɘg||
+				223|223|[x2]iĩk||
+				224|224|gẘ̜kag||
+				225|225|̊r̊p̊n̞||
+				226|226|kwai gɘt||
+				227|227|gẘfaig||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety BOBI
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = REGI
+			Start Transcriptions
+				0|0|tɵndwai||
+				1|1|ɵ̃hɵ̃||
+				2|2|ondwai||
+				3|3|pjar||
+				4|4|pjɘna||
+				5|5|r̊mgwan||
+				6|6|iɴk||
+				7|7|rɵm||
+				8|8|ta i||
+				9|9|[x2]am||
+				10|10|bjar||
+				11|11|k̊̃jĩ||
+				12|12|̞ʜausa loan||
+				13|13|̞hjag||
+				14|14|r||
+				15|15|r̊n||
+				16|16|̞excluded item||
+				17|17|? [x5]p  ̞||
+				18|18|bɵr||
+				19|19|mɵ t||
+				20|20|mũ   ĩ||
+				21|21|m̊ n||
+				22|22|ẘg||
+				23|23|ɘs||
+				24|24|[x1] iann̊m||
+				25|25|[x2]ir̊||
+				26|26|t unj̊||
+				27|27|rwaga||
+				28|28|ɵ̃hɵ||
+				29|29|ga||
+				30|30|tuw   i||
+				31|31|ɵ ji||
+				32|32|tata||
+				33|33|?̊||
+				34|34|̞excluded||
+				35|35|in ̊n||
+				36|36|̞ʜausa loan||
+				37|37|?ɵ||
+				38|38|gwama||
+				39|39|tɵ̞ham at[x2]||
+				40|40|[x1]̊||
+				41|41|ĩj̊̃||
+				42|42|uj̊̃||
+				43|43|ta  tɵ̃||
+				44|44|n̊ [x2] i||
+				45|45|taa||
+				46|46|tunũhĩ||
+				47|47|̞excluded||
+				48|48|̞excluded||
+				49|49|̞excluded||
+				50|50|opa?||
+				51|51|̞excluded||
+				52|52|̞ʜausa loan||
+				53|53|kwa[x2]ɘ||
+				54|54|sabɘ||
+				55|55|zẘmaigɘm||
+				56|56|rɵp||
+				57|57|[x5]̃õ||
+				58|58|g̊ji||
+				59|59|?ɘrab||
+				60|60|hi||
+				61|61|̞ʜausa loan||
+				62|62|ma nd[x1]||
+				63|63|[x2]ɘt||
+				64|64|?ẘ||
+				65|65|?ẘ||
+				66|66|bunbun||
+				67|67|[x1] a||
+				68|68|mat||
+				69|69|g ɵm a||
+				70|70|?og̊n||
+				71|71|wãs||
+				72|72|hjɘɴg ̞||
+				73|73|hjan̙||
+				74|74|̙s̊?̊n||
+				75|75|sɘm̜||
+				76|76|hɵgi||
+				77|77|[x2]imbu||
+				78|78|ɘ i||
+				79|79|tɘine||
+				80|80|t ɵg||
+				81|81|[x2]ɘ p||
+				82|82|̊ ru||
+				83|83|?or||
+				84|84|m̊m||
+				85|85|sup||
+				86|86|susumb ̞||
+				87|87|[x2]i i||
+				88|88|t[x2]ɘnɘ||
+				89|89|[x2]ɘnI||
+				90|90|ha r gu||
+				91|91|tii||
+				92|92|gwɘ?im||
+				93|93|aɴg̊n̞||
+				94|94|sIɴg̊n||
+				95|95|nɘki̞||
+				96|96|rabut[x2]̞||
+				97|97|hi̊ɴg||
+				98|98|hɘn o̞||
+				99|99|humbak||
+				100|100|̊mba||
+				101|101|sɵp ta||
+				102|102|pir̙̊||
+				103|103|hambar̞||
+				104|104|̞excluded||
+				105|105|t oman||
+				106|106|saɴg||
+				107|107|tɵma||
+				108|108|gitum||
+				109|109|[x1]uk||
+				110|110|kworag||
+				111|111|pa n̞||
+				112|112|zumb̞||
+				113|113|̞excluded||
+				114|114|jaba||
+				115|115|rɵs||
+				116|116|undu||
+				117|117|t[x2]ɘp||
+				118|118|anɘn||
+				119|119|uhu||
+				120|120|paran̙||
+				121|121|bias||
+				122|122|bjɘ[x2]ɘg̞||
+				123|123|gamb||
+				124|124|̞ja b||
+				125|125|zɵma j[x5]̞||
+				126|126|gjIta||
+				127|127|bɵɴgu||
+				128|128|õhõ||
+				129|129|r̊ mbi||
+				130|130|jai||
+				131|131|[x2]i||
+				132|132|?jɘhu||
+				133|133|rago||
+				134|134|hjɘb||
+				135|135|̞ʜausa loan||
+				136|136|zɵg||
+				137|137|bjɘr||
+				138|138|gjas||
+				139|139|hwa̠g||
+				140|140|?õ||
+				141|141|gugu||
+				142|142|bob||
+				143|143|̞ʜausa loan||
+				144|144|bomb ̞||
+				145|145|bjɘr||
+				146|146|guɴgu||
+				147|147|iɴg ̊n||
+				148|148|zɵm||
+				149|149|hwɵ bi||
+				150|150|ɘ wã||
+				151|151|tuɴ  t[x2]i||
+				152|152|ub u||
+				153|153|zɘgi||
+				154|154|ame?aw||
+				155|155|towag||
+				156|156|g ɘs||
+				157|157|̞excluded||
+				158|158|t[x2]im||
+				159|159|guri||
+				160|160|toji||
+				161|161|[x2]ind[x1]||
+				162|162|do ke̞||
+				163|163|n ɘbi||
+				164|164|õhɘ̃||
+				165|165|twoji||
+				166|166|n||
+				167|167|[x5] rom||
+				168|168|jɘ gwa||
+				169|169|aɴg||
+				170|170|au w||
+				171|171|gwɵs||
+				172|172|t̊ma||
+				173|173|ɘ n||
+				174|174|wa||
+				175|175|jei||
+				176|176|na t ̙||
+				177|177|hI t[x2]||
+				178|178|̞ʜausa loan||
+				179|179|b̊||
+				180|180|jɘɴg||
+				181|181|hɘn||
+				182|182|n on||
+				183|183|p̊p̊s||
+				184|184|tomb||
+				185|185|jaɴg̞||
+				186|186|̞h ɵ||
+				187|187|uru||
+				188|188|? ɘr||
+				189|189|̞ʜausa loan||
+				190|190|hugun||
+				191|191|[x5]mp||
+				192|192|hwɵn̞||
+				193|193|t̊k||
+				194|194|hwi||
+				195|195|hInd[x1] ̠||
+				196|196|nu||
+				197|197|t ɵ mbi||
+				198|198|ii[x2]||
+				199|199|ɘɘm||
+				200|200|r̊mbɵ||
+				201|201|n||
+				202|202|ĩ||
+				203|203|in||
+				204|204|jagu||
+				205|205|ow ̞||
+				206|206|b ob||
+				207|207|swɵiri̞||
+				208|208|t[x2]ẽja||
+				209|209|sup||
+				210|210|i ru||
+				211|211|t[x2]̊ɴgu||
+				212|212|[x2]imbu||
+				213|213|b o sɘn||
+				214|214|wobu||
+				215|215|bwɵn||
+				216|216|kut̊g||
+				217|217|gur̊ɴgu||
+				218|218|?os||
+				219|219|[x2]iian̞||
+				220|220|h i ̙||
+				221|221|?up||
+				222|222|Iɴk||
+				223|223|p̊ɴg ̞||
+				224|224|g u̜̙||
+				225|225|hur p̊n̞||
+				226|226|?ub||
+				227|227|gwap ̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety REGI
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = SHAMA
+			Start Transcriptions
+				0|0|zãt||
+				1|1|õhõ||
+				2|2|̞ran||
+				3|3|pjar||
+				4|4|pjan||
+				5|5|riɴgwan||
+				6|6|iɴki||
+				7|7|rɵm||
+				8|8|te i||
+				9|9|[x2]am||
+				10|10|bjar||
+				11|11|hambi||
+				12|12|̞ʜausa loan||
+				13|13|̞hɘɘg||
+				14|14|ra||
+				15|15|r̊n||
+				16|16|̞excluded item||
+				17|17|kja bowt,kjabowt||
+				18|18|bant||
+				19|19|mɵwt||
+				20|20|mu  w i||
+				21|21|m̊in||
+				22|22|iju||
+				23|23|̠s  a||
+				24|24|zut̊||
+				25|25|[x2]Ir||
+				26|26|t umi||
+				27|27|rwag||
+				28|28|ɵ  ɵ||
+				29|29|bɵt||
+				30|30|t wa  i||
+				31|31|ɵ ri||
+				32|32|but[x2]||
+				33|33|?a||
+				34|34|̞excluded||
+				35|35|nana||
+				36|36|ta[x6]||
+				37|37|a||
+				38|38|gwam||
+				39|39|ganja||
+				40|40|zɘ̞||
+				41|41|ĩj̊̃||
+				42|42|d̊rjo||
+				43|43|ta  tɵ||
+				44|44|n̊̊[x2] i||
+				45|45|taa||
+				46|46|t̊nu ̙||
+				47|47|̞excluded||
+				48|48|̞excluded||
+				49|49|̞excluded||
+				50|50|kjɵp||
+				51|51|a̠kɵp ha̠rigjɘ||
+				52|52|bwini||
+				53|53|dɘ̃jã||
+				54|54|kut[x2]i||
+				55|55|zẘma  ̞||
+				56|56|rɵt ̠||
+				57|57|dɘku||
+				58|58|gɘh||
+				59|59|gẘnitɵri||
+				60|60|hi||
+				61|61|̞ʜausa loan||
+				62|62|maand[x1]||
+				63|63|̞ʜausa loan||
+				64|64|?wu||
+				65|65|u||
+				66|66|mb̊||
+				67|67|[x2]ian||
+				68|68|mat||
+				69|69|hɵn||
+				70|70|tadaro||
+				71|71|a s||
+				72|72|rat||
+				73|73|hj̊n̙||
+				74|74|t[x2]eban||
+				75|75|wa [x2]||
+				76|76|hɵg||
+				77|77|rIjanu||
+				78|78|rija̞||
+				79|79|hak||
+				80|80|t ̊gu||
+				81|81|[x2]ɘ p||
+				82|82|uun||
+				83|83|[x2]ɘru||
+				84|84|kImbu||
+				85|85|sup||
+				86|86|susumb̊gu||
+				87|87|[x2]Iri||
+				88|88|t[x2]ɘni||
+				89|89|[x2]ɘni||
+				90|90|han||
+				91|91|gwɵ||
+				92|92|kɵrja||
+				93|93|ga gano||
+				94|94|[x2]Iɴgɘ̙||
+				95|95|[x2]i||
+				96|96|rabɵt ̞||
+				97|97|mahɘ̃||
+				98|98|supi||
+				99|99|pusɵw||
+				100|100|num||
+				101|101|̊tuur||
+				102|102|p̊bu||
+				103|103|gu z||
+				104|104|̞missing item||
+				105|105|t ɵma||
+				106|106|saɴg||
+				107|107|tɵm||
+				108|108|̞ʜausa loan||
+				109|109|rɵb||
+				110|110|k odag||
+				111|111|pa n̞||
+				112|112|rix||
+				113|113|bʉn||
+				114|114|jab||
+				115|115|nuunu||
+				116|116|hIr||
+				117|117|[x2]ɘp||
+				118|118|jɘ n a||
+				119|119|hand||
+				120|120|para̙g||
+				121|121|bias||
+				122|122|ɘsag̊n||
+				123|123|gã̞||
+				124|124|ĩjã̞||
+				125|125|zom ija||
+				126|126|g ɘt||
+				127|127|bɵɴgu||
+				128|128|ɵ  ɵ||
+				129|129|rɘ mbi||
+				130|130|̞ʜausa loan||
+				131|131|[x2]i||
+				132|132|rɘho||
+				133|133|ragu||
+				134|134|h ɘbu||
+				135|135|̞ʜausa loan||
+				136|136|zɵg||
+				137|137|hɵrɵm||
+				138|138|g as||
+				139|139|sup||
+				140|140|?ɵ̃||
+				141|141|gug||
+				142|142|gog||
+				143|143|sumb̊||
+				144|144|hɵɵm||
+				145|145|bjɘrɵ||
+				146|146|guntu||
+				147|147|riɴg̙||
+				148|148|zɵm||
+				149|149|hẘ bi||
+				150|150|hwe̜̞||
+				151|151|tumũ [x2]||
+				152|152|jup||
+				153|153|sambari||
+				154|154|ɘd[x1]ɘsɵ?ɵ||
+				155|155|towag||
+				156|156|gjɘs||
+				157|157|̞excluded||
+				158|158|ɘnnɵ̃||
+				159|159|̞ʜausa loan||
+				160|160|tɵri||
+				161|161|[x2]Int||
+				162|162|mwɵg||
+				163|163|n Ibi||
+				164|164|njɘgu||
+				165|165|?ɘn||
+				166|166|na||
+				167|167|ãrɵm||
+				168|168|rjagu||
+				169|169|ɘ gi||
+				170|170|au ̞||
+				171|171|gwo[x2]||
+				172|172|tɘmi||
+				173|173|ɘ ̃||
+				174|174|jã||
+				175|175|̞ʜausa loan||
+				176|176|kaãt||
+				177|177|ha  [x2]||
+				178|178|̞ʜausa loan||
+				179|179|ũ[x2]||
+				180|180|̙kjambu||
+				181|181|jag||
+				182|182|nuun||
+				183|183|gamb||
+				184|184|?jɘnd[x1]̠||
+				185|185|hɵɴ ̞||
+				186|186|̞hwa||
+				187|187|uru||
+				188|188|? ɘr||
+				189|189|̞ʜausa loan||
+				190|190|mata||
+				191|191|pwɵpu||
+				192|192|hwɵn̞||
+				193|193|t̊k||
+				194|194|jatu||
+				195|195|hInd[x1] ̠||
+				196|196|nu||
+				197|197|t ɵ  bi||
+				198|198|II[x2]||
+				199|199|ɵɵn||
+				200|200|dɵmbu||
+				201|201|nu||
+				202|202|ri||
+				203|203|ɘɘr||
+				204|204|gwɵpu||
+				205|205|wa ̞||
+				206|206|bwab||
+				207|207|s u ri̞||
+				208|208|taka||
+				209|209|sub||
+				210|210|k ɵk||
+				211|211|k̊b||
+				212|212|[x2]I bu||
+				213|213|sɵb||
+				214|214|ɵb||
+				215|215|vwɵn||
+				216|216|kut̊ku||
+				217|217|?u||
+				218|218|ta u||
+				219|219|[x2]ɘt||
+				220|220|ji ̙||
+				221|221|up||
+				222|222|nug||
+				223|223|p̊ɴgu̞||
+				224|224|g ɵ̜̙||
+				225|225|hur f̊nu||
+				226|226|?w̜ɘtu||
+				227|227|gwap ̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety SHAMA
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name = KUMBASHI
+			Start Transcriptions
+				0|0|ga[x0]u||
+				1|1|lɘnd[x1]i||
+				2|2|ẘ̃t[x2]i||
+				3|3|pɘpi||
+				4|4|wɵɵto||
+				5|5|t[x2]it[x2]ɘ  ri||
+				6|6|[x0]a||
+				7|7|jumu||
+				8|8|tari||
+				9|9|kũ||
+				10|10|p̊t̊||
+				11|11|t[x2]i||
+				12|12|̞ʜausa loan||
+				13|13|ju||
+				14|14|la||
+				15|15|kule||
+				16|16|̞excluded item||
+				17|17|̙ʙo||
+				18|18|pɘte||
+				19|19|komɵ||
+				20|20|t[x2]u?wɘ||
+				21|21|mɘ ni||
+				22|22|̞ʜausa loan||
+				23|23|̠so i||
+				24|24|tũ||
+				25|25|̞excluded item||
+				26|26|iza||
+				27|27|d[x1]ɘnɘ||
+				28|28|kuɴgwa||
+				29|29|za||
+				30|30|va ri||
+				31|31|̞excluded||
+				32|32|dada||
+				33|33|ka||
+				34|34|̞excluded||
+				35|35|Inna||
+				36|36|bara||
+				37|37|mõ||
+				38|38|womo||
+				39|39|mot[x2]i||
+				40|40|jula||
+				41|41|tɘ||
+				42|42|japu||
+				43|43|ta  tu||
+				44|44|nɘ s i||
+				45|45|taa ũ||
+				46|46|t̊r  hi||
+				47|47|tIndaja||
+				48|48|rɘlɘ||
+				49|49|tI ti||
+				50|50|k upa?||
+				51|51|̞excluded||
+				52|52|manda||
+				53|53|pilu||
+				54|54|vɘsi,k̊pu||
+				55|55|dama||
+				56|56|t[x2]Iti||
+				57|57|̠na pa||
+				58|58|ja̜||
+				59|59|gwinɘ̜||
+				60|60|da ?ũ||
+				61|61|bɘ e||
+				62|62|k omo||
+				63|63|to si||
+				64|64|kwɘ||
+				65|65|kwẽ||
+				66|66|d[x1]idɘnu||
+				67|67|tani||
+				68|68|mat a||
+				69|69|b̊t[x2]i||
+				70|70|misĩ||
+				71|71|wovo||
+				72|72|z o?o||
+				73|73|inda||
+				74|74|ɘɘsɘ  nu||
+				75|75|su ̃||
+				76|76|uwa||
+				77|77|lu||
+				78|78|ra||
+				79|79|numanu||
+				80|80|ta||
+				81|81|sa?a||
+				82|82|dovu||
+				83|83|si||
+				84|84|tIlu||
+				85|85|sija||
+				86|86|sivɘ||
+				87|87|rumɘ||
+				88|88|?ujɘ||
+				89|89|sI l a||
+				90|90|ha lu̞||
+				91|91|na  su||
+				92|92|aja||
+				93|93|don o||
+				94|94|?uɴgwɘ||
+				95|95|dɘ nu||
+				96|96|ituni||
+				97|97|tɘdu ɘ||
+				98|98|juwI||
+				99|99|pisɘ||
+				100|100|jono||
+				101|101|tIs u̞||
+				102|102|hukwInu||
+				103|103|?iza?ũ||
+				104|104|̞excluded||
+				105|105|nijõ̞||
+				106|106|nija||
+				107|107|nu ̃||
+				108|108|t[x2]a?a||
+				109|109|lavo||
+				110|110|ta?a||
+				111|111|t[x2]aana||
+				112|112|bo̞||
+				113|113|ja||
+				114|114|a?a||
+				115|115|dɘntu||
+				116|116|̞ʜausa loan||
+				117|117|rej||
+				118|118|ja||
+				119|119|maɴga||
+				120|120|va?a||
+				121|121|vi su||
+				122|122|hu[x0]i||
+				123|123|janũ̞||
+				124|124|jini||
+				125|125|saba jini||
+				126|126|hĩ?ĩ||
+				127|127|kwa ?a||
+				128|128|lɘnd[x1]i||
+				129|129|kurivi||
+				130|130|sa||
+				131|131|ru[x2]i||
+				132|132|andej||
+				133|133|laba||
+				134|134|zI ?ũ||
+				135|135|kwɘɘtɘ||
+				136|136|supa||
+				137|137|?ulu||
+				138|138|ruma||
+				139|139|vasa,vuwe||
+				140|140|[x0]aɴga||
+				141|141|wu ̃||
+				142|142|ne?e||
+				143|143|̞ʜausa loan||
+				144|144|sa||
+				145|145|t[x2]ũ?ũ||
+				146|146|jaju||
+				147|147|ruɴgwɘ||
+				148|148|si[x0]i||
+				149|149|jeju||
+				150|150|hju wi̙||
+				151|151|t[x2]iimbi||
+				152|152|̞ʜausa loan||
+				153|153|lIpãj||
+				154|154|w in ̊||
+				155|155|pInu||
+				156|156|g̊̃j||
+				157|157|̞excluded||
+				158|158|[x0]Inu||
+				159|159|togi||
+				160|160|kara||
+				161|161|suɴgw a||
+				162|162|kula||
+				163|163|ja?a||
+				164|164|lamba||
+				165|165|?iza||
+				166|166|na||
+				167|167|kuto̞||
+				168|168|pi a||
+				169|169|k o||
+				170|170|a ̃wa||
+				171|171|ẘsi||
+				172|172|t[x2]o?o||
+				173|173|vɘɘtɘ||
+				174|174|sIpiju||
+				175|175|̞ʜausa loan||
+				176|176|̞ʜausa loan||
+				177|177|̞ʜausa loan||
+				178|178|̞ʜausa loan||
+				179|179|jupu||
+				180|180|?jo?jo ̞||
+				181|181|dɘsI||
+				182|182|n ũ||
+				183|183|vɘlu||
+				184|184|si ?i||
+				185|185|ruɴgwɘ̜̠||
+				186|186|voo||
+				187|187|kulu||
+				188|188|h a?a||
+				189|189|saju||
+				190|190|ku[x0]a||
+				191|191|kantu||
+				192|192|h ona||
+				193|193|kwa||
+				194|194|ti ̃||
+				195|195|siɴg̞i||
+				196|196|̞ʜausa loan||
+				197|197|t  i vi||
+				198|198|jIsi||
+				199|199|hu ̃||
+				200|200|̞ʜausa loan||
+				201|201|nI||
+				202|202|rI?I||
+				203|203|ɴga||
+				204|204|t[x2]illu||
+				205|205|t[x2]i ɘ||
+				206|206|zuvu||
+				207|207|kant[x2]ɘri||
+				208|208|t̊d̊||
+				209|209|se   a||
+				210|210|[x0]u||
+				211|211|timɘ||
+				212|212|k̊t̊me||
+				213|213|piri||
+				214|214|hĩvi||
+				215|215|na||
+				216|216|t[x2]ibi||
+				217|217|lu ?||
+				218|218|gutu||
+				219|219|sita||
+				220|220|h ĩ?ĩ||
+				221|221|tɘrɘ||
+				222|222|silɘnɘ||
+				223|223|tuɴgwI||
+				224|224|wowi̜̠||
+				225|225|hulɘnu||
+				226|226|t[x2]ɘrɘ||
+				227|227|havi̞||
+			End Transcriptions
+			Current Transcription=0
+			Description=This is a note about variety KUMBASHI
+		End Variety
+	End Varieties
+	Current Variety=0
+	Description=This is a note about the Survey
+	Current VarietyEntry Column Index=0
+End Survey
+
+Start Comparison
+	Associated Survey=0
+	Name=Comparison1
+	Variety Sort=0|1|2|3|4|5|6|7|8|9
+	Start Comparison Entries
+		0|ga[x0]u|c||
+		1|lɘnd[x1]i|c||
+		2|ẘ t[x2]i|c||
+		3|pɘpi|b||
+		4|wo tɵ|b||
+		5|t ɘt ɘ?uri|c||
+		6|[x0]aa|c||
+		7|jumu|b||
+		8|tari|a||
+		9|kũ|c||
+		10|p̊ta|b||
+		11|t[x2]i|c||
+		12|̞ʜausa loan|||x
+		13|jũ ũ|b||
+		14|laa|a||
+		15|kul̊|d||
+		16|̞excluded item|||x
+		17|̙ʙɵw|b||
+		18|pɘte|c||
+		19|koma|b||
+		20|t[x2]u wo|b||
+		21|m̊ ni|a||
+		22|̞ʜausa loan|||x
+		23|̠s  e|a||
+		24|tũũ|d||
+		25|̞excluded item|||x
+		26|?iza|b||
+		27|hoju|d||
+		28|kuɴgwa|b||
+		29|za|d||
+		30|vaari|b||
+		31|̞excluded|||x
+		32|dada|b||
+		33|ka|a||
+		34|̞excluded|||x
+		35|ono|b||
+		36|aki|c||
+		37|mõ|c||
+		38|womo|a||
+		39|mɵt[x2]i|c||
+		40|jula|d||
+		41|to|d||
+		42|japu|d||
+		43|ta?atu|a||
+		44|n̊ s i|a||
+		45|ta  õ|a||
+		46|t̊ri hi|a||
+		47|tIndaja|a||
+		48|rilo|a||
+		49|tIIti|a||
+		50|k upa|a||
+		51|̞excluded|||x
+		52|manda|a||
+		53|pɘlu|d||
+		54|v̊si|d||
+		55|h ã?ã|a||
+		56|t[x2]ɘte|b||
+		57|̠na pa|c||
+		58|ja̜|b||
+		59|gwino̜|b||
+		60|dã?ũ|b||
+		61|beje|a||
+		62|kwomo|b||
+		63|t ̊si|a||
+		64|kwo|a||
+		65|kwe|a||
+		66|d[x1]Idɵnu|a||
+		67|t̊ni|e||
+		68|mat a|a||
+		69|b̊t[x2]i|b||
+		70|misi|e||
+		71|wɵvõ|b||
+		72|z oso|b||
+		73|Inda|b||
+		74|?ɘ sɘ  nu|a||
+		75|suũ|d||
+		76|uwa|b||
+		77|lu|d||
+		78|ra|b||
+		79|numa̞|c||
+		80|taa|b||
+		81|sa?a|b||
+		82|d̊vu|e||
+		83|sii|b||
+		84|tilu|e||
+		85|seja|b||
+		86|s̊vo|b||
+		87|rumo|b||
+		88|?ujo|b||
+		89|si lla|b||
+		90|ha lu̞|a||
+		91|naha̞|e||
+		92|aja|c||
+		93|d̊n u|b||
+		94|?uɴgwɵ|b||
+		95|d̊ nu|d||
+		96|wita̞|b||
+		97|t̊du o|e||
+		98|ju o|d||
+		99|piso|c||
+		100|j̊no|c||
+		101|t̊s u̞|c||
+		102|hukwɵ̞|c||
+		103|?iz̊?u|c||
+		104|̞excluded|||x
+		105|nijo vi|b||
+		106|nija|b||
+		107|nuu|c||
+		108|t[x2]a?a|c||
+		109|lɘvu|b||
+		110|ta?a|c||
+		111|t[x2]a na|b||
+		112|bowo|d||
+		113|ja|c||
+		114|a?a|b||
+		115|dontu|d||
+		116|ruweji|c||
+		117|reI|b||
+		118|jaa|d||
+		119|maɴga|d||
+		120|va?a|b||
+		121|vi su|a||
+		122|hu[x0]u|b||
+		123|jani ̞|b||
+		124|jIni|c||
+		125|sabanjini|c||
+		126|hĩ ĩ|b||
+		127|kwa ?a|b||
+		128|lɘnd[x1]i|b||
+		129|kɵrIvi|b||
+		130|sa|b||
+		131|rusi|b||
+		132|andaji|b||
+		133|laba|b||
+		134|zɘ ?ũ|b||
+		135|k ɵ to|a||
+		136|supa|b||
+		137|?ila|c||
+		138|ruma|b||
+		139|gwanta|f||
+		140|[x0]aɴga|b||
+		141|wuu|b||
+		142|vatu|d||
+		143|̞ʜausa loan|||x
+		144|sa|c||
+		145|t[x2]u ?u|b||
+		146|jaju|b||
+		147|ruɴg o|a||
+		148|si[x0]i|c||
+		149|jɘju|c||
+		150|?h ɘ?wi̙|a||
+		151|t[x2]iImbi|b||
+		152|̞ʜausa loan|||x
+		153|lIpãj|f||
+		154|wuin ̊|d||
+		155|pɘne|c||
+		156|ga ji|c||
+		157|̞excluded|||x
+		158|[x0]ene|e||
+		159|t̊gi|c||
+		160|kara|b||
+		161|suɴgw a|b||
+		162|du kija|a||
+		163|ja?a|c||
+		164|lamba|c||
+		165|?iza|c||
+		166|na|a||
+		167|kutowu|b||
+		168|pija|b||
+		169|kwoõ|b||
+		170|a  waa|a||
+		171|wɵsi|a||
+		172|t[x2]o o|b||
+		173|vo tu|c||
+		174|sIpiju|b||
+		175|̞ʜausa loan|||x
+		176|̞ʜausa loan|||x
+		177|̞ʜausa loan|||x
+		178|̞ʜausa loan|||x
+		179|jIpu|c||
+		180|?jo?jo ̞|b||
+		181|dosu|c||
+		182|nuu|a||
+		183|vɘlu|e||
+		184|sĩ?ĩ|c||
+		185|ruɴgɵ̠ruɴgo|c||
+		186|buɴgu|c||
+		187|kulu|a||
+		188|hja a|b||
+		189|saju|b||
+		190|ku[x0]a|e||
+		191|kantu|c||
+		192|h una|a||
+		193|kwaa|b||
+		194|tii|d||
+		195|sIɴg̞i|a||
+		196|t[x2]iĩ|b||
+		197|t  I vi|a||
+		198|wusi|a||
+		199|hoõ|c||
+		200|̞missing|||x
+		201|noõ|a||
+		202|rɘ ɘ|a||
+		203|ɴga|c||
+		204|t[x2]Il u|d||
+		205|t[x2]e e|b||
+		206|zufu|b||
+		207|kant[x2]ɘri|b||
+		208|t̊da|d||
+		209|sĩ ja|b||
+		210|duu|c||
+		211|tumo|c||
+		212|kotumo|b||
+		213|piri|c||
+		214|ji vi|b||
+		215|naa|b||
+		216|t[x2]Ivo|b||
+		217|luu|d||
+		218|gutu|c||
+		219|sita|d||
+		220|hii ̙|a||
+		221|t̊re|b||
+		222|sulInoo|c||
+		223|tuɴgo|c||
+		224|woẘlu̙|a||
+		225|hulo̞|b||
+		226|t[x2]ɘre|c||
+		227|havila|b||
+		0|tɵndwaja|a||
+		1|õhõ|a||
+		2|ɵndwaja|a||
+		3|pjar|a||
+		4|pjana|a||
+		5|rIɴgwane|a||
+		6|iɴgɘ|a||
+		7|rɵma|a||
+		8|tarɘ|a||
+		9|[x2]ama|a||
+		10|bjar|a||
+		11|humbɘ|a||
+		12|̞ʜausa loan|||x
+		13|̞hjaga|a||
+		14|ra|a||
+		15|tuwa|a||
+		16|̞excluded item|||x
+		17|a pɵ̞|a||
+		18|bɵra|a||
+		19|mɵ t ɵ|a||
+		20|mu hj ̊̃|a||
+		21|m̊ ni|a||
+		22|ẘg̊|a||
+		23|ɘs wa|a||
+		24|[x1]jI n̙|a||
+		25|[x2]IrI|a||
+		26|t uni|a||
+		27|r ag|a||
+		28|ɵ̃hɵ̃|a||
+		29|ga|a||
+		30|t ẘ ri|a||
+		31|̊ ri|a||
+		32|bɵt[x2]i|a||
+		33|?̊?|a||
+		34|̞excluded|||x
+		35|in ɘ|a||
+		36|̞ʜausa loan|||x
+		37|j̊|a||
+		38|gwama|a||
+		39|t̞̊ham at[x2]|a||
+		40|[x1]̊|a||
+		41|ĩ ã|a||
+		42|d̊re|a||
+		43|ta  tɵ|a||
+		44|n̊ [x2] i|a||
+		45|taa|a||
+		46|tunu hĩ|a||
+		47|̞excluded|||x
+		48|̞excluded|||x
+		49|̞excluded|||x
+		50|opa|a||
+		51|̞excluded|||x
+		52|̞ʜausa loan|||x
+		53|̞ʜausa loan|||x
+		54|sabɘ|a||
+		55|hjam a|a||
+		56|rɵbo|a||
+		57|j ã|a||
+		58|geja|a||
+		59|eraba|a||
+		60|hi|a||
+		61|̞ʜausa loan|||x
+		62|ma nd[x1]e|a||
+		63|twa[x2]ɘ|a||
+		64|?ẘ|a||
+		65|?ẘ|a||
+		66|bumb̊n|b||
+		67|[x1] a,ard[x1]|b||
+		68|mat|a||
+		69|g om a|a||
+		70|ɵ to|a||
+		71|wa sa|a||
+		72|h ɘɴga̞|a||
+		73|hjɘnɘm̠|a||
+		74|̙s̊?̊n|a||
+		75|nusu|a||
+		76|hɵga|a||
+		77|[x2]Imbu|a||
+		78|ɘre|c||
+		79|t̊ n|a||
+		80|t ɘga|a||
+		81|[x2]iipa|a||
+		82|̊̃ru|a||
+		83|ɵro|a||
+		84|kwa?e|a||
+		85|sup̊|a||
+		86|susumb̞̊|a||
+		87|[x2]Iri|a||
+		88|t[x2]ɘni|a||
+		89|[x2]ɘne|a||
+		90|h̊ rugu|a||
+		91|tur ̊m|a||
+		92|gwɘ?Im|a||
+		93|aɴganɘm|a||
+		94|[x2]i gana|a||
+		95|nɘkjam|a||
+		96|r̊b t ̊m|a||
+		97|banam|a||
+		98|hinjago|a||
+		99|kumbaki|a||
+		100|̊mb̊m|a||
+		101|sɵp te|a||
+		102|pij̊m̠̊|a||
+		103|hambar̊m|a||
+		104|̞excluded|||x
+		105|t ɵmu|a||
+		106|saɴga|a||
+		107|tɵma|a||
+		108|gitum|a||
+		109|[x1]Iku|a||
+		110|k orag|a||
+		111|pa nam|a||
+		112|zumb̊m|a||
+		113|b̊n|a||
+		114|jaba|a||
+		115|rɵs|a||
+		116|undu|a||
+		117|t[x2]Ipɵ|a||
+		118|anɘni,ɵ nija|b||
+		119|uhẘ|a||
+		120|par̊n̊m̠|a||
+		121|bjɘso|a||
+		122|bjɘsago|a||
+		123|gamba|a||
+		124|̞ja ba|a||
+		125|zoma jaba|a||
+		126|g ɘta|a||
+		127|bɵɴgo|a||
+		128|ɵ̃hɵ̃|a||
+		129|r̊ mbɘ|a||
+		130|ja|a||
+		131|[x2]i|a||
+		132|rɘho|a||
+		133|ragu|a||
+		134|h ɘbu|a||
+		135|̞ʜausa loan|||x
+		136|zɵg|a||
+		137|b ɘr|a||
+		138|gjas|a||
+		139|hwam̞|a||
+		140|?ɵ̃|a||
+		141|gugu|a||
+		142|bobo|a||
+		143|̞ʜausa loan|||x
+		144|bombowa|a||
+		145|bjɘro|a||
+		146|guɴgu|a||
+		147|rIɴg u|a||
+		148|zɵm|a||
+		149|hwɵ bi|a||
+		150|hwa? o̙|a||
+		151|tun  t[x2]i|a||
+		152|jɵpẘ|a||
+		153|õ[x1]ɘ̃|a||
+		154|wɵ|a||
+		155|ɵtɵ?ɵ|a||
+		156|gjɘso|a||
+		157|̞excluded|||x
+		158|t[x2]imu|a||
+		159|kuri|a||
+		160|tɵre|a||
+		161|[x2]Ind u|a||
+		162|dɵ kɘ̞|a||
+		163|n ɘbi|a||
+		164|ɵ̃hĨ|a||
+		165|tẘri|a||
+		166|na|a||
+		167|a rɵma|a||
+		168|ri gwa|a||
+		169|ɘɴge|a||
+		170|a  wa|a||
+		171|gwasu|a||
+		172|t̊m̊|a||
+		173|ɘ ̃|a||
+		174|wa|a||
+		175|rag ɘta|a||
+		176|na ta̙|a||
+		177|hɘ t[x2]i|a||
+		178|̞ʜausa loan|||x
+		179|b̊|a||
+		180|rI g|a||
+		181|hɘna|a||
+		182|n ono|a||
+		183|ka|a||
+		184|t̊mba|a||
+		185|jahĩjã|a||
+		186|hɵhwa|a||
+		187|?uru|a||
+		188|i ra|a||
+		189|̞ʜausa loan|||x
+		190|?ɵgam|a||
+		191|p upo|a||
+		192|h ɵnam|a||
+		193|t̊k|a||
+		194|h i|a||
+		195|hInd[x1]a̠|a||
+		196|nu|a||
+		197|t ɵ mbi|a||
+		198|i[x2]̊|a||
+		199|ɘ no|a||
+		200|rumbo|a||
+		201|nu|a||
+		202|ra|d||
+		203|ine|a||
+		204|ragu|a||
+		205|wɵ ̞|a||
+		206|b obwa|a||
+		207|s ɵ ri̞|a||
+		208|tara|a||
+		209|sub|a||
+		210|iiru|a||
+		211|t[x2]aɴga|a||
+		212|[x2]Imbu|a||
+		213|b ̊ [x1]a|a||
+		214|ɵbu|a||
+		215|bẘna|a||
+		216|kutaku|a||
+		217|gur̊ɴgu|a||
+		218|?ɵs|a||
+		219|[x2]i ãũ|a||
+		220|hj̊ ̙|a||
+		221|up̊̃|a||
+		222|rIɴga|a||
+		223|p̊ɴgi̞|a||
+		224|gẘ̜̙|a||
+		225|hur p̊n̞|a||
+		226|?ub|a||
+		227|gwapa̞|a||
+		0|gɘ[x0]u|c||
+		1|lɘnd[x1]i|c||
+		2|hũt[x2]i|c||
+		3|pɘpi|b||
+		4|wo tɵ|b||
+		5|t[x2]it[x2]ɘ  rɘ|c||
+		6|bwɵ?|d||
+		7|jumu|b||
+		8|tari|a||
+		9|sa|d||
+		10|pata|b||
+		11|t[x2]i|c||
+		12|̞ʜausa loan|||x
+		13|jõjũ|b||
+		14|la|a||
+		15|kulu|d||
+		16|̞excluded item|||x
+		17|̙bɵ|b||
+		18|pɘte|c||
+		19|komo|b||
+		20|t[x2]u? o|b||
+		21|m̊ ni|a||
+		22|̞ʜausa loan|||x
+		23|̠sɵ|a||
+		24|tũ|d||
+		25|̞excluded item|||x
+		26|?iza|b||
+		27|ʙa|e||
+		28|kuɴgwa|b||
+		29|za|d||
+		30|va ri|b||
+		31|̞excluded|||x
+		32|bara|c||
+		33|̞ʜausa loan|||x
+		34|ka̠v̊na i̠t̊na|b||
+		35|ono|b||
+		36|kavu|d||
+		37|mɵ|c||
+		38|wɵmɵ|a||
+		39|mɵt[x2]i|c||
+		40|hula|d||
+		41|too|d||
+		42|japu|d||
+		43|ta  tu|a||
+		44|n̊ s ĩ|a||
+		45|ta  ũ|a||
+		46|t̊ri hĩ|a||
+		47|tIndaja|a||
+		48|rilo|a||
+		49|tI ti|a||
+		50|k upa?|a||
+		51|̞excluded|||x
+		52|̞ʜausa loan|||x
+		53|pilu|d||
+		54|põ?|f||
+		55|hjã|a||
+		56|t[x2]ɘte|b||
+		57|̠la pa|c||
+		58|jakɵto|b||
+		59|g ino̜|b||
+		60|da ?õ|b||
+		61|beje|a||
+		62|kwɵmɵ|b||
+		63|tɵɵsi|a||
+		64|k o|a||
+		65|kwe|a||
+		66|t[x2]I[x0]ono|a||
+		67|?ita|d||
+		68|m̊t a|a||
+		69|?ẘt[x2]i|b||
+		70|sõõ|d||
+		71|wɵwɵ|b||
+		72|zwɵsɵ|b||
+		73|Inda|b||
+		74|?ɵ z̊  nu|a||
+		75|su n|d||
+		76|uwa|b||
+		77|lu|d||
+		78|ra|b||
+		79|numa̞|c||
+		80|ta|b||
+		81|sa?a|b||
+		82|d̊vu|e||
+		83|si ̃|b||
+		84|tIlu|e||
+		85|Ini|c||
+		86|s̊vo|b||
+		87|rumo|b||
+		88|?̊jo|b||
+		89|si l a|b||
+		90|haala̞|a||
+		91|nahasu|e||
+		92|aja|c||
+		93|d̊nno|b||
+		94|?̊ɴg o|b||
+		95|doono|d||
+		96|?itu̞|b||
+		97|t̊[x0]uwo|e||
+		98|juwo|d||
+		99|ʙ̊ta|d||
+		100|j̊no|c||
+		101|t̊sj̊no|c||
+		102|m̊[x0]ɵ|d||
+		103|?Iz̊?̊̃|c||
+		104|̞excluded|||x
+		105|niju ̞|b||
+		106|nija|b||
+		107|nu|c||
+		108|t[x2]̊?a|c||
+		109|letta|c||
+		110|ta?a|c||
+		111|t[x2]aa̞|b||
+		112|bɵ ɵ|d||
+		113|ja|c||
+		114|a?a|b||
+		115|dontu|d||
+		116|daba|d||
+		117|re|b||
+		118|ja|d||
+		119|maɴga|d||
+		120|va?a|b||
+		121|vi su|a||
+		122|hu[x0]o|b||
+		123|janɘ vi|b||
+		124|Ine|c||
+		125|sɵbIn Ine|c||
+		126|hĩ?ĩ|b||
+		127|kwã?ã|b||
+		128|lɘnd[x1]i|b||
+		129|kurivi|b||
+		130|sa|b||
+		131|rusi|b||
+		132|ande̞|b||
+		133|l̊b̊|b||
+		134|zɘ̃?ɘ̃|b||
+		135|k ɵ tɵ|a||
+		136|sipa|b||
+		137|?iru|c||
+		138|ruma|b||
+		139|vasa|d||
+		140|[x0]̊ɴga|b||
+		141|kuti|c||
+		142|ni?i|b||
+		143|̞ʜausa loan|||x
+		144|sa|c||
+		145|t[x2]ũ?ũ|b||
+		146|jaju|b||
+		147|ruɴg o|a||
+		148|sIdi|c||
+		149|jeju|c||
+		150|h e?wi̙|a||
+		151|t[x2]I mbi|b||
+		152|̞ʜausa loan|||x
+		153|lipa i|f||
+		154|̞ʜausa loan|||x
+		155|peno|c||
+		156|gãjĩ|c||
+		157|̞excluded|||x
+		158|[x0]eno|e||
+		159|t̊gi|c||
+		160|kara|b||
+		161|s̊ɴgusa|b||
+		162|kula|c||
+		163|ja?a|c||
+		164|lambɵ̃|c||
+		165|?iza|c||
+		166|na|a||
+		167|kutɵ̞|b||
+		168|pi a|b||
+		169|k o ̃|b||
+		170|a  wa|a||
+		171|ẘsi|a||
+		172|t[x2]̊?ɵ|b||
+		173|vo tu|c||
+		174|s̊piju|b||
+		175|̞ʜausa loan|||x
+		176|̞ʜausa loan|||x
+		177|supo|b||
+		178|̞ʜausa loan|||x
+		179|jupu|c||
+		180|?jɵ?jɵ ̞|b||
+		181|doso|c||
+		182|n u|a||
+		183|vɘlu|e||
+		184|sĩ?ĩ|c||
+		185|ruɴgwo̜̠|c||
+		186|buɴgu|c||
+		187|kulu|a||
+		188|hja?a|b||
+		189|saju|b||
+		190|vaju|f||
+		191|kantu|c||
+		192|h una|a||
+		193|kwa ̃|b||
+		194|ti ̃|d||
+		195|sIɴg̞i|a||
+		196|ẘsi|c||
+		197|t  i vi|a||
+		198|osi|a||
+		199|hu ̃|c||
+		200|gudu|b||
+		201|noo|a||
+		202|re?e|a||
+		203|ɴga|c||
+		204|t[x2]Illu|d||
+		205|t[x2]ije|b||
+		206|zuvu|b||
+		207|kant[x2]iri|b||
+		208|t̊da|d||
+		209|sĩ?ja|b||
+		210|[x0]u ̃|c||
+		211|tumo|c||
+		212|t[x2]Int[x2]u|c||
+		213|̞excluded|||x
+		214|rigidɵ|c||
+		215|na|b||
+		216|pitatu|c||
+		217|lu|d||
+		218|gutu|c||
+		219|sita|d||
+		220|h ĩ?ĩ|a||
+		221|tɘre|b||
+		222|sIlɘno|c||
+		223|tuɴgo|c||
+		224|wɵwu̜̠|a||
+		225|hulo̞|b||
+		226|t[x2]ɘre|c||
+		227|havi̞|b||
+		0|za ro|b||
+		1|hwĩs|b||
+		2|̞lana|b||
+		3|p ɘlɘ|a||
+		4|p ɘn̊|a||
+		5|gɘɴga|b||
+		6|ɘɴg|a||
+		7|rɵm|a||
+		8|tari|a||
+		9|?ɵg|b||
+		10|̞missing item|||x
+		11|̞missing item|||x
+		12|bul|a||
+		13|̞hjɘg|a||
+		14|la|a||
+		15|t[x2]ɵ|c||
+		16|̞excluded item|||x
+		17|̞missing item|||x
+		18|band|b||
+		19|mɵ t[x2]wa|a||
+		20|mu hjua|a||
+		21|mia|b||
+		22|̞missing item|||x
+		23|̠sowa|a||
+		24|d[x1]igo|c||
+		25|s̊l̊|a||
+		26|t[x2]inja|a||
+		27|ẘ|b||
+		28|̞missing item|||x
+		29|bɵt|b||
+		30|t waari|a||
+		31|aari|a||
+		32|̞missing item|||x
+		33|b̊tu ẘtwa|b||
+		34|?a|a||
+		35|̞missing item|||x
+		36|̞ʜausa loan|||x
+		37|ɵ|b||
+		38|̞missing item|||x
+		39|̞missing item|||x
+		40|zija|b||
+		41|ĩjã|a||
+		42|hɘnd[x1]ɵ|b||
+		43|ta  tɵ|a||
+		44|n̊ ssĩ|a||
+		45|ta ?|a||
+		46|tuni hIn|a||
+		47|̞excluded|||x
+		48|̞excluded|||x
+		49|̞excluded|||x
+		50|k upɘ|a||
+		51|̞missing item|||x
+		52|̞missing item|||x
+		53|pugɵ|c||
+		54|k̊m|c||
+		55|hargo|c||
+		56|rɵt ̠|a||
+		57|dɘk|b||
+		58|̞missing item|||x
+		59|̞missing item|||x
+		60|̞missing item|||x
+		61|̞missing item|||x
+		62|maand[x1]|a||
+		63|̞missing item|||x
+		64|d[x1]u|b||
+		65|?wɵ|a||
+		66|uɴb̊n|b||
+		67|t[x2]ig̊|c||
+		68|mat[x2]|a||
+		69|̞missing item|||x
+		70|̞missing item|||x
+		71|wa s|a||
+		72|sama|d||
+		73|hj̙̊̃|a||
+		74|t[x2]̊bɵ|b||
+		75|wu s|c||
+		76|hɵg|a||
+		77|m era|b||
+		78|r jo̞|a||
+		79|haku|b||
+		80|̞missing item|||x
+		81|̞missing item|||x
+		82|̞missing item|||x
+		83|̞missing item|||x
+		84|taku|d||
+		85|sup|a||
+		86|̞excluded|||x
+		87|siri|a||
+		88|t[x2]ɘni|a||
+		89|sani|a||
+		90|hanu|b||
+		91|bolu|d||
+		92|kur a|b||
+		93|̞missing item|||x
+		94|s̊ɴgɘ̙|a||
+		95|dala|c||
+		96|̞missing item|||x
+		97|̞missing item|||x
+		98|gjantu|c||
+		99|̞missing item|||x
+		100|num|b||
+		101|saboka|a||
+		102|piru̙|a||
+		103|guuz|b||
+		104|̞missing item|||x
+		105|t[x2]̊m|a||
+		106|̞missing item|||x
+		107|hɵl̊|b||
+		108|̞missing item|||x
+		109|labu|b||
+		110|gjɘmbu|b||
+		111|t a n|b||
+		112|hj̊|c||
+		113|kaba|b||
+		114|jaba|a||
+		115|dalo|c||
+		116|hil̊|b||
+		117|̞excluded|||x
+		118|jI nna|c||
+		119|rig|c||
+		120|̞missing item|||x
+		121|̞missing item|||x
+		122|̞missing item|||x
+		123|gamba|a||
+		124|zamai|b||
+		125|zamai ɘgja|b||
+		126|g ɘta|a||
+		127|̞missing item|||x
+		128|̞missing item|||x
+		129|̞missing item|||x
+		130|ja|a||
+		131|̞missing item|||x
+		132|̞missing item|||x
+		133|lagu|a||
+		134|̞missing item|||x
+		135|̞missing item|||x
+		136|zɵg|a||
+		137|horum|b||
+		138|g as|a||
+		139|sup|b||
+		140|ɵ̃?|a||
+		141|gug|a||
+		142|̞missing item|||x
+		143|̞missing item|||x
+		144|b̊mbu̞|a||
+		145|̞missing item|||x
+		146|g̊nt|a||
+		147|rIɴk u|a||
+		148|bɵmi|b||
+		149|dur|b||
+		150|h ɵ̜̞|a||
+		151|̞missing item|||x
+		152|jup|a||
+		153|gam|e||
+		154|̞missing item|||x
+		155|̞missing item|||x
+		156|z̊ɴgeru|b||
+		157|mɘri|a||
+		158|damani|d||
+		159|kot[x2]|b||
+		160|̞missing item|||x
+		161|s̊nd|a||
+		162|m ɵg|b||
+		163|bjabu|b||
+		164|njɵgu|b||
+		165|?ɘna|b||
+		166|na|a||
+		167|a r̊m|a||
+		168|̞missing item|||x
+		169|ɘ k|a||
+		170|au ̞|a||
+		171|g ɵs|a||
+		172|̞missing item|||x
+		173|ãi|b||
+		174|̞missing item|||x
+		175|̞ʜausa loan|||x
+		176|kaa t|b||
+		177|̞missing item|||x
+		178|̞ʜausa loan|||x
+		179|̞missing item|||x
+		180|rɘ g|a||
+		181|jag|b||
+		182|wanu|a||
+		183|babu|d||
+		184|?jend[x1]̠|b||
+		185|rIɴku̜̞|c||
+		186|̞hwɵ|a||
+		187|?uru|a||
+		188|̞missing|||x
+		189|gwaba|a||
+		190|bɵ?|d||
+		191|p ɵpu|a||
+		192|hwana|a||
+		193|t̊k|a||
+		194|t|c||
+		195|hInd[x1] ̠|a||
+		196|̞missing|||x
+		197|t ů bi|a||
+		198|hees|a||
+		199|wanu|b||
+		200|̞missing|||x
+		201|nu|a||
+		202|ri|a||
+		203|jɘla|b||
+		204|t[x2]waru|c||
+		205|wa ̞|a||
+		206|bwab|a||
+		207|swa ri̞|a||
+		208|̞missing|||x
+		209|sub|a||
+		210|kwɵku|b||
+		211|k̊b|b||
+		212|su bu|a||
+		213|sɵb|b||
+		214|?wɵbu|a||
+		215|bwɵn|a||
+		216|̞missing|||x
+		217|kwut̊k|c||
+		218|tɵ|b||
+		219|t[x2]upũ|c||
+		220|i ̙|a||
+		221|up|a||
+		222|nugu|b||
+		223|tumbi̞|b||
+		224|g ɵ̜̙|a||
+		225|̞ʜausa loan|||x
+		226|?wai  ɘt|b||
+		227|gwap ̞|a||
+		0|za ta|b||
+		1|wɵ wɵ|a||
+		2|̞ran|b||
+		3|p ɘrɘ|a||
+		4|waat|b||
+		5|̞zɘ g|d||
+		6|gɘ|b||
+		7|roma|a||
+		8|tarɘ|a||
+		9|[x2]am|a||
+		10|̞missing item|||x
+		11|̞missing item|||x
+		12|bu k|b||
+		13|ja j̊g|a||
+		14|ra|a||
+		15|̞missing item|||x
+		16|̞excluded item|||x
+		17|̙bu|b||
+		18|sala|d||
+		19|mo t u|a||
+		20|mu  w i|a||
+		21|m̊ ni|a||
+		22|̞missing item|||x
+		23|̞missing item|||x
+		24|r̊t̊n|b||
+		25|[x2]ira|a||
+		26|ts̊ ĩ|c||
+		27|r ag|a||
+		28|̞missing item|||x
+		29|bõãt|c||
+		30|wa ri|b||
+		31|jut|b||
+		32|̞missing item|||x
+		33|k|a||
+		34|ɵkajab|c||
+		35|̞missing item|||x
+		36|[x2]igu|e||
+		37|jok|a||
+		38|gwam|a||
+		39|̞ma[x2]ɘm ɘ [x2]|a||
+		40|zaki|c||
+		41|rii|b||
+		42|reek|e||
+		43|ta at|a||
+		44|n̊ ss|a||
+		45|ta ?|a||
+		46|t[x2]Ini|b||
+		47|tɘnd̊ri|a||
+		48|̞excluded|||x
+		49|̞excluded|||x
+		50|kwɵpɘ|a||
+		51|̞missing item|||x
+		52|̞missing item|||x
+		53|t̊nd̊|e||
+		54|sabɘ?|a||
+		55|̞missing item|||x
+		56|rɵtag|a||
+		57|̠naap|c||
+		58|ge i|a||
+		59|̞missing item|||x
+		60|ji|c||
+		61|̞missing item|||x
+		62|k̊̊k|c||
+		63|twa[x2]|a||
+		64|k|a||
+		65|uk|a||
+		66|m̊?̊m|c||
+		67|[x1] ̊ɴ|a||
+		68|gẘr|b||
+		69|gẘm|a||
+		70|t[x2]umuk|f||
+		71|k ɵre|c||
+		72|[x2] In̞tu|a||
+		73|ni n|c||
+		74|b̊ k̊n|c||
+		75|s̊m̊n̞|b||
+		76|ug|a||
+		77|m ɘru|b||
+		78|rijo̞|a||
+		79|̞missing item|||x
+		80|ts̊g̊|a||
+		81|[x2]ɘɘp|a||
+		82|nu|c||
+		83|[x2]ɘnu|c||
+		84|kwe ɘs|a||
+		85|s̊b̊|a||
+		86|̞missing item|||x
+		87|nius|c||
+		88|buru|c||
+		89|[x2]̊ni|a||
+		90|wan|b||
+		91|kotai|f||
+		92|[x2]ɘgɘp|d||
+		93|t[x2]ɘg|c||
+		94|bĩk|c||
+		95|[x2]ik̊n|e||
+		96|rabot ̞|a||
+		97|rɘɘ̃k|f||
+		98|b̊riok|e||
+		99|̞missing item|||x
+		100|num|b||
+		101|̞missing item|||x
+		102|piri̞g|a||
+		103|gi z|b||
+		104|̞missing item|||x
+		105|̞missing item|||x
+		106|saɴga|a||
+		107|tom|a||
+		108|̞ʜausa loan|||x
+		109|rabu|b||
+		110|darau|d||
+		111|paan̞|a||
+		112|bisi|e||
+		113|ts wats|d||
+		114|jaba|a||
+		115|kogu|e||
+		116|ɵb̊|e||
+		117|[x2]̊pu|a||
+		118|wɘ n ̊|c||
+		119|mjɘg̊|e||
+		120|rɵkag|c||
+		121|bjas|a||
+		122|b ɘ[x2]ɘga|a||
+		123|amba?|a||
+		124|jatai|d||
+		125|[x2]Ipe ja|d||
+		126|gjɘt|a||
+		127|boɴgo|a||
+		128|õ õ|a||
+		129|kwɘ mbi|a||
+		130|̞ʜausa loan|||x
+		131|gwɵ[x2]|c||
+		132|ɵ bu|c||
+		133|wagu|a||
+		134|h ɘbu|a||
+		135|̞ʜausa loan|||x
+		136|rɘg|c||
+		137|bjɘro|a||
+		138|g ̊sa|a||
+		139|nIp|c||
+		140|okwu|c||
+		141|gugu|a||
+		142|raɴki|c||
+		143|sump|a||
+		144|ma ma|d||
+		145|b iru|a||
+		146|nipu|c||
+		147|giru|b||
+		148|zɵm|a||
+		149|r̊ru|c||
+		150|wɵ ẘ̠k̠|a||
+		151|ku[x2]|c||
+		152|m̊ [x3]|b||
+		153|ẘ [x1]i|a||
+		154|w ĩjɵ|d||
+		155|rapi|d||
+		156|wɵgɘɘnsu|d||
+		157|̞excluded|||x
+		158|kuri|f||
+		159|t[x2]imu|d||
+		160|̞missing item|||x
+		161|[x2]int|a||
+		162|doike̞|a||
+		163|no pi|a||
+		164|n ɘku|b||
+		165|rum̊|d||
+		166|nak|a||
+		167|̞romi|a||
+		168|ɘ gu|a||
+		169|a ki|a||
+		170|a  wu|a||
+		171|gẘs|a||
+		172|t[x2]i|c||
+		173|rar̊|d||
+		174|w|a||
+		175|rɘgwɘt|a||
+		176|nãt ̙|a||
+		177|̞missing item|||x
+		178|̞ʜausa loan|||x
+		179|̞missing item|||x
+		180|kja ja ̞|b||
+		181|[x2]aki?o|d||
+		182|nwɵnu|a||
+		183|g̊mpu|c||
+		184|kjɘn̞ɘ|b||
+		185|hum̠bi|b||
+		186|ka[x4]|d||
+		187|kuru|a||
+		188|kjɘra|a||
+		189|dak|c||
+		190|usagu|g||
+		191|fak|d||
+		192|ɵɵn̞|a||
+		193|t̊[x4]|a||
+		194|t[x2]i|c||
+		195|ind[x1] ̠|a||
+		196|[x2]̊r|d||
+		197|tsẘ bi|a||
+		198|wu[x2]|a||
+		199|j onu|d||
+		200|̞missing|||x
+		201|nu|a||
+		202|ri|a||
+		203|jɘr|b||
+		204|tswɵru|c||
+		205|wɵ ku|a||
+		206|bwab|a||
+		207|sw ɘ̞j̊|a||
+		208|̞missing|||x
+		209|sub|a||
+		210|jitu|a||
+		211|[x2]iwu|d||
+		212|ru r|d||
+		213|b ɵ [x2]̞|a||
+		214|kẘbu|a||
+		215|bẘn|a||
+		216|̞missing|||x
+		217|kunu|e||
+		218|taku|b||
+		219|̞missing|||x
+		220|ĩ̙|a||
+		221|ku[x3]|a||
+		222|t[x2]uk|d||
+		223|tu b̠̊ɴ|b||
+		224|gwa  ̜̠|a||
+		225|̞missing|||x
+		226|kwa rgɘt|b||
+		227|gwap ̞|a||
+		0|tɵndwai|a||
+		1|ɵ̃hɵ̃|a||
+		2|ɵndwai|a||
+		3|pjar|a||
+		4|pjana|a||
+		5|rɵɴgwan|a||
+		6|iɴgɘ|a||
+		7|rɵm|a||
+		8|tali|a||
+		9|[x2]am|a||
+		10|bjar|a||
+		11|hɵmbi|a||
+		12|̞ʜausa loan|||x
+		13|̞hjaga|a||
+		14|ra|a||
+		15|r̊nɘ|b||
+		16|̞excluded item|||x
+		17|? ãp ̞|a||
+		18|bɵra|a||
+		19|mɵ t u|a||
+		20|mu ?  i|a||
+		21|m̊ ni|a||
+		22|ẘg̊|a||
+		23|ɘsu|a||
+		24|[x1]  ̊n u|a||
+		25|[x2]ir|a||
+		26|t umi|a||
+		27|rwag|a||
+		28|ɵ̃hɵ|a||
+		29|ga|a||
+		30|tuẘ ri|a||
+		31|̊ ri|a||
+		32|bɵt[x2]|a||
+		33|?̊|a||
+		34|̞excluded|||x
+		35|in|a||
+		36|̞ʜausa loan|||x
+		37|?ɵ|b||
+		38|gwam|a||
+		39|ta̞hom at[x2]|a||
+		40|d[x1]̊|a||
+		41|ĩj̊̃|a||
+		42|d̊rja|a||
+		43|ta  tɵ|a||
+		44|n̊ [x2] i|a||
+		45|taa|a||
+		46|tunu hi|a||
+		47|̞excluded|||x
+		48|̞excluded|||x
+		49|̞excluded|||x
+		50|opa?|a||
+		51|̞excluded|||x
+		52|̞ʜausa loan|||x
+		53|̞ʜausa loan|||x
+		54|sob|a||
+		55|̞missing item|||x
+		56|rɵg|a||
+		57|ɘ̃ã|a||
+		58|gaje|a||
+		59|erab|a||
+		60|hi|a||
+		61|̞ʜausa loan|||x
+		62|ma nd|a||
+		63|twa[x2]|a||
+		64|? u|a||
+		65|wu|a||
+		66|bunb̊n|b||
+		67|z a|a||
+		68|mat|a||
+		69|g ɵmb|a||
+		70|ɵɵt|a||
+		71|wãs|a||
+		72|h ɘɴgu̞|a||
+		73|hjan̞u|a||
+		74|̙s̊?̊n|a||
+		75|s̊m̊nɘm|b||
+		76|hɵg̊m|a||
+		77|[x2]Imbu|a||
+		78|r jami,ɘri|c||
+		79|tɘiɴ|a||
+		80|t ɘg|a||
+		81|[x2]ɘ p|a||
+		82|ɘ̃rũ|a||
+		83|ɵr|a||
+		84|kwa i|a||
+		85|sup|a||
+		86|̞missing item|||x
+		87|[x2]iri|a||
+		88|t[x2]ɘni|a||
+		89|[x2]ɘni|a||
+		90|ha r gu|a||
+		91|turi̊mu|a||
+		92|gẘ?Im|a||
+		93|a gan̊m|a||
+		94|[x2]ɘ gan̊m|a||
+		95|nɘkj̊m|a||
+		96|r̊g t ̊m|a||
+		97|t[x2]anum̊m|c||
+		98|hɘn o̞|a||
+		99|kasamu|b||
+		100|̊mbam|a||
+		101|sop tam|a||
+		102|pi ̊ɴ ̠|a||
+		103|hambar̞|a||
+		104|̞missing item|||x
+		105|t ̊mu|a||
+		106|saɴgu|a||
+		107|tɵmo|a||
+		108|japu|b||
+		109|[x1]uk|a||
+		110|kworag|a||
+		111|p̊ n̊m|a||
+		112|zumb̊m|a||
+		113|b̊n|a||
+		114|jab|a||
+		115|rɵs|a||
+		116|undu|a||
+		117|t[x2]ɘp|a||
+		118|anɘn,oin ̞|b||
+		119|u u|a||
+		120|par̊m̙|a||
+		121|bias|a||
+		122|b ɘ[x2]egam|a||
+		123|gambu|a||
+		124|̞ja b|a||
+		125|zɵma ja̞|a||
+		126|g ɘt|a||
+		127|bɵɴgu|a||
+		128|ɵ̙̃|a||
+		129|ra mbi|a||
+		130|a|a||
+		131|[x2]i|a||
+		132|rɘ o|a||
+		133|rago|a||
+		134|h ɘbu|a||
+		135|̞ʜausa loan|||x
+		136|zɵg|a||
+		137|bjɘro|a||
+		138|gjas|a||
+		139|hwa̠go|a||
+		140|?ɵ̃|a||
+		141|gugu|a||
+		142|bob|a||
+		143|̞missing item|||x
+		144|bɵmbo̞|a||
+		145|bjɘr|a||
+		146|guɴgu|a||
+		147|rIɴg u|a||
+		148|zɵm|a||
+		149|h oibi|a||
+		150|hwɵ? ɵ̙|a||
+		151|tumu t[x2]|a||
+		152|up u|a||
+		153|zɘgi,buri|c||
+		154|̞missing item|||x
+		155|ɵt̙|a||
+		156|g ɘsu|a||
+		157|̞missing item|||x
+		158|jan|b||
+		159|kuri|a||
+		160|tɵ i|a||
+		161|[x2]Ind u|a||
+		162|̞missing item|||x
+		163|n ɘbi|a||
+		164|ɵ̃ ĩ|a||
+		165|toiri|a||
+		166|no|a||
+		167|a rɵm|a||
+		168|rjagu|a||
+		169|ɘɴg|a||
+		170|au wa|a||
+		171|gwɵs|a||
+		172|t̊mu|a||
+		173|ɘɘ̃|a||
+		174|wa|a||
+		175|r[x5]g ɘt|a||
+		176|na ta̙|a||
+		177|hɘ t[x2]|a||
+		178|̞ʜausa loan|||x
+		179|b|a||
+		180|rI g|a||
+		181|hɘnu|a||
+		182|n ɵn|a||
+		183|k|a||
+		184|tɵmbu|a||
+		185|jɵm̠bu|b||
+		186|̞h ɵ|a||
+		187|?uru|a||
+		188|ɘra|a||
+		189|̞ʜausa loan|||x
+		190|ɵg̊m|a||
+		191|p ɵp|a||
+		192|hwan̞|a||
+		193|t̊k|a||
+		194|hwii|a||
+		195|hInd  ̠|a||
+		196|nu|a||
+		197|t ɵ mbii|a||
+		198|ii[x2]|a||
+		199|ɘɘno|a||
+		200|rɵmbɵ|a||
+		201|nu|a||
+		202|an|c||
+		203|In|a||
+		204|r[x5]gu|a||
+		205|wɵ ̞|a||
+		206|b ɵb|a||
+		207|s ɵiri̞|a||
+		208|tar|a||
+		209|sup|a||
+		210|i ru|a||
+		211|t[x2]ɘɴgu|a||
+		212|[x2]Imbuu|a||
+		213|bwɵd[x1]e|a||
+		214|obu|a||
+		215|bwɵni|a||
+		216|̞missing|||x
+		217|g̊r̊ɴ̞|a||
+		218|?os|a||
+		219|[x2]ɘ ̞o|a||
+		220|i ̙|a||
+		221|up|a||
+		222|rIɴg̊|a||
+		223|p̊ɴ̞̊m|a||
+		224|g u̜̙|a||
+		225|hur p̊n̊m|a||
+		226|?ubu|a||
+		227|gwɵp ̞|a||
+		0|ran|d||
+		1|wõjõ|a||
+		2|reran|b||
+		3|pjar|a||
+		4|waat|b||
+		5|z̊z̊ɴgi|d||
+		6|gɘ|b||
+		7|rɵm|a||
+		8|taji|a||
+		9|[x2]am|a||
+		10|bjar|a||
+		11|ẘmpi|a||
+		12|buɴk|b||
+		13|ja jɘk|a||
+		14|r|a||
+		15|rɵn|b||
+		16|̞excluded item|||x
+		17|gup|c||
+		18|sar|d||
+		19|mɵ [x6]|a||
+		20|mu  w i|a||
+		21|m̊ n|a||
+		22|ẘ|a||
+		23|̠s wɵn|a||
+		24|zut̊n|b||
+		25|[x2]ir|a||
+		26|t ɵ̃ĩ|c||
+		27|r ag|a||
+		28|õ õ|a||
+		29|bõãt|c||
+		30|wa  i|b||
+		31|ju|b||
+		32|but[x2]|a||
+		33|k|a||
+		34|̊kejab|c||
+		35|jin|a||
+		36|̞ʜausa loan|||x
+		37|ɵk|a||
+		38|gẘm|a||
+		39|̞ma[x2]amwat[x2]|a||
+		40|zaki|c||
+		41|ri̊|b||
+		42|re k̊|e||
+		43|ta  tɵ|a||
+		44|n̊ [x2] i|a||
+		45|ta ?|a||
+		46|t[x2]Inija|b||
+		47|t̊ndaje|a||
+		48|̞excluded|||x
+		49|̞excluded|||x
+		50|kwapi|a||
+		51|̞excluded|||x
+		52|̞ʜausa loan|||x
+		53|dub|f||
+		54|sabɘ?|a||
+		55|z ɵma g̞|b||
+		56|rɵtag|a||
+		57|j̃a p|c||
+		58|ga i|a||
+		59|ɘrab|a||
+		60|bi|d||
+		61|̞ʜausa loan|||x
+		62|k̊ k|c||
+		63|toa[x2]|a||
+		64|k|a||
+		65|k u|a||
+		66|m̊  n|c||
+		67|[x1] ̊n|a||
+		68|gẘg|b||
+		69|gẘm|a||
+		70|t[x2]ag|g||
+		71|kwo i|c||
+		72|[x2] ɘn̜|a||
+		73|jiĨ|c||
+		74|bɵɴkɘn|c||
+		75|waa[x2]|c||
+		76|jag|a||
+		77|mja u|b||
+		78|?jɘ i|c||
+		79|ɘt|d||
+		80|t ɵg|a||
+		81|[x2]eap|a||
+		82|ku|d||
+		83|[x2]ɘn|c||
+		84|kwe as|a||
+		85|sub|a||
+		86|susum  ̞|a||
+		87|nius|c||
+		88|buru|c||
+		89|[x2]ɘn|a||
+		90|wan|b||
+		91|taak|g||
+		92|wuut|e||
+		93|[x1]ab|d||
+		94|bi k|c||
+		95|[x2]ik̊n|e||
+		96|rabot ̞|a||
+		97|rɘ ̃ka|f||
+		98|bɘrɘ ku|e||
+		99|pus|c||
+		100|k̊k|d||
+		101|t[x2]ɘnd[x1]ekan|d||
+		102|d̊v|e||
+		103|g̊ z|b||
+		104|̞excluded|||x
+		105|t omã|a||
+		106|saɴk|a||
+		107|tɵm|a||
+		108|̞ʜausa loan|||x
+		109|rab|b||
+		110|doi|e||
+		111|paan̞|a||
+		112|jũ|f||
+		113|t owak|d||
+		114|jab|a||
+		115|[x2]ik|f||
+		116|ɵb|e||
+		117|[x2]ɘp|a||
+		118|weɘn|c||
+		119|mjɘg|e||
+		120|rokag|c||
+		121|bjas|a||
+		122|bja[x2]̊g̞|a||
+		123|amb|a||
+		124|̃ja ̞|a||
+		125|[x2]ipĩja|d||
+		126|gjɘt|a||
+		127|boɴg|a||
+		128|u  u|a||
+		129|kwɘɘm̞|a||
+		130|̞ʜausa loan|||x
+		131|gwa[x2]|c||
+		132|oab|c||
+		133|wak|a||
+		134|ɘb|a||
+		135|̞ʜausa loan|||x
+		136|zog|a||
+		137|wɵru|b||
+		138|g ̊s|a||
+		139|nIp|c||
+		140|ɵk u|c||
+		141|gug|a||
+		142|raɴk|c||
+		143|̞ʜausa loan|||x
+		144|maam|e||
+		145|bja u|a||
+		146|nip|c||
+		147|gɘt[x2]ig|c||
+		148|zɵm|a||
+		149|riagu|d||
+		150|wɵ wɵ̞v|a||
+		151|ku[x2]|c||
+		152|m̊̃v|b||
+		153|zɘgi|b||
+		154|w ĩjɵ|d||
+		155|t̊nd̊|e||
+		156|ogɘɘns|d||
+		157|̞excluded|||x
+		158|t[x2]im,maak|g||
+		159|kẘm|e||
+		160|?ɘri|c||
+		161|[x2]̊nd[x1]i|a||
+		162|doike̞|a||
+		163|noip|a||
+		164|n ɘgu|b||
+		165|rum|d||
+		166|nak|a||
+		167|̞rom|a||
+		168|ɘ gu|a||
+		169|e ki|a||
+		170|a  wu|a||
+		171|gwɵs|a||
+		172|t[x2]iɴk|c||
+		173|rar|d||
+		174|i ̃|a||
+		175|rag ɘt|a||
+		176|na tanat|a||
+		177|heIt[x2]|a||
+		178|̞ʜausa loan|||x
+		179|bau|a||
+		180|kjekjɘm̞|b||
+		181|ag|b||
+		182|nɵɵn|a||
+		183|g̊m̞|c||
+		184|kjan̞|b||
+		185|̞excluded|||x
+		186|kak|d||
+		187|ku̞|a||
+		188|kjar|a||
+		189|̞ʜausa loan|||x
+		190|n̊s|h||
+		191|pak|d||
+		192|? ɵn̞|a||
+		193|t̊k|a||
+		194|t[x2]|c||
+		195|ind[x1] ̠|a||
+		196|[x2]iɵ̃|b||
+		197|t oi bi|a||
+		198|ju[x2]|a||
+		199|jɵon|d||
+		200|mɵs|c||
+		201|nu|a||
+		202|ĩ|b||
+		203|jar|b||
+		204|tog|e||
+		205|wɵɵp|a||
+		206|bwɵb|a||
+		207|s oi̜|a||
+		208|nɘg|e||
+		209|sub|a||
+		210|sɵk|d||
+		211|[x2]i u|d||
+		212|ruu|d||
+		213|b ɵ [x1]̞|a||
+		214|kẘb|a||
+		215|b ̊n|a||
+		216|kant|d||
+		217|kũ|e||
+		218|taku|b||
+		219|[x2]ɘt|b||
+		220|ĩ̙|a||
+		221|kup|a||
+		222|t[x2]ɘg|d||
+		223|[x2]iĩk|d||
+		224|gẘ̜kag|a||
+		225|̊r̊p̊n̞|a||
+		226|kwai gɘt|b||
+		227|gẘfaig|a||
+		0|tɵndwai|a||
+		1|ɵ̃hɵ̃|a||
+		2|ondwai|a||
+		3|pjar|a||
+		4|pjɘna|a||
+		5|r̊mgwan|a||
+		6|iɴk|a||
+		7|rɵm|a||
+		8|ta i|a||
+		9|[x2]am|a||
+		10|bjar|a||
+		11|k̊̃jĩ|b||
+		12|̞ʜausa loan|||x
+		13|̞hjag|a||
+		14|r|a||
+		15|r̊n|b||
+		16|̞excluded item|||x
+		17|? [x5]p  ̞|a||
+		18|bɵr|a||
+		19|mɵ t|a||
+		20|mũ   ĩ|a||
+		21|m̊ n|a||
+		22|ẘg|a||
+		23|ɘs|a||
+		24|[x1] iann̊m|a||
+		25|[x2]ir̊|a||
+		26|t unj̊|a||
+		27|rwaga|a||
+		28|ɵ̃hɵ|a||
+		29|ga|a||
+		30|tuw   i|a||
+		31|ɵ ji|a||
+		32|tata|b||
+		33|?̊|a||
+		34|̞excluded|||x
+		35|in ̊n|a||
+		36|̞ʜausa loan|||x
+		37|?ɵ|b||
+		38|gwama|a||
+		39|tɵ̞ham at[x2]|a||
+		40|[x1]̊|a||
+		41|ĩj̊̃|a||
+		42|uj̊̃|c||
+		43|ta  tɵ̃|a||
+		44|n̊ [x2] i|a||
+		45|taa|a||
+		46|tunũhĩ|a||
+		47|̞excluded|||x
+		48|̞excluded|||x
+		49|̞excluded|||x
+		50|opa?|a||
+		51|̞excluded|||x
+		52|̞ʜausa loan|||x
+		53|kwa[x2]ɘ|a||
+		54|sabɘ|a||
+		55|zẘmaigɘm|b||
+		56|rɵp|a||
+		57|[x5]̃õ|a||
+		58|g̊ji|a||
+		59|?ɘrab|a||
+		60|hi|a||
+		61|̞ʜausa loan|||x
+		62|ma nd[x1]|a||
+		63|[x2]ɘt|b||
+		64|?ẘ|a||
+		65|?ẘ|a||
+		66|bunbun|b||
+		67|[x1] a|a||
+		68|mat|a||
+		69|g ɵm a|a||
+		70|?og̊n|b||
+		71|wãs|a||
+		72|hjɘɴg ̞|a||
+		73|hjan̙|a||
+		74|̙s̊?̊n|a||
+		75|sɘm̜|b||
+		76|hɵgi|a||
+		77|[x2]imbu|a||
+		78|ɘ i|c||
+		79|tɘine|a||
+		80|t ɵg|a||
+		81|[x2]ɘ p|a||
+		82|̊ ru|a||
+		83|?or|a||
+		84|m̊m|b||
+		85|sup|a||
+		86|susumb ̞|a||
+		87|[x2]i i|a||
+		88|t[x2]ɘnɘ|a||
+		89|[x2]ɘnI|a||
+		90|ha r gu|a||
+		91|tii|b||
+		92|gwɘ?im|a||
+		93|aɴg̊n̞|a||
+		94|sIɴg̊n|a||
+		95|nɘki̞|a||
+		96|rabut[x2]̞|a||
+		97|hi̊ɴg|b||
+		98|hɘn o̞|a||
+		99|humbak|a||
+		100|̊mba|a||
+		101|sɵp ta|a||
+		102|pir̙̊|a||
+		103|hambar̞|a||
+		104|̞excluded|||x
+		105|t oman|a||
+		106|saɴg|a||
+		107|tɵma|a||
+		108|gitum|a||
+		109|[x1]uk|a||
+		110|kworag|a||
+		111|pa n̞|a||
+		112|zumb̞|a||
+		113|̞excluded|||x
+		114|jaba|a||
+		115|rɵs|a||
+		116|undu|a||
+		117|t[x2]ɘp|a||
+		118|anɘn|a||
+		119|uhu|a||
+		120|paran̙|a||
+		121|bias|a||
+		122|bjɘ[x2]ɘg̞|a||
+		123|gamb|a||
+		124|̞ja b|a||
+		125|zɵma j[x5]̞|a||
+		126|gjIta|a||
+		127|bɵɴgu|a||
+		128|õhõ|a||
+		129|r̊ mbi|a||
+		130|jai|a||
+		131|[x2]i|a||
+		132|?jɘhu|a||
+		133|rago|a||
+		134|hjɘb|a||
+		135|̞ʜausa loan|||x
+		136|zɵg|a||
+		137|bjɘr|a||
+		138|gjas|a||
+		139|hwa̠g|a||
+		140|?õ|a||
+		141|gugu|a||
+		142|bob|a||
+		143|̞ʜausa loan|||x
+		144|bomb ̞|a||
+		145|bjɘr|a||
+		146|guɴgu|a||
+		147|iɴg ̊n|a||
+		148|zɵm|a||
+		149|hwɵ bi|a||
+		150|ɘ wã|a||
+		151|tuɴ  t[x2]i|a||
+		152|ub u|a||
+		153|zɘgi|b||
+		154|ame?aw|b||
+		155|towag|b||
+		156|g ɘs|a||
+		157|̞excluded|||x
+		158|t[x2]im|a||
+		159|guri|a||
+		160|toji|a||
+		161|[x2]ind[x1]|a||
+		162|do ke̞|a||
+		163|n ɘbi|a||
+		164|õhɘ̃|a||
+		165|twoji|a||
+		166|n|a||
+		167|[x5] rom|a||
+		168|jɘ gwa|a||
+		169|aɴg|a||
+		170|au w|a||
+		171|gwɵs|a||
+		172|t̊ma|a||
+		173|ɘ n|a||
+		174|wa|a||
+		175|jei|b||
+		176|na t ̙|a||
+		177|hI t[x2]|a||
+		178|̞ʜausa loan|||x
+		179|b̊|a||
+		180|jɘɴg|a||
+		181|hɘn|a||
+		182|n on|a||
+		183|p̊p̊s|b||
+		184|tomb|a||
+		185|jaɴg̞|b||
+		186|̞h ɵ|a||
+		187|uru|a||
+		188|? ɘr|a||
+		189|̞ʜausa loan|||x
+		190|hugun|b||
+		191|[x5]mp|b||
+		192|hwɵn̞|a||
+		193|t̊k|a||
+		194|hwi|a||
+		195|hInd[x1] ̠|a||
+		196|nu|a||
+		197|t ɵ mbi|a||
+		198|ii[x2]|a||
+		199|ɘɘm|a||
+		200|r̊mbɵ|a||
+		201|n|a||
+		202|ĩ|b||
+		203|in|a||
+		204|jagu|a||
+		205|ow ̞|a||
+		206|b ob|a||
+		207|swɵiri̞|a||
+		208|t[x2]ẽja|b||
+		209|sup|a||
+		210|i ru|a||
+		211|t[x2]̊ɴgu|a||
+		212|[x2]imbu|a||
+		213|b o sɘn|a||
+		214|wobu|a||
+		215|bwɵn|a||
+		216|kut̊g|a||
+		217|gur̊ɴgu|a||
+		218|?os|a||
+		219|[x2]iian̞|a||
+		220|h i ̙|a||
+		221|?up|a||
+		222|Iɴk|a||
+		223|p̊ɴg ̞|a||
+		224|g u̜̙|a||
+		225|hur p̊n̞|a||
+		226|?ub|a||
+		227|gwap ̞|a||
+		0|zãt|b||
+		1|õhõ|a||
+		2|̞ran|b||
+		3|pjar|a||
+		4|pjan|a||
+		5|riɴgwan|a||
+		6|iɴki|a||
+		7|rɵm|a||
+		8|te i|a||
+		9|[x2]am|a||
+		10|bjar|a||
+		11|hambi|a||
+		12|̞ʜausa loan|||x
+		13|̞hɘɘg|a||
+		14|ra|a||
+		15|r̊n|b||
+		16|̞excluded item|||x
+		17|kja bowt,kjabowt|b||
+		18|bant|b||
+		19|mɵwt|a||
+		20|mu  w i|a||
+		21|m̊in|a||
+		22|iju|b||
+		23|̠s  a|a||
+		24|zut̊|b||
+		25|[x2]Ir|a||
+		26|t umi|a||
+		27|rwag|a||
+		28|ɵ  ɵ|a||
+		29|bɵt|b||
+		30|t wa  i|a||
+		31|ɵ ri|a||
+		32|but[x2]|a||
+		33|?a|a||
+		34|̞excluded|||x
+		35|nana|c||
+		36|ta[x6]|a||
+		37|a|b||
+		38|gwam|a||
+		39|ganja|b||
+		40|zɘ̞|b||
+		41|ĩj̊̃|a||
+		42|d̊rjo|a||
+		43|ta  tɵ|a||
+		44|n̊̊[x2] i|a||
+		45|taa|a||
+		46|t̊nu ̙|a||
+		47|̞excluded|||x
+		48|̞excluded|||x
+		49|̞excluded|||x
+		50|kjɵp|a||
+		51|a̠kɵp ha̠rigjɘ|a||
+		52|bwini|b||
+		53|dɘ̃jã|b||
+		54|kut[x2]i|b||
+		55|zẘma  ̞|b||
+		56|rɵt ̠|a||
+		57|dɘku|b||
+		58|gɘh|a||
+		59|gẘnitɵri|b||
+		60|hi|a||
+		61|̞ʜausa loan|||x
+		62|maand[x1]|a||
+		63|̞ʜausa loan|||x
+		64|?wu|a||
+		65|u|a||
+		66|mb̊|b||
+		67|[x2]ian|a||
+		68|mat|a||
+		69|hɵn|c||
+		70|tadaro|c||
+		71|a s|a||
+		72|rat|c||
+		73|hj̊n̙|a||
+		74|t[x2]eban|b||
+		75|wa [x2]|c||
+		76|hɵg|a||
+		77|rIjanu|c||
+		78|rija̞|a||
+		79|hak|b||
+		80|t ̊gu|a||
+		81|[x2]ɘ p|a||
+		82|uun|b||
+		83|[x2]ɘru|c||
+		84|kImbu|c||
+		85|sup|a||
+		86|susumb̊gu|a||
+		87|[x2]Iri|a||
+		88|t[x2]ɘni|a||
+		89|[x2]ɘni|a||
+		90|han|b||
+		91|gwɵ|c||
+		92|kɵrja|b||
+		93|ga gano|a||
+		94|[x2]Iɴgɘ̙|a||
+		95|[x2]i|b||
+		96|rabɵt ̞|a||
+		97|mahɘ̃|d||
+		98|supi|b||
+		99|pusɵw|c||
+		100|num|b||
+		101|̊tuur|b||
+		102|p̊bu|b||
+		103|gu z|b||
+		104|̞missing item|||x
+		105|t ɵma|a||
+		106|saɴg|a||
+		107|tɵm|a||
+		108|̞ʜausa loan|||x
+		109|rɵb|b||
+		110|k odag|a||
+		111|pa n̞|a||
+		112|rix|b||
+		113|bʉn|a||
+		114|jab|a||
+		115|nuunu|b||
+		116|hIr|b||
+		117|[x2]ɘp|a||
+		118|jɘ n a|c||
+		119|hand|b||
+		120|para̙g|a||
+		121|bias|a||
+		122|ɘsag̊n|a||
+		123|gã̞|a||
+		124|ĩjã̞|a||
+		125|zom ija|a||
+		126|g ɘt|a||
+		127|bɵɴgu|a||
+		128|ɵ  ɵ|a||
+		129|rɘ mbi|a||
+		130|̞ʜausa loan|||x
+		131|[x2]i|a||
+		132|rɘho|a||
+		133|ragu|a||
+		134|h ɘbu|a||
+		135|̞ʜausa loan|||x
+		136|zɵg|a||
+		137|hɵrɵm|b||
+		138|g as|a||
+		139|sup|b||
+		140|?ɵ̃|a||
+		141|gug|a||
+		142|gog|a||
+		143|sumb̊|a||
+		144|hɵɵm|b||
+		145|bjɘrɵ|a||
+		146|guntu|a||
+		147|riɴg̙|a||
+		148|zɵm|a||
+		149|hẘ bi|a||
+		150|hwe̜̞|a||
+		151|tumũ [x2]|a||
+		152|jup|a||
+		153|sambari|d||
+		154|ɘd[x1]ɘsɵ?ɵ|c||
+		155|towag|b||
+		156|gjɘs|a||
+		157|̞excluded|||x
+		158|ɘnnɵ̃|c||
+		159|̞ʜausa loan|||x
+		160|tɵri|a||
+		161|[x2]Int|a||
+		162|mwɵg|b||
+		163|n Ibi|a||
+		164|njɘgu|b||
+		165|?ɘn|b||
+		166|na|a||
+		167|ãrɵm|a||
+		168|rjagu|a||
+		169|ɘ gi|a||
+		170|au ̞|a||
+		171|gwo[x2]|a||
+		172|tɘmi|a||
+		173|ɘ ̃|a||
+		174|jã|a||
+		175|̞ʜausa loan|||x
+		176|kaãt|b||
+		177|ha  [x2]|a||
+		178|̞ʜausa loan|||x
+		179|ũ[x2]|b||
+		180|̙kjambu|b||
+		181|jag|b||
+		182|nuun|a||
+		183|gamb|c||
+		184|?jɘnd[x1]̠|b||
+		185|hɵɴ ̞|b||
+		186|̞hwa|a||
+		187|uru|a||
+		188|? ɘr|a||
+		189|̞ʜausa loan|||x
+		190|mata|c||
+		191|pwɵpu|a||
+		192|hwɵn̞|a||
+		193|t̊k|a||
+		194|jatu|b||
+		195|hInd[x1] ̠|a||
+		196|nu|a||
+		197|t ɵ  bi|a||
+		198|II[x2]|a||
+		199|ɵɵn|b||
+		200|dɵmbu|a||
+		201|nu|a||
+		202|ri|a||
+		203|ɘɘr|b||
+		204|gwɵpu|b||
+		205|wa ̞|a||
+		206|bwab|a||
+		207|s u ri̞|a||
+		208|taka|c||
+		209|sub|a||
+		210|k ɵk|b||
+		211|k̊b|b||
+		212|[x2]I bu|a||
+		213|sɵb|b||
+		214|ɵb|a||
+		215|vwɵn|a||
+		216|kut̊ku|a||
+		217|?u|b||
+		218|ta u|b||
+		219|[x2]ɘt|b||
+		220|ji ̙|a||
+		221|up|a||
+		222|nug|b||
+		223|p̊ɴgu̞|a||
+		224|g ɵ̜̙|a||
+		225|hur f̊nu|a||
+		226|?w̜ɘtu|b||
+		227|gwap ̞|a||
+		0|ga[x0]u|c||
+		1|lɘnd[x1]i|c||
+		2|ẘ̃t[x2]i|c||
+		3|pɘpi|b||
+		4|wɵɵto|b||
+		5|t[x2]it[x2]ɘ  ri|c||
+		6|[x0]a|c||
+		7|jumu|b||
+		8|tari|a||
+		9|kũ|c||
+		10|p̊t̊|b||
+		11|t[x2]i|c||
+		12|̞ʜausa loan|||x
+		13|ju|b||
+		14|la|a||
+		15|kule|d||
+		16|̞excluded item|||x
+		17|̙ʙo|b||
+		18|pɘte|c||
+		19|komɵ|b||
+		20|t[x2]u?wɘ|b||
+		21|mɘ ni|a||
+		22|̞ʜausa loan|||x
+		23|̠so i|a||
+		24|tũ|d||
+		25|̞excluded item|||x
+		26|iza|b||
+		27|d[x1]ɘnɘ|c||
+		28|kuɴgwa|b||
+		29|za|d||
+		30|va ri|b||
+		31|̞excluded|||x
+		32|dada|b||
+		33|ka|a||
+		34|̞excluded|||x
+		35|Inna|a||
+		36|bara|b||
+		37|mõ|c||
+		38|womo|a||
+		39|mot[x2]i|c||
+		40|jula|d||
+		41|tɘ|c||
+		42|japu|d||
+		43|ta  tu|a||
+		44|nɘ s i|a||
+		45|taa ũ|a||
+		46|t̊r  hi|a||
+		47|tIndaja|a||
+		48|rɘlɘ|a||
+		49|tI ti|a||
+		50|k upa?|a||
+		51|̞excluded|||x
+		52|manda|a||
+		53|pilu|d||
+		54|vɘsi,k̊pu|e||
+		55|dama|d||
+		56|t[x2]Iti|b||
+		57|̠na pa|c||
+		58|ja̜|b||
+		59|gwinɘ̜|b||
+		60|da ?ũ|b||
+		61|bɘ e|a||
+		62|k omo|b||
+		63|to si|a||
+		64|kwɘ|a||
+		65|kwẽ|a||
+		66|d[x1]idɘnu|a||
+		67|tani|e||
+		68|mat a|a||
+		69|b̊t[x2]i|b||
+		70|misĩ|e||
+		71|wovo|b||
+		72|z o?o|b||
+		73|inda|b||
+		74|ɘɘsɘ  nu|a||
+		75|su ̃|d||
+		76|uwa|b||
+		77|lu|d||
+		78|ra|b||
+		79|numanu|c||
+		80|ta|b||
+		81|sa?a|b||
+		82|dovu|e||
+		83|si|b||
+		84|tIlu|e||
+		85|sija|b||
+		86|sivɘ|b||
+		87|rumɘ|b||
+		88|?ujɘ|b||
+		89|sI l a|b||
+		90|ha lu̞|a||
+		91|na  su|e||
+		92|aja|c||
+		93|don o|b||
+		94|?uɴgwɘ|b||
+		95|dɘ nu|d||
+		96|ituni|b||
+		97|tɘdu ɘ|e||
+		98|juwI|d||
+		99|pisɘ|c||
+		100|jono|c||
+		101|tIs u̞|c||
+		102|hukwInu|c||
+		103|?iza?ũ|c||
+		104|̞excluded|||x
+		105|nijõ̞|b||
+		106|nija|b||
+		107|nu ̃|c||
+		108|t[x2]a?a|c||
+		109|lavo|b||
+		110|ta?a|c||
+		111|t[x2]aana|b||
+		112|bo̞|d||
+		113|ja|c||
+		114|a?a|b||
+		115|dɘntu|d||
+		116|̞ʜausa loan|||x
+		117|rej|b||
+		118|ja|d||
+		119|maɴga|d||
+		120|va?a|b||
+		121|vi su|a||
+		122|hu[x0]i|b||
+		123|janũ̞|b||
+		124|jini|c||
+		125|saba jini|c||
+		126|hĩ?ĩ|b||
+		127|kwa ?a|b||
+		128|lɘnd[x1]i|b||
+		129|kurivi|b||
+		130|sa|b||
+		131|ru[x2]i|b||
+		132|andej|b||
+		133|laba|b||
+		134|zI ?ũ|b||
+		135|kwɘɘtɘ|a||
+		136|supa|b||
+		137|?ulu|c||
+		138|ruma|b||
+		139|vasa,vuwe|e||
+		140|[x0]aɴga|b||
+		141|wu ̃|b||
+		142|ne?e|b||
+		143|̞ʜausa loan|||x
+		144|sa|c||
+		145|t[x2]ũ?ũ|b||
+		146|jaju|b||
+		147|ruɴgwɘ|a||
+		148|si[x0]i|c||
+		149|jeju|c||
+		150|hju wi̙|a||
+		151|t[x2]iimbi|b||
+		152|̞ʜausa loan|||x
+		153|lIpãj|f||
+		154|w in ̊|d||
+		155|pInu|c||
+		156|g̊̃j|c||
+		157|̞excluded|||x
+		158|[x0]Inu|e||
+		159|togi|c||
+		160|kara|b||
+		161|suɴgw a|b||
+		162|kula|c||
+		163|ja?a|c||
+		164|lamba|c||
+		165|?iza|c||
+		166|na|a||
+		167|kuto̞|b||
+		168|pi a|b||
+		169|k o|b||
+		170|a ̃wa|a||
+		171|ẘsi|a||
+		172|t[x2]o?o|b||
+		173|vɘɘtɘ|c||
+		174|sIpiju|b||
+		175|̞ʜausa loan|||x
+		176|̞ʜausa loan|||x
+		177|̞ʜausa loan|||x
+		178|̞ʜausa loan|||x
+		179|jupu|c||
+		180|?jo?jo ̞|b||
+		181|dɘsI|c||
+		182|n ũ|a||
+		183|vɘlu|e||
+		184|si ?i|c||
+		185|ruɴgwɘ̜̠|c||
+		186|voo|b||
+		187|kulu|a||
+		188|h a?a|b||
+		189|saju|b||
+		190|ku[x0]a|e||
+		191|kantu|c||
+		192|h ona|a||
+		193|kwa|b||
+		194|ti ̃|d||
+		195|siɴg̞i|a||
+		196|̞ʜausa loan|||x
+		197|t  i vi|a||
+		198|jIsi|a||
+		199|hu ̃|c||
+		200|̞ʜausa loan|||x
+		201|nI|b||
+		202|rI?I|a||
+		203|ɴga|c||
+		204|t[x2]illu|d||
+		205|t[x2]i ɘ|b||
+		206|zuvu|b||
+		207|kant[x2]ɘri|b||
+		208|t̊d̊|d||
+		209|se   a|b||
+		210|[x0]u|c||
+		211|timɘ|c||
+		212|k̊t̊me|b||
+		213|piri|c||
+		214|hĩvi|b||
+		215|na|b||
+		216|t[x2]ibi|b||
+		217|lu ?|d||
+		218|gutu|c||
+		219|sita|d||
+		220|h ĩ?ĩ|a||
+		221|tɘrɘ|b||
+		222|silɘnɘ|c||
+		223|tuɴgwI|c||
+		224|wowi̜̠|a||
+		225|hulɘnu|b||
+		226|t[x2]ɘrɘ|c||
+		227|havi̞|b||
+	End Comparison Entries
+	Current Variety=0
+	Description=
+	Start Date=
+	End Date=
+	Current Variety Column Index=0
+	DD Used Chars=
+	Start DD Values
+	End DD Values
+	Excluded DD Characters=
+	End Comparison
+
+Start WordSurv Data
+	Current Dictionary=0
+	Current Survey=0
+	Current Comparison=0
+	Primary Language=Primary Gloss
+	Secondary Language=Secondary Gloss
+	Primary Font=Microsoft Sans Serif,8
+	Secondary Font=Microsoft Sans Serif,8
+	Transcription Font=Microsoft Sans Serif,8
+End WordSurv Data
