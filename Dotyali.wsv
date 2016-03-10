@@ -1,0 +1,4337 @@
+﻿WordSurv version 7
+Beta release Joshua
+Start Dictionary
+	Name=English
+	Start Glosses
+		body||||
+		head||||
+		hair||||
+		face||||
+		eye||||
+		ear||||
+		nose||||
+		mouth||||
+		lips||||
+		tooth||||
+		tongue||||
+		chest||||
+		belly/stomach||||
+		waist||||
+		whole arm||||
+		elbow||||
+		palm||||
+		finger||||
+		fingernail||||
+		leg||||
+		knee||||
+		skin||||
+		bone||||
+		heart||||
+		blood||||
+		urine||||
+		feces||||
+		village||||
+		house||||
+		roof||||
+		door||||
+		firewood||||
+		broom||||
+		stick||||
+		pestle||||
+		spices mortar||||
+		hammer||||
+		large Nepali knife||||
+		sickle||||
+		axe||||
+		rope||||
+		thread||||
+		needle||||
+		cloth||||
+		hat||||
+		ring||||
+		gold||||
+		sun||||
+		moon||||
+		sky||||
+		star||||
+		rain||||
+		water||||
+		small river||||
+		cloud||||
+		bolt of lightning||||
+		rainbow||||
+		wind||||
+		small stone||||
+		unirrigated field||||
+		irrigated field||||
+		path/road||||
+		fire||||
+		smoke||||
+		ash||||
+		soil/clay||||
+		dust||||
+		tree||||
+		leaf||||
+		root||||
+		seed||||
+		bark||||
+		thorn||||
+		flower||||
+		bamboo tree||||
+		bamboo shoot||||
+		fruit||||
+		mango||||
+		banana||||
+		wheat||||
+		uncooked rice||||
+		unhusked rice||||
+		cooked rice||||
+		vegetable||||
+		potato||||
+		egg plant||||
+		ground nut||||
+		chili||||
+		tumeric||||
+		garlic||||
+		onion||||
+		cauliflower||||
+		ginger||||
+		tomato||||
+		cɑbbage||||
+		cucumber||||
+		oil||||
+		salt||||
+		meat||||
+		fat part of flesh||||
+		fish||||
+		chicken||||
+		egg||||
+		cow||||
+		buffalo||||
+		milk||||
+		horn||||
+		tail||||
+		goat||||
+		pig||||
+		dog||||
+		cat||||
+		snake||||
+		monkey||||
+		bird||||
+		wings||||
+		feather||||
+		rat/mouse||||
+		mosquito||||
+		fly||||
+		honey bee||||
+		ant||||
+		spider||||
+		louse||||
+		bed bug||||
+		flea||||
+		leech||||
+		person||||
+		man||||
+		woman/female||||
+		baby||||
+		boy||||
+		girl||||
+		father||||
+		mother||||
+		older brother||||
+		younger brother||||
+		older sister||||
+		younger sister||||
+		son||||
+		daughter||||
+		husband||||
+		wife||||
+		grandfather||||
+		grandmother||||
+		grandson||||
+		granddaughter||||
+		father's older brother||||
+		father's younger brother||||
+		father's older sister||||
+		mother's older brother||||
+		mother's older sister||||
+		mother's younger sister||||
+		friend||||
+		name||||
+		language||||
+		day||||
+		night||||
+		morning||||
+		afternoon||||
+		evening||||
+		today||||
+		yesterday||||
+		tomorrow||||
+		week||||
+		month||||
+		year||||
+		big||||
+		small||||
+		heavy||||
+		light||||
+		old (thing)||||
+		new (thing)||||
+		good||||
+		bad||||
+		wet||||
+		dry||||
+		long (thing)||||
+		short (thing)||||
+		thin (person)||||
+		hot (weather)||||
+		cold (weather)||||
+		hot (water)||||
+		cold (water)||||
+		cracked/burst||||
+		broken/damaged||||
+		broken||||
+		empty||||
+		full||||
+		few/a little||||
+		many||||
+		all||||
+		equal (same amount)||||
+		similar/same||||
+		different||||
+		various||||
+		one||||
+		two||||
+		three||||
+		four||||
+		five||||
+		six||||
+		seven||||
+		eight||||
+		nine||||
+		ten||||
+		eleven||||
+		twelve||||
+		twenty||||
+		one hundred||||
+		white||||
+		black||||
+		red||||
+		right||||
+		left||||
+		near||||
+		far||||
+		here||||
+		there||||
+		at||||
+		beside||||
+		inside||||
+		outside||||
+		above/on top of||||
+		below/under||||
+		around||||
+		who||||
+		whose||||
+		what||||
+		why||||
+		where||||
+		when||||
+		which||||
+		how many||||
+		how (what is it like)||||
+		how (to do something)||||
+		this||||
+		that||||
+		go||||
+		don't go||||
+		come||||
+		don't come||||
+		come down||||
+		don't come donw||||
+		climb up||||
+		don't climb up||||
+		climb down||||
+		don't climb down||||
+		bring||||
+		don't bring||||
+		take||||
+		don't take||||
+		take out||||
+		don't take out||||
+		put in||||
+		don't put in||||
+		die||||
+		don't die||||
+		be hungry||||
+		be thirsty||||
+		sleep||||
+		don't sleep||||
+		lie down||||
+		don't lie down||||
+		sit down||||
+		don't sit down||||
+		get up||||
+		don't get up||||
+		stand||||
+		dont' stand||||
+		walk||||
+		don't walk||||
+		fly (verb)||||
+		don't fly||||
+		run||||
+		don't run||||
+		laugh||||
+		don't laugh||||
+		cry||||
+		don't cry||||
+		vomit||||
+		don't vomit||||
+		spit||||
+		don't spit||||
+		eat||||
+		don't eat||||
+		bite||||
+		don't bite||||
+		drink||||
+		don't drink||||
+		give||||
+		don't give||||
+		burn||||
+		don't burn||||
+		bury||||
+		don't bury||||
+		kill||||
+		don't kill||||
+		cut||||
+		don't cut||||
+		throw||||
+		don't throw||||
+		talk/chat||||
+		don't talk/chat||||
+		say/tell||||
+		don't say/tell||||
+		hear/listen||||
+		don't listen||||
+		watch/see||||
+		look||||
+		don't look||||
+		wash||||
+		don't wash||||
+		my||||
+		our||||
+		your (formal/singular)||||
+		your (formal/plural)||||
+		his (singular/formal)||||
+		their (plural/formal)||||
+		I||||
+		you (singular/formal)||||
+		he/she (formal)||||
+		we||||
+		you (plural formal)||||
+		they (formal)||||
+		Gloss 36||||
+	End Glosses
+	Start Sorts
+		Elicitation Order|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94|95|96|97|98|99|100|101|102|103|104|105|106|107|108|109|110|111|112|113|114|115|116|117|118|119|120|121|122|123|124|125|126|127|128|129|130|131|132|133|134|135|136|137|138|139|140|141|142|143|144|145|146|147|148|149|150|151|152|153|154|155|156|157|158|159|160|161|162|163|164|165|166|167|168|169|170|171|172|173|174|175|176|177|178|179|180|181|182|183|184|185|186|187|188|189|190|191|192|193|194|195|196|197|198|199|200|201|202|203|204|205|206|207|208|209|210|211|212|213|214|215|216|217|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|235|236|237|238|239|240|241|242|243|244|245|246|247|248|249|250|251|252|253|254|255|256|257|258|259|260|261|262|263|264|265|266|267|268|269|270|271|272|273|274|275|276|277|278|279|280|281|282|283|284|285|286|287|288|289|290|291|292|293|294|295|296|297|298|299|300|301|302|303|304|305|306|307|308|309|310|311|312|313|314|315|316|317|318|319|320|321|322|323|324|325
+	End Sorts
+	Current Sort=0
+	Current Gloss=220
+	Current Gloss Column Index=0
+End Dictionary
+
+Start Survey
+	Associated Dictionary=0
+	Name=Dotyali
+	Start Varieties
+		Start Variety
+			Associated Dictionary=0
+			Name=Nepali
+			Start Transcriptions
+				0|0|dʒiu||
+				1|1|ʈɑuko||
+				2|2|kəpɑl||
+				3|3|ənuhɑr||
+				4|4|ɑ̃khɑ||
+				5|5|kɑn||
+				6|6|nɑk||
+				7|7|mukʰ||
+				8|8|oʈʰ||
+				9|9|dɑ̃t||
+				10|10|dʒibɾo||
+				11|11|tʃʰɑti||
+				12|12|peʈ||
+				13|13|kəmər||
+				14|14|hɑt||
+				15|15|kuⁱno||
+				16|16|hɑtkelɑ||
+				17|17|əᵘlɑ||
+				18|18|nəŋ||
+				19|19|khuʈʈɑ||
+				20|20|gʰũɖɑ||
+				21|21|tʃʰɑlɑ||
+				22|22|hɑɖ||
+				23|23|muʈu||
+				24|24|ɾəgət||
+				25|25|pisɑb||
+				26|26|disɑ||
+				27|27|gɑũ||
+				28|28|gʰər||
+				29|29|tʃɑnɑ||
+				30|30|ɖʰokɑ||
+				31|31|dɑuɾɑ||
+				32|32|kutso||
+				33|33|ləʈʈʰi||
+				34|34|lohoɾo||
+				35|35|siləᵘʈo||
+				36|36|gʰən||
+				37|37|kʰukuɾi||
+				38|38|həsijɑ||
+				39|39|bəntsəɾo||
+				40|40|ɖoɾi||
+				41|41|dʰɑgo||
+				42|42|sijo||
+				43|43|kəpəɖɑ||
+				44|44|ʈopi||
+				45|45|əᵘʈʰi||
+				46|46|sun||
+				47|47|surdʒe||
+				48|48|dʒun||
+				49|49|ɑkɑs||
+				50|50|tɑɾɑ||
+				51|51|pɑni (pəɾtʃ(ə)||
+				52|52|pɑni||
+				53|53|kʰolɑ||
+				54|54|bɑdəl||
+				55|55|tʃəʈjæŋ||
+				56|56|indɾeɳi||
+				57|57|hɑwɑ||
+				58|58|ɖʰuŋgɑ||
+				59|59|bɑɾi||
+				60|60|kʰet||
+				61|61|bɑʈo||
+				62|62|ɑgo||
+				63|63|dʰuwɑ̃||
+				64|64|kʰərɑni||
+				65|65|mɑʈo||
+				66|66|dʰulo||
+				67|67|rukʰ||
+				68|68|pɑt||
+				69|69|dʒəɾɑ||
+				70|70|biu||
+				71|71|bokɾo||
+				72|72|kɑ̃ɖo||
+				73|73|pʰul||
+				74|74|bɑ̃s||
+				75|75|tɑmɑ||
+				76|76|pʰəlpʰul||
+				77|77|ɑ̃p||
+				78|78|keɾɑ||
+				79|79|gəũ||
+				80|80|tsɑməl||
+				81|81|dʰɑn||
+				82|82|bʰɑt||
+				83|83|təɾkɑɾi||
+				84|84|ɑlu||
+				85|85|bʰənʈɑ||
+				86|86|bədɑm||
+				87|87|kʰoɹsɑni||
+				88|88|besɑr||
+				89|89|ləsun||
+				90|90|pʲɑdʒ||
+				91|91|kɑuli||
+				92|92|əduwɑ||
+				93|93|golbʰẽɖɑ||
+				94|94|bəndəkobi||
+				95|95|kɑ̃kɾo||
+				96|96|tel||
+				97|97|nun||
+				98|98|mɑsu||
+				99|99|boso||
+				100|100|mɑtʃʰɑ||
+				101|101|kukʰurɑ||
+				102|102|pʰul / əɳɖɑ||
+				103|103|gɑi||
+				104|104|bʰəisi||
+				105|105|dudʰ||
+				106|106|siŋ||
+				107|107|puttʃʰər||
+				108|108|bɑkʰɾɑ||
+				109|109|suŋguɾ||
+				110|110|kukur||
+				111|111|biɾɑlo||
+				112|112|sɑ̃p||
+				113|113|bɑ̃dər||
+				114|114|tsəɾɑ||
+				115|115|pəkʰeʈɑ||
+				116|116|pwɑ̃kʰ||
+				117|117|musɑ||
+				118|118|lɑmkʰuʈe||
+				119|119|dʒʰiŋgɑ||
+				120|120|mɑuɾi||
+				121|121|kəmilɑ||
+				122|122|mɑkurɑ||
+				123|123|dʒumrɑ||
+				124|124|uɖus||
+				125|125|upijɑ̃||
+				126|126|pɑni dʒʰukɑ||
+				127|127|mɑntʃʰe||
+				128|128|purus||
+				129|129|mɑhilɑ||
+				130|130|bətsɑ||
+				131|131|keʈɑ||
+				132|132|keʈi||
+				133|133|bɑ / buwɑ||
+				134|134|ɑmɑ||
+				135|135|dɑi||
+				136|136|bʰɑi||
+				137|137|didi||
+				138|138|bəhini||
+				139|139|tʃʰoɾo||
+				140|140|tʃʰoɾi||
+				141|141|sɾimɑn||
+				142|142|sɾiməti||
+				143|143|hədʒuɾ bɑ||
+				144|144|hədʒuɾ ɑmɑ||
+				145|145|nɑti||
+				146|146|nɑtini||
+				147|147|ʈʰulo bɑbu||
+				148|148|sɑnɑ bɑbu||
+				149|149|pʰupu||
+				150|150|mɑmɑ||
+				151|151|ʈʰulo ɑmɑ||
+				152|152|sɑnɑ ɑmɑ||
+				153|153|sɑtʰi||
+				154|154|nɑũ||
+				155|155|bʰɑsɑ||
+				156|156|din||
+				157|157|ɾɑt||
+				158|158|bihɑnə||
+				159|159|diũso||
+				160|160|belukɑ||
+				161|161|ɑdʒə||
+				162|162|hidʒo||
+				163|163|bʰoli||
+				164|164|həptɑ||
+				165|165|məhinɑ||
+				166|166|bərsə||
+				167|167|ʈʰulo||
+				168|168|sɑno||
+				169|169|gəɾuŋgo||
+				170|170|həluŋgo||
+				171|171|puɾɑno||
+				172|172|nəjɑ̃||
+				173|173|ɾɑmɾo||
+				174|174|nəɾɑmɾo||
+				175|175|bhidʒeko||
+				176|176|sukkʰə||
+				177|177|lɑmo||
+				178|178|tʃʰoʈo||
+				179|179|dublo||
+				180|180|gəɾmi||
+				181|181|dʒɑɖo||
+				182|182|tɑto||
+				183|183|tsiso||
+				184|184|pʰuʈeko||
+				185|185|bigɾieko||
+				186|186|bʰɑtʃeko||
+				187|187|kʰɑli||
+				188|188|bʰəɾibʰərɑu||
+				189|189|tʰorəi||
+				190|190|dʰeɾəi||
+				191|191|səbəi||
+				192|192|bərɑbɑr||
+				193|193|ustəi||
+				194|194|pʰərək||
+				195|195|bibʰinə||
+				196|196|ek||
+				197|197|dui||
+				198|198|tin||
+				199|199|tʃɑɾ||
+				200|200|pɑ̃ts||
+				201|201|tʃɑ||
+				202|202|sɑt||
+				203|203|ɑʈʰ||
+				204|204|nɑu||
+				205|205|dəs||
+				206|206|egʰɑɾə||
+				207|207|bɑhɾɑ||
+				208|208|bis||
+				209|209|ek səj||
+				210|210|seto||
+				211|211|kɑlo||
+				212|212|ɾɑto||
+				213|213|dɑjɑ̃||
+				214|214|bɑjɑ̃||
+				215|215|nədʒik||
+				216|216|ʈɑɖʰɑ||
+				217|217|yɑhɑ̃||
+				218|218|tyɑhɑ̃||
+				219|219|-mɑ||
+				220|220|tʃomɑ||
+				221|221|bʰittrɑ||
+				222|222|bɑhirə||
+				223|223|mɑtʰi||
+				224|224|tələ /  muni||
+				225|225|wɑripɑri||
+				226|226|ko||
+				227|227|kəsko||
+				228|228|ke||
+				229|229|kinə||
+				230|230|kəhɑ̃||
+				231|231|kəile||
+				232|232|kun||
+				233|233|kəti||
+				234|234|kəsto||
+				235|235|kəsəɾi||
+				236|236|jo||
+				237|237|tjo||
+				238|238|tələ gɑjo||
+				239|239|tələ nəgɑu||
+				240|240|ɑjo||
+				241|241|nəɑu||
+				242|242|dʒʰəɾjo||
+				243|243|nədʒʰəɾɑ||
+				244|244|tʃəɖjo||
+				245|245|nətʃəɖə||
+				246|246|oɾljo||
+				247|247|nəoɾljɑ||
+				248|248|ljɑjo||
+				249|249|nəljɑu||
+				250|250|ləgjo||
+				251|251|nələgə||
+				252|252|dʒʰikjo||
+				253|253|nədʒʰikɑ||
+				254|254|rɑkʰjo||
+				255|255|nərɑkʰɑ||
+				256|256|məɾjo||
+				257|257|nəməɾə||
+				258|258|bʰok lɑgʲo||
+				259|259|tiɾkɑ lɑgʲo||
+				260|260|sutjo||
+				261|261|nəsutə||
+				262|262|pəlʈjo||
+				263|263|nəpəlʈə||
+				264|264|bəsjo||
+				265|265|nəbəsə||
+				266|266|uʈʰjo||
+				267|267|nəuʈʰə||
+				268|268|ubʰijo||
+				269|269|nəubʰiu||
+				270|270|hĩɖjo||
+				271|271|nəhĩɖə||
+				272|272|uɖjo||
+				273|273|nəuɖə||
+				274|274|dəguɾjo||
+				275|275|nədəguɾə||
+				276|276|hɑ̃sjo||
+				277|277|nəhɑ̃sɑ||
+				278|278|rojo||
+				279|279|nərou||
+				280|280|bɑntɑ gərijo||
+				281|281|bɑntɑ nəgərɑ||
+				282|282|tʰukjo||
+				283|283|nətʰukɑ||
+				284|284|kʰɑjo||
+				285|285|nəkʰɑu||
+				286|286|ʈokjo||
+				287|287|nəʈokə||
+				288|288|pijo||
+				289|289|nəpiu||
+				290|290|dijo||
+				291|291|nədeu||
+				292|292|dɑurɑ bɑljo||
+				293|293|dɑurɑ nəbɑlɑ||
+				294|294|gɑɖjo||
+				295|295|nəgɑɖɑ||
+				296|296|mɑɾjo||
+				297|297|nəmɑɾə||
+				298|298|kɑʈjo||
+				299|299|nəkɑʈɑ||
+				300|300|pʰɑljo||
+				301|301|nəpʰɑlɑ||
+				302|302|tʃəlpʰəl gəɾjo||
+				303|303|tʃəlpʰəl nəgəɾɑ||
+				304|304|bʰənjo||
+				305|305|nəbʰənə||
+				306|306|sunjo||
+				307|307|nəsunə||
+				308|308|dekʰjo||
+				309|309|heɾjo||
+				310|310|nəheɾə||
+				311|311|dʰojo||
+				312|312|nədʰo||
+				313|313|mero||
+				314|314|həmro||
+				315|315|təpɑĩko||
+				316|316|təpɑĩhəruko||
+				317|317|uwɑ̃hɑko||
+				318|318|uwɑ̃hɑhəruko||
+				319|319|mə||
+				320|320|təpɑĩ||
+				321|321|uhɑ̃||
+				322|322|hɑmi||
+				323|323|təpɑĩhəɾu||
+				324|324|wɑhɑhəɾu||
+				325|325|||
+			End Transcriptions
+			Current VarietyEntry=314
+			Description=Long (variety) name:\Variety (name):\Abbreviation:\ISO 639-3 code:\Alternate language names:\Genetic classification:\Date transcription started:\Date transcription finished:\Reliability:\Country:\Province/State:\District:\Sub-District:\Village:\Coordinates North Limit:\Coordinates South Limit:\Coordinates East Limit:\Coordinates West Limit:\Coordinates(Latitude):\Coordinates(Longitude):\Speaker:\Speaker(Sex):\Speaker(Age):\Transcriber:\Interviewer:\Recorder:\Unpublished(source):\Published(source):\Remarks:
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name=Doti
+			Start Transcriptions
+				0|0|həɾ||
+				1|1|munto||
+				2|2|roũ||
+				3|3|ənɑr||
+				4|4|ɑ̃kɑ||
+				5|5|kɑn||
+				6|6|nɑk||
+				7|7|muk||
+				8|8|tʰol||
+				9|9|dɑ̃t||
+				10|10|dʒibəɾo||
+				11|11|tʃʰɑti||
+				12|12|pet||
+				13|13|kəɳɳə||
+				14|14|pəkʰuɾɑ||
+				15|15|kum||
+				16|16|hətkelɑ||
+				17|17|ɑũlɑ||
+				18|18|nəŋ||
+				19|19|kuʈɑ||
+				20|20|gũɳɑ̃||
+				21|21|tʃʰɑlɑ||
+				22|22|hɑɖ||
+				23|23|muʈu||
+				24|24|rəgət / kʰun||
+				25|25|muʈ̚||
+				26|26|gu||
+				27|27|gɑũ||
+				28|28|gʰɑr||
+				29|29|pɑkho||
+				30|30|dwər||
+				31|31|dərwə̃||
+				32|32|kutʃo||
+				33|33|lɑuro||
+				34|34|loro||
+				35|35|silɑuʈo||
+				36|36|gʰən||
+				37|37|kʰukuri||
+				38|38|ɑ̃ʃi||
+				39|39|bəntʃəro||
+				40|40|rəsi||
+				41|41|dʰɑgo||
+				42|42|ʃujo||
+				43|43|kəpəɾɑ||
+				44|44|tɑkʰi||
+				45|45|ɑũʈʰi||
+				46|46|sun||
+				47|47|surʒʲæ||
+				48|48|dʒun||
+				49|49|sərgə||
+				50|50|tɑrɑ||
+				51|51|meg||
+				52|52|pɑni||
+				53|53|kʰolɑ||
+				54|54|bɑdəl||
+				55|55|tʃilko||
+				56|56|indrəini||
+				57|57|bətɑs||
+				58|58|duŋɑ||
+				59|59|bɑri||
+				60|60|kʰet||
+				61|61|bɑʈo||
+				62|62|ɑgo||
+				63|63|dʰukəl||
+				64|64|tʃɑɾ||
+				65|65|mɑʈi||
+				66|66|dʰulo||
+				67|67|rukʰ||
+				68|68|pɑt||
+				69|69|dʒəɖɑ||
+				70|70|bi||
+				71|71|bokəɖɑ||
+				72|72|kɑ̃ɖɑ̃||
+				73|73|pʰul||
+				74|74|bɑ̃s||
+				75|75|kəllɑ||
+				76|76|pʰəl pʰul||
+				77|77|ɑm||
+				78|78|kelɑ||
+				79|79|gõu||
+				80|80|tʃɑməl||
+				81|81|dʰɑn||
+				82|82|bʰɑt||
+				83|83|tərkɑri / sɑg||
+				84|84|ɑlu||
+				85|85|bɑigun||
+				86|86|məmpʰəli||
+				87|87|ɖɑ||
+				88|88|həldo||
+				89|89|lɑʃun||
+				90|90|pjædʒ||
+				91|91|gopi||
+				92|92|ɑɖo||
+				93|93|golbĩɾɑ||
+				94|94|bəndɑgopi||
+				95|95|kɑ̃kõɖo||
+				96|96|tel||
+				97|97|nun||
+				98|98|sikɑr||
+				99|99|boso||
+				100|100|mɑtʃʰɑ||
+				101|101|kukurɑ||
+				102|102|əndɑ / pʰul||
+				103|103|gɑi||
+				104|104|bʰɑĩso||
+				105|105|dud||
+				106|106|ʃiŋ||
+				107|107|putʃəɾi||
+				108|108|bəkɑrɑ||
+				109|109|sumər||
+				110|110|kukur||
+				111|111|billo||
+				112|112|ʃjæp||
+				113|113|bɑnər||
+				114|114|tʃərɑ||
+				115|115|pəkʰetɑ||
+				116|116|pəkʰjɑr||
+				117|117|musɑ||
+				118|118|mətʃəɾ||
+				119|119|mɑkʰɑ||
+				120|120|mourɑ||
+				121|121|kirmilo||
+				122|122|bəɖuwɑ||
+				123|123|dʒoɽɑ̃||
+				124|124|uɖus||
+				125|125|upəjæ̃||
+				126|126|dʒugɑ||
+				127|127|mɑntʒʰe||
+				128|128|bəikɑn||
+				129|129|swɑini||
+				130|130|dʒɑtku||
+				131|131|ketɑ / dʒɑtkə (for smɑll kids only)||
+				132|132|keti / dʒɑtki (for smɑll kids only)||
+				133|133|bɑ||
+				134|134|iʒɑ||
+				135|135|dɑi||
+				136|136|bʰɑi||
+				137|137|didi||
+				138|138|bəhini||
+				139|139|tʃelo||
+				140|140|tʃeli||
+				141|141|bɑikɑn||
+				142|142|swɑⁱni||
+				143|143|bədʒe||
+				144|144|bədʒeⁱ||
+				145|145|nɑti||
+				146|146|nɑtini||
+				147|147|dʒetɑ bɑ||
+				148|148|kɑntʃɑ bɑ||
+				149|149|phupʰu||
+				150|150|mɑmɑ||
+				151|151|dʒeti ɑmɑ||
+				152|152|kɑntʃi ɑmɑ||
+				153|153|sɑtʰi||
+				154|154|nɑu||
+				155|155|bʰɑsɑ||
+				156|156|din||
+				157|157|rɑt||
+				158|158|bihɑnə||
+				159|159|dinə||
+				160|160|bəsɑitikə||
+				161|161|ɑdʒə||
+				162|162|beli||
+				163|163|bʰolɑ||
+				164|164|həptɑ||
+				165|165|mɑinɑ||
+				166|166|bərsɑ / sɑl||
+				167|167|bəɖo||
+				168|168|nɑno||
+				169|169|bʰɑri||
+				170|170|həluko||
+				171|171|purɑno||
+				172|172|nəjɑ / nõlu||
+				173|173|rɑməro||
+				174|174|nərɑməro / nəniko||
+				175|175|ruʒeko||
+				176|176|sukeko||
+				177|177|lɑmo||
+				178|178|tʃʰoto||
+				179|179|dubəlo||
+				180|180|gərəm / ghɑm||
+				181|181|dʒɑɖi / ʈənni||
+				182|182|tɑto||
+				183|183|tʰənni||
+				184|184|pʰutjæ||
+				185|185|bigərjæ||
+				186|186|tutjæ||
+				187|187|kʰɑli||
+				188|188|bʰəri||
+				189|189|tokɑi||
+				190|190|dʒikəi||
+				191|191|səbɑi||
+				192|192|bərɑbər||
+				193|193|usɑi||
+				194|194|njænjærɑi||
+				195|195|njænjærɑi||
+				196|196|||
+				197|197|||
+				198|198|||
+				199|199|||
+				200|200|||
+				201|201|||
+				202|202|||
+				203|203|||
+				204|204|||
+				205|205|||
+				206|206|||
+				207|207|||
+				208|208|||
+				209|209|||
+				210|210|dɑulo||
+				211|211|kɑlo||
+				212|212|rɑto||
+				213|213|dɑjɑ̃||
+				214|214|bɑjɑ̃||
+				215|215|ləgə||
+				216|216|durə||
+				217|217|jɑ̃||
+				218|218|tjɑ̃||
+				219|219|mɑ||
+				220|220|jɛllɑi||
+				221|221|bitəɾə||
+				222|222|bɑiɾə||
+				223|223|mətʰi / məltiɾə||
+				224|224|təltiɾə||
+				225|225|jeheɾə wietə||
+				226|226|ko||
+				227|227|kɑiko||
+				228|228|ke||
+				229|229|kelɑi||
+				230|230|kɑ̃||
+				231|231|kɑile||
+				232|232|ko||
+				233|233|kəti||
+				234|234|kəso||
+				235|235|kəsəri||
+				236|236|jo||
+				237|237|tjo||
+				238|238|gəjo||
+				239|239|dʒən dʒɑ||
+				240|240|ɑjo||
+				241|241|dʒən ɑ||
+				242|242|dʒərjo||
+				243|243|dʒən dʒərə||
+				244|244|tʃərdjo||
+				245|245|dʒən tʃərɖɑ||
+				246|246|oljo||
+				247|247|dʒən ol||
+				248|248|lejo||
+				249|249|dʒən ljæ||
+				250|250|lɑigjo||
+				251|251|dʒən ləgə||
+				252|252|nikɑljo||
+				253|253|dʒən nikɑlə||
+				254|254|rɑkjo||
+				255|255|dʒən rɑkə||
+				256|256|mərjo||
+				257|257|dʒən mərə||
+				258|258|bok lɑgjo||
+				259|259|tis lɑgjo||
+				260|260|sijo||
+				261|261|dʒən sijə||
+				262|262|tertʃjo||
+				263|263|dʒən tertʃje||
+				264|264|bəsjo||
+				265|265|dʒən bəsə||
+				266|266|uʈʰjo||
+				267|267|dʒən uʈʰə||
+				268|268|kəlijo||
+				269|269|dʒən kəliɑ||
+				270|270|hĩɖjõ||
+				271|271|dʒən hĩɖə||
+				272|272|uɖjo||
+				273|273|dʒən uɖə||
+				274|274|dourjo||
+				275|275|dʒən dourə||
+				276|276|hɑ̃sjo||
+				277|277|dʒən hɑ̃sə||
+				278|278|rojo||
+				279|279|dʒən ro||
+				280|280|ulti gɑrjo||
+				281|281|ulti dʒən gərə||
+				282|282|tʰukjo||
+				283|283|dʒən tʰəkə||
+				284|284|kʰɑjo||
+				285|285|dʒən kʰɑ||
+				286|286|kɑʈjo||
+				287|287|dʒən kɑʈə||
+				288|288|pijo||
+				289|289|dʒən pe||
+				290|290|dijo||
+				291|291|dʒən de||
+				292|292|səlkɑjo||
+				293|293|dʒən səlkɑ||
+				294|294|dəbɑrjo||
+				295|295|dʒən dəbɑrə||
+				296|296|mɑrjo||
+				297|297|dʒən mɑrə||
+				298|298|kɑʈjo||
+				299|299|dʒən kɑʈə||
+				300|300|hɑpʰɑljo||
+				301|301|dʒən hɑpʰələ||
+				302|302|tʃəl pəl ɑrjo||
+				303|303|tʃəl pəl dʒən ɑrɑ||
+				304|304|bɑ̃ɳjo||
+				305|305|dʒən bə̃nə||
+				306|306|sunjo||
+				307|307|dʒən sunə||
+				308|308|dʰekjo||
+				309|309|herjo||
+				310|310|dʒən herə / dʒən tɑkɑ||
+				311|311|pəkʰɑljo||
+				312|312|dʒən pəkʰɑlə||
+				313|313|mero||
+				314|314|həməro||
+				315|315|təməro||
+				316|316|||
+				317|317|unəro||
+				318|318|||
+				319|319|mə̃||
+				320|320|təm||
+				321|321|un||
+				322|322|həm||
+				323|323|təmihəru||
+				324|324|||
+				325|325|||
+			End Transcriptions
+			Current VarietyEntry=314
+			Description=Long (variety) name:\Variety (name):\Abbreviation:\ISO 639-3 code:\Alternate language names:\Genetic classification:\Date transcription started:\Date transcription finished:\Reliability:\Country:\Province/State:\District:\Sub-District:\Village:\Coordinates North Limit:\Coordinates South Limit:\Coordinates East Limit:\Coordinates West Limit:\Coordinates(Latitude):\Coordinates(Longitude):\Speaker:\Speaker(Sex):\Speaker(Age):\Transcriber:\Interviewer:\Recorder:\Unpublished(source):\Published(source):\Remarks:
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name=Baitadi
+			Start Transcriptions
+				0|0|səril||
+				1|1|munto||
+				2|2|roɑ̃||
+				3|3|ɑnɑr||
+				4|4|ɑ̃khɑ||
+				5|5|kɑn||
+				6|6|nɑk||
+				7|7|muk||
+				8|8|tʰol||
+				9|9|dɑ̃dɑ||
+				10|10|dʒibəro||
+				11|11|tʃʰɑti||
+				12|12|pet||
+				13|13|kənnu||
+				14|14|hɑt̪||
+				15|15|kum||
+				16|16|hətolɑ||
+				17|17|ɑŋglo||
+				18|18|nəŋ||
+				19|19|kʰuttɑ||
+				20|20|gʰuɳɑ||
+				21|21|tʃʰɑlɑ||
+				22|22|hɑrd||
+				23|23|muʈu||
+				24|24|rəgət||
+				25|25|mut̚||
+				26|26|gu||
+				27|27|gɑũ||
+				28|28|gʰɑr||
+				29|29|pɑkho||
+				30|30|delo||
+				31|31|dəruŋo||
+				32|32|kutʃo||
+				33|33|lɑuro||
+				34|34|loro||
+				35|35|silo / silɑuto||
+				36|36|gʰən||
+				37|37|kʰukuri||
+				38|38|ɑ̃ʃi||
+				39|39|bəntʃəro||
+				40|40|dʒəᵘro||
+				41|41|dʰɑgo||
+				42|42|ʃuⁱje||
+				43|43|kəpərɑ||
+				44|44|kulo||
+				45|45|munɑɖo||
+				46|46|sun||
+				47|47|bel||
+				48|48|dʒun||
+				49|49|sərku||
+				50|50|tɑrɑ||
+				51|51|pɑni||
+				52|52|pɑni||
+				53|53|kʰolɑ||
+				54|54|bɑdəl||
+				55|55|tʃirəko||
+				56|56|ʃinərɑin||
+				57|57|bətɑs||
+				58|58|ɖʰũŋɑ||
+				59|59|swɑ̃ɖo||
+				60|60|gɑɖɑ||
+				61|61|bɑʈo||
+				62|62|ɑgo||
+				63|63|dʰukɑl||
+				64|64|ʃɑdʒi||
+				65|65|məʈi / mɑto||
+				66|66|dʰulo||
+				67|67|rukʰ||
+				68|68|pɑt||
+				69|69|dʒəɖɑ||
+				70|70|biu||
+				71|71|bokoɖo||
+				72|72|kɑ̃ɖõ||
+				73|73|pʰul||
+				74|74|bɑ̃s||
+				75|75|tuʃo||
+				76|76|pʰəl pʰul||
+				77|77|ɑm||
+				78|78|kelɑ||
+				79|79|gõu||
+				80|80|tʃɑŋəl||
+				81|81|dʰɑn||
+				82|82|bʰɑt||
+				83|83|sɑg||
+				84|84|ɑlu||
+				85|85|bʰɑikən||
+				86|86|mukʰpəli||
+				87|87|ɖɑ||
+				88|88|həlɖu||
+				89|89|ləʃon||
+				90|90|pjædʒ||
+				91|91|pʰulgʰobi||
+				92|92|ɑdo||
+				93|93|tæmmiʈər||
+				94|94|bəndɑgobi||
+				95|95|kɑ̃koɖo||
+				96|96|tel||
+				97|97|nun||
+				98|98|sikɑr||
+				99|99|boso||
+				100|100|mɑtʃʰɑ||
+				101|101|kukʰudɑ||
+				102|102|əndɑ||
+				103|103|gɑi||
+				104|104|bʰɑiso||
+				105|105|dud̪||
+				106|106|ʃiŋ||
+				107|107|putʃɑr||
+				108|108|bɑkʰoro||
+				109|109|sũŋə̃r||
+				110|110|kukur||
+				111|111|billu||
+				112|112|ʃjæp||
+				113|113|bɑnər||
+				114|114|tʃəɳo||
+				115|115|pɑkʰitɑ||
+				116|116|pɑk||
+				117|117|musɑ||
+				118|118|mətʃʰəɾ||
+				119|119|mækʰɑ||
+				120|120|mɑurɑ||
+				121|121|kirmulo||
+				122|122|bəɖuwɑ||
+				123|123|dʒoɽo||
+				124|124|kətməl||
+				125|125|upɑijẽ||
+				126|126|dʒukɑ||
+				127|127|mɑis||
+				128|128|bɑikɑn / bɑuse||
+				129|129|swɑni||
+				130|130|bɑlək||
+				131|131|tʃelo||
+				132|132|tʃeli||
+				133|133|buɑ||
+				134|134|idʒɑ||
+				135|135|dɑdɑ||
+				136|136|bʰɑi||
+				137|137|didi||
+				138|138|bəhini||
+				139|139|tʃelo||
+				140|140|tʃeli||
+				141|141|poi||
+				142|142|dʒoi / swɑni||
+				143|143|bɑdʒe||
+				144|144|ɑmɑ||
+				145|145|nɑti||
+				146|146|nɑtini||
+				147|147|dʒetɑ buɑ||
+				148|148|kɑkɑ||
+				149|149|phuidʒu||
+				150|150|mɑmɑ||
+				151|151|dʒeidʒɑ||
+				152|152|kõiʃi||
+				153|153|sɑtʰi||
+				154|154|nɑu||
+				155|155|bhɑsɑ||
+				156|156|din||
+				157|157|rɑt||
+				158|158|pɑrbhɑt||
+				159|159|dopɑri (noon)||
+				160|160|bɑʃɑ||
+				161|161|ɑdʒ||
+				162|162|beli||
+				163|163|bʰolə||
+				164|164|həptɑ||
+				165|165|mɑinɑ||
+				166|166|bərsɑ / sɑl||
+				167|167|ʈʰulo||
+				168|168|nɑno||
+				169|169|gəruɳõ||
+				170|170|həlko||
+				171|171|purɑno||
+				172|172|nɔ̃je||
+				173|173|niko / rɑməro||
+				174|174|nərɑməro / gətto||
+				175|175|bhidʒeko||
+				176|176|sukeko||
+				177|177|lɑmo||
+				178|178|tʃʰoto||
+				179|179|dubəlo||
+				180|180|gərəm||
+				181|181|ʈʰənni||
+				182|182|tɑto||
+				183|183|tʰənno||
+				184|184|pʰuteko||
+				185|185|bigəreko||
+				186|186|bhɑtʃeko||
+				187|187|rito / kʰɑli||
+				188|188|bʰəri||
+				189|189|təkɑi||
+				190|190|dherɑi / dʒikhɑ||
+				191|191|sep̚pɑi||
+				192|192|bɑrɑbər||
+				193|193|uʃwɑi||
+				194|194|bʰinɑ̃i||
+				195|195|ɑlɑkɑlɑk||
+				196|196|||
+				197|197|||
+				198|198|||
+				199|199|||
+				200|200|||
+				201|201|||
+				202|202|||
+				203|203|||
+				204|204|||
+				205|205|||
+				206|206|||
+				207|207|||
+				208|208|||
+				209|209|||
+				210|210|doulo||
+				211|211|kɑlo||
+				212|212|rɑto||
+				213|213|dɑjɑ̃||
+				214|214|bɑjɑ̃||
+				215|215|nəgikʰ||
+				216|216|ʈɑɳɑ||
+				217|217|ɳɑ̃||
+				218|218|tjɑ̃||
+				219|219|mɑ||
+				220|220|nədʒikʰ||
+				221|221|bʰitərɑ||
+				222|222|bɑirə||
+				223|223|mɑtʰi||
+				224|224|təlɑ||
+				225|225|wɑripəri||
+				226|226|ko||
+				227|227|kɑiko||
+				228|228|ke||
+				229|229|kʲɑki||
+				230|230|kɑ̃||
+				231|231|kəbə||
+				232|232|ko||
+				233|233|kəti||
+				234|234|kəso||
+				235|235|kəsəri||
+				236|236|jo||
+				237|237|tjo||
+				238|238|gəjo||
+				239|239|dʒin dʒɑi||
+				240|240|ɑjo||
+				241|241|dʒin ɑi||
+				242|242|dʒəɾjo||
+				243|243|dʒin dʒərɑi||
+				244|244|tʃoɽjo||
+				245|245|dʒin tʃoɾɑi||
+				246|246|orijo||
+				247|247|dʒin orɑi||
+				248|248|ləʃjo||
+				249|249|dʒin ləʃɑi||
+				250|250|ləigjo||
+				251|251|dʒin ləgɑi||
+				252|252|nikɑljo||
+				253|253|dʒin nikɑllɑi||
+				254|254|rɑkʰjo||
+				255|255|dʒin rɑkʰɑi||
+				256|256|mərjo||
+				257|257|dʒin mərɑi||
+				258|258|bʰok lɑgjo||
+				259|259|tis lɑgjo||
+				260|260|ʃejo||
+				261|261|dʒin ʃei||
+				262|262|pɑrjo||
+				263|263|dʒin pɑrɑi||
+				264|264|bəsjo||
+				265|265|dʒin bəsɑi||
+				266|266|uʈʰjo||
+				267|267|dʒin uʈʰɑi||
+				268|268|kəljo||
+				269|269|dʒin kəle||
+				270|270|hĩʈjo||
+				271|271|dʒin hit̚tɑi||
+				272|272|uɖjo||
+				273|273|dʒin uɖɑi||
+				274|274|bisəljo||
+				275|275|dʒin bisɑlɑi||
+				276|276|hɑ̃sjo||
+				277|277|dʒin hɑsɑi||
+				278|278|rojo||
+				279|279|dʒin roje||
+				280|280|ulti gɑrjo / okʰɑljo||
+				281|281|ulti dʒin gɑrɑi / dʒin okʰɑlɑi||
+				282|282|tʰukjo||
+				283|283|dʒin tʰukɑi||
+				284|284|kʰɑⁱjo||
+				285|285|dʒin kʰɑi||
+				286|286|kɑʈjo||
+				287|287|dʒin kɑʈɑi||
+				288|288|pijo||
+				289|289|dʒin pie||
+				290|290|dijo||
+				291|291|dʒin die||
+				292|292|bɑljo||
+				293|293|dʒin bɑlɑi||
+				294|294|kədejo||
+				295|295|dʒin kədei||
+				296|296|mɑrjo||
+				297|297|dʒin mɑrɑi||
+				298|298|kɑtjo||
+				299|299|dʒin kɑtɑi||
+				300|300|hɑpɑlijo||
+				301|301|dʒin hɑpɑlɑi||
+				302|302|kureri gɑrjo||
+				303|303|kureri dʒin gɑrɑi||
+				304|304|bʰənjo||
+				305|305|dʒin bʰəne||
+				306|306|sunjo||
+				307|307|dʒin sunɑi||
+				308|308|dʰekjo||
+				309|309|herjo||
+				310|310|dʒin herɑi||
+				311|311|dʰojo||
+				312|312|dʒin dʰoe||
+				313|313|mero||
+				314|314|həməro||
+				315|315|təməro||
+				316|316|(sɑme ɑs 316)||
+				317|317|unəro||
+				318|318|(sɑme ɑs 318)||
+				319|319|mũ||
+				320|320|təm||
+				321|321|un||
+				322|322|həm||
+				323|323|(sɑme ɑs 321)||
+				324|324|(sɑme ɑs 322)||
+				325|325|||
+			End Transcriptions
+			Current VarietyEntry=314
+			Description=Long (variety) name:\Variety (name):\Abbreviation:\ISO 639-3 code:\Alternate language names:\Genetic classification:\Date transcription started:\Date transcription finished:\Reliability:\Country:\Province/State:\District:\Sub-District:\Village:\Coordinates North Limit:\Coordinates South Limit:\Coordinates East Limit:\Coordinates West Limit:\Coordinates(Latitude):\Coordinates(Longitude):\Speaker:\Speaker(Sex):\Speaker(Age):\Transcriber:\Interviewer:\Recorder:\Unpublished(source):\Published(source):\Remarks:
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name=Darchula
+			Start Transcriptions
+				0|0|səriʒ / həɾ||
+				1|1|mundo||
+				2|2|rɑõ||
+				3|3|ɑnɑr||
+				4|4|ɑ̃khɑ||
+				5|5|kɑn||
+				6|6|nɑk||
+				7|7|mukʰ||
+				8|8|tʰol||
+				9|9|dɑ̃t||
+				10|10|dʒibəro||
+				11|11|tʃʰɑti||
+				12|12|ɖʰɑɖ||
+				13|13|kəmər||
+				14|14|hɑt̪||
+				15|15|kum||
+				16|16|hɑtkəlɑ||
+				17|17|əᵘnlɑ||
+				18|18|nəŋ||
+				19|19|kʰuttɑ||
+				20|20|gʰũɳɑ||
+				21|21|tʃʰɑlɑ||
+				22|22|hɑrd||
+				23|23|mutu||
+				24|24|rəgət||
+				25|25|mutʰ||
+				26|26|gũ||
+				27|27|gɑũ||
+				28|28|gʰər||
+				29|29|pɑkho||
+				30|30|d̪elo||
+				31|31|dəruwɑ̃||
+				32|32|kutso||
+				33|33|lət̚tʰi||
+				34|34|loro||
+				35|35|ʃilo||
+				36|36|gʰən||
+				37|37|kʰukuri||
+				38|38|ɑ̃ʃi||
+				39|39|bəntʃəro||
+				40|40|dʒəᵘro||
+				41|41|dʰɑgo||
+				42|42|ʃuijo||
+				43|43|lət̚tɑ||
+				44|44|topi||
+				45|45|ɑũtʰi||
+				46|46|sun||
+				47|47|surdʒʰə||
+				48|48|dʒun||
+				49|49|ʃərəgɑ||
+				50|50|tɑrɑ||
+				51|51|mek / pɑni||
+				52|52|pɑni||
+				53|53|kʰolo||
+				54|54|bɑ̃dəl||
+				55|55|tʃiɾəko||
+				56|56|ʃinɑrɑin||
+				57|57|bətɑs||
+				58|58|ɖuŋɑ||
+				59|59|swɑ̃ɖo||
+				60|60|kʰet||
+				61|61|bɑʈo||
+				62|62|ɑgo||
+				63|63|dʰũkɑ||
+				64|64|ʃɑdʒi||
+				65|65|mɑto||
+				66|66|dʰulo||
+				67|67|rukʰ||
+				68|68|pɑt||
+				69|69|dʒəɖɑ||
+				70|70|bi||
+				71|71|bokoɖo||
+				72|72|kɑ̃ɖõ||
+				73|73|pʰul||
+				74|74|bɑ̃s||
+				75|75|bʰuto||
+				76|76|pʰəl pʰul||
+				77|77|ɑm||
+				78|78|kelɑ||
+				79|79|gõ||
+				80|80|tʃʰɑmɑl||
+				81|81|dʰɑn||
+				82|82|bʰɑt||
+				83|83|sɑg||
+				84|84|ɑlu||
+				85|85|bʰɑigən||
+				86|86|mumpʰəli||
+				87|87|korsɑni||
+				88|88|həld̪o||
+				89|89|ləsun||
+				90|90|pjædʒ||
+				91|91|pʰulgʰobi||
+				92|92|ɑɖo||
+				93|93|golibʰĩɳɑ||
+				94|94|bəndɑkopi||
+				95|95|kɑ̃kodo||
+				96|96|tel||
+				97|97|nun||
+				98|98|sikɑr||
+				99|99|boso||
+				100|100|mɑtʃʰɑ||
+				101|101|kukʰudɑ||
+				102|102|ɑ̃ɳɑ̃||
+				103|103|goru / gɑi||
+				104|104|bʰɑiso||
+				105|105|dud||
+				106|106|siŋ||
+				107|107|putʃɑr||
+				108|108|bɑkʰərɑ||
+				109|109|suŋər||
+				110|110|kukur||
+				111|111|billo||
+				112|112|ʃʲæp||
+				113|113|bɑ̃nɑr||
+				114|114|tʃərɑ||
+				115|115|pɑ̃k||
+				116|116|pɑ̃k||
+				117|117|muso||
+				118|118|mətʃʰɑr||
+				119|119|mɑkʰɑ||
+				120|120|mourɑ||
+				121|121|kirməlɑ||
+				122|122|bəɖuwɑ||
+				123|123|dʒorɑ||
+				124|124|uɖus / ʃələʃ||
+				125|125|upʲɑ||
+				126|126|dʒugɑ||
+				127|127|mɑnse||
+				128|128|bɑrse||
+				129|129|putɑri||
+				130|130|gedɑ||
+				131|131|ketɑ||
+				132|132|keti||
+				133|133|bɑbɑ||
+				134|134|idʒɑ||
+				135|135|dɑdɑ||
+				136|136|bʰɑi||
+				137|137|didi||
+				138|138|bəhini||
+				139|139|tʃelo||
+				140|140|tʃeli||
+				141|141|bɑᵘse||
+				142|142|ʃwɑin||
+				143|143|bədʒe||
+				144|144|ɑmɑ||
+				145|145|nɑti||
+				146|146|nɑtini||
+				147|147|dʒetɑ bɑbɑ||
+				148|148|kɑkɑ||
+				149|149|pʰuidʒu / phupu||
+				150|150|mɑmɑ||
+				151|151|dʒedʒɑ||
+				152|152|kɑⁱdʒɑ||
+				153|153|səŋʲi||
+				154|154|nõ||
+				155|155|bhɑsɑ||
+				156|156|din||
+				157|157|rɑt||
+				158|158|pɑrəwɑ̃t||
+				159|159|tʃɑkəlɑ (12-2pm)||
+				160|160|bɑsɑ||
+				161|161|ɑdʒ||
+				162|162|beli||
+				163|163|bʰolə||
+				164|164|həptɑ||
+				165|165|mɑⁱnɑ||
+				166|166|bərsɑ||
+				167|167|tʰulo||
+				168|168|nɑno||
+				169|169|gəruwɑ||
+				170|170|həluko||
+				171|171|purɑno||
+				172|172|nəjɑ̃||
+				173|173|niko||
+				174|174|gət̚to||
+				175|175|rudʒeⁱko||
+				176|176|əkʰəreɑ||
+				177|177|lɑmo||
+				178|178|tʃʰoto||
+				179|179|dubəlo||
+				180|180|gərəm / ghɑm||
+				181|181|tʰənni||
+				182|182|tɑto||
+				183|183|tʰənnũ||
+				184|184|pʰuteko||
+				185|185|bigəreko||
+				186|186|tuteko||
+				187|187|kʰɑli||
+				188|188|bʰəri||
+				189|189|tʰokɑⁱ||
+				190|190|dʒikɑ||
+				191|191|səbɑi||
+				192|192|bɑrɑbər||
+				193|193|uʃwɑi||
+				194|194|dʒudui||
+				195|195|bibʰinə||
+				196|196|||
+				197|197|||
+				198|198|||
+				199|199|||
+				200|200|||
+				201|201|||
+				202|202|||
+				203|203|||
+				204|204|||
+				205|205|||
+				206|206|||
+				207|207|||
+				208|208|||
+				209|209|||
+				210|210|ʃukilo / doulo||
+				211|211|kɑlo||
+				212|212|rɑto||
+				213|213|dɑⁱne||
+				214|214|boũ||
+				215|215|nədʒik||
+				216|216|tɑrɑ||
+				217|217|jehikɑi||
+				218|218|wɑkʰɑ̃i||
+				219|219|mɑ||
+				220|220|tʃɑlmɑ||
+				221|221|bʰitərɑ||
+				222|222|bʰɑirə||
+				223|223|mətʰi||
+				224|224|təli||
+				225|225|itʰə utʰə||
+				226|226|ko||
+				227|227|kɑiko||
+				228|228|ke||
+				229|229|kʲɑⁱki||
+				230|230|kɑ̃||
+				231|231|kəbə||
+				232|232|ko||
+				233|233|kəti||
+				234|234|kəso||
+				235|235|kɑseɾ||
+				236|236|jo||
+				237|237|tjo||
+				238|238|gəjo||
+				239|239|dʒən dʒɑi||
+				240|240|ɑjo||
+				241|241|dʒən ɑi||
+				242|242|dʒərjo||
+				243|243|dʒən dʒərɑⁱ||
+				244|244|tʃorijo||
+				245|245|dʒən tʃorɑⁱ||
+				246|246|orəljo||
+				247|247|dʒən orəlɑi||
+				248|248|lejo||
+				249|249|dʒən le||
+				250|250|ləⁱgjo||
+				251|251|dʒən ləⁱdʒʰɑⁱ||
+				252|252|gɑdjo||
+				253|253|dʒən gɑrɑ||
+				254|254|rɑkʰjo||
+				255|255|dʒən rɑkɑⁱ||
+				256|256|mərjo||
+				257|257|dʒən mərɑⁱ||
+				258|258|bʰok lɑgjo||
+				259|259|tis lɑgjo||
+				260|260|ʃijo||
+				261|261|dʒən ʃei||
+				262|262|pɑrjo||
+				263|263|dʒən pɑrɑⁱ||
+				264|264|bəsjo||
+				265|265|dʒən bəsɑⁱ||
+				266|266|uʈʰjo||
+				267|267|dʒən uʈᵗɑⁱ||
+				268|268|kəlijo||
+				269|269|dʒən kəlie||
+				270|270|hitjo||
+				271|271|dʒən hitɑⁱ||
+				272|272|uɖjo||
+				273|273|dʒən udɑⁱ||
+				274|274|dəgurjo||
+				275|275|dʒən dəgurɑⁱ||
+				276|276|hɑ̃sjo||
+				277|277|dʒən hɑ̃sɑⁱ||
+				278|278|rojo||
+				279|279|dʒən roⁱ||
+				280|280|ukɑljo||
+				281|281|dʒən okɑlɑⁱ||
+				282|282|tʰukjo||
+				283|283|dʒən tʰukɑⁱ||
+				284|284|kʰɑjo||
+				285|285|dʒən kʰɑⁱ||
+				286|286|kɑtjo||
+				287|287|dʒən kɑtɑⁱ||
+				288|288|kʰɑjo||
+				289|289|dʒən kʰɑⁱ||
+				290|290|dijoᵘ||
+				291|291|dʒən deⁱ||
+				292|292|bɑljo||
+				293|293|dʒən bɑlɑⁱ||
+				294|294|dərejo||
+				295|295|dʒən dəreⁱ||
+				296|296|mɑrjo||
+				297|297|dʒən mɑrɑⁱ||
+				298|298|kɑtjo||
+				299|299|dʒən kɑteⁱ||
+				300|300|kitjo||
+				301|301|dʒən kitɑⁱ||
+				302|302|kurəri kɑnɑ gɑrjo||
+				303|303|kurəri kɑnɑ dʒən gɑro||
+				304|304|bəɳjo||
+				305|305|dʒən bəɳɑⁱ||
+				306|306|suɳjo||
+				307|307|dʒən suɳɑⁱ||
+				308|308|dʰekjo||
+				309|309|herjo||
+				310|310|dʒən herɑⁱ||
+				311|311|dʰojo||
+				312|312|dʒən dʰoⁱ||
+				313|313|mero||
+				314|314|həməro||
+				315|315|təməro||
+				316|316|təmərõnko||
+				317|317|unəro||
+				318|318|unərõnko||
+				319|319|mui||
+				320|320|təm||
+				321|321|un||
+				322|322|həmun||
+				323|323|təmun||
+				324|324|unun||
+				325|325|||
+			End Transcriptions
+			Current VarietyEntry=314
+			Description=Long (variety) name:\Variety (name):\Abbreviation:\ISO 639-3 code:\Alternate language names:\Genetic classification:\Date transcription started:\Date transcription finished:\Reliability:\Country:\Province/State:\District:\Sub-District:\Village:\Coordinates North Limit:\Coordinates South Limit:\Coordinates East Limit:\Coordinates West Limit:\Coordinates(Latitude):\Coordinates(Longitude):\Speaker:\Speaker(Sex):\Speaker(Age):\Transcriber:\Interviewer:\Recorder:\Unpublished(source):\Published(source):\Remarks:
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name=Bajhang
+			Start Transcriptions
+				0|0|həɾ||
+				1|1|munʈo||
+				2|2|rumɑ||
+				3|3|ɑnuwɑr||
+				4|4|ɑ̃khɑ||
+				5|5|kɑn||
+				6|6|nɑk||
+				7|7|mukʰ||
+				8|8|tʰol / oʈʰ||
+				9|9|dɑɖɑ / dɑ̃t||
+				10|10|dʒibəro||
+				11|11|tʃʰɑti||
+				12|12|lɑd̪ʰo||
+				13|13|kəmmər||
+				14|14|hɑt̪||
+				15|15|kũnu||
+				16|16|hətəlo / hətkelɑ||
+				17|17|əᵘnlɑ||
+				18|18|nəŋ||
+				19|19|dʒəŋɳo||
+				20|20|gʰudɑ||
+				21|21|tʃʰɑlɑ||
+				22|22|hɑd||
+				23|23|mutu||
+				24|24|rəgət||
+				25|25|||
+				26|26|gu||
+				27|27|gɑũ||
+				28|28|gʰɑr||
+				29|29|pɑkho||
+				30|30|delo / dwɑr||
+				31|31|dourɑ||
+				32|32|kutʃo||
+				33|33|louɖi||
+				34|34|loɾo||
+				35|35|silo||
+				36|36|gʰən||
+				37|37|kʰukuɾi||
+				38|38|ɑ̃si||
+				39|39|bəntʃəro||
+				40|40|ɖor||
+				41|41|dʰɑgo||
+				42|42|sijo||
+				43|43|nɑt̚tɑ||
+				44|44|topi||
+				45|45|mundəɾo||
+				46|46|sun||
+				47|47|bel||
+				48|48|dʒun||
+				49|49|sərək||
+				50|50|tɑɾɑ||
+				51|51|bərʃə||
+				52|52|pɑni||
+				53|53|kʰolɑ||
+				54|54|bɑld̪o||
+				55|55|tʃirəko||
+				56|56|indrɑini||
+				57|57|bɑĩhɑlo||
+				58|58|ɖʰuŋɑ||
+				59|59|sʷɑrdo||
+				60|60|kʰet||
+				61|61|bɑʈo||
+				62|62|ɑgo||
+				63|63|dʰukɑl||
+				64|64|ʃɑdʒi||
+				65|65|mɑto||
+				66|66|dʰulo||
+				67|67|rukʰ||
+				68|68|pɑt||
+				69|69|dʒəɖɑ||
+				70|70|biu||
+				71|71|bokəɖɑ||
+				72|72|kɑ̃do||
+				73|73|pʰul||
+				74|74|bɑ̃s||
+				75|75|tɑmɑ||
+				76|76|pʰəl pʰul||
+				77|77|ɑm||
+				78|78|kelɑ||
+				79|79|goũ||
+				80|80|tʃɑməl||
+				81|81|dʰɑn||
+				82|82|bʰɑt||
+				83|83|sɑg||
+				84|84|ɑlu||
+				85|85|bʰĩɖo||
+				86|86|məmpʰəli||
+				87|87|kursɑni||
+				88|88|həɖʲəlo||
+				89|89|ləsun||
+				90|90|pʲædʒ||
+				91|91|gop̚pi||
+				92|92|ɑd̚do||
+				93|93|golbʰeɖɑ||
+				94|94|bəndə||
+				95|95|kɑ̃kdo||
+				96|96|tel||
+				97|97|nun||
+				98|98|sikɑr||
+				99|99|boso||
+				100|100|mɑtʃʰɑ||
+				101|101|kukʰudɑ||
+				102|102|pʰul||
+				103|103|gɑi||
+				104|104|bʰɑĩso||
+				105|105|dudʰ||
+				106|106|siŋ||
+				107|107|putʃʰɑr||
+				108|108|bɑkʰro||
+				109|109|suŋgɑr||
+				110|110|kukur||
+				111|111|billo||
+				112|112|sʲæp||
+				113|113|bɑ̃nɑr||
+				114|114|tʃəɖo||
+				115|115|pəkʰetɑ||
+				116|116|pɑ̃k||
+				117|117|muso||
+				118|118|mətʃʰɑɾ||
+				119|119|mɑkʰo||
+				120|120|mourɑ||
+				121|121|kirəmulo||
+				122|122|bõɖeⁱ||
+				123|123|dʒũdɑ||
+				124|124|kʰətməl (Hindi)||
+				125|125|upɑijũ||
+				126|126|dʒukɑ||
+				127|127|mɑⁱʃə||
+				128|128|logənɑⁱ||
+				129|129|swɑini||
+				130|130|tʃərɑ tʃəri||
+				131|131|tʃoret̚to||
+				132|132|tʃoret̚ti||
+				133|133|bɑ||
+				134|134|ɑmɑ||
+				135|135|dɑdʒu||
+				136|136|bʰɑdʒɑ||
+				137|137|di||
+				138|138|bɑdʒi||
+				139|139|tʃelo||
+				140|140|tʃeli||
+				141|141|logənʲe||
+				142|142|swɑini||
+				143|143|bɑdʒʲɑ||
+				144|144|bədʒʲe||
+				145|145|nɑti||
+				146|146|nɑtini||
+				147|147|dʒetɑ bɑ||
+				148|148|kɑkɑ||
+				149|149|puidʒu||
+				150|150|mɑmɑ||
+				151|151|dʒetɑ ɑmɑ||
+				152|152|nɑni||
+				153|153|soᵘɖi||
+				154|154|nɑũ||
+				155|155|bhɑsɑ||
+				156|156|din||
+				157|157|rɑt||
+				158|158|tʃəkɑlɑ||
+				159|159|dʲopəri||
+				160|160|bɑsɑ||
+				161|161|ɑdʒi||
+				162|162|beli||
+				163|163|bʰolə||
+				164|164|həptɑ||
+				165|165|muⁱnɑ||
+				166|166|bərʃɑ||
+				167|167|tʰulo||
+				168|168|nɑno||
+				169|169|gəro||
+				170|170|həllo||
+				171|171|purɑnu||
+				172|172|nolu||
+				173|173|niko||
+				174|174|kətʃʰəko||
+				175|175|rudʒʲæko||
+				176|176|sukʲæko||
+				177|177|lɑmõ||
+				178|178|tʃoto||
+				179|179|dublo||
+				180|180|gərəm||
+				181|181|dʒɑɖi||
+				182|182|tɑto||
+				183|183|tʰənnə||
+				184|184|pʰuteⁱko||
+				185|185|bigreⁱko||
+				186|186|bʰɑtʃeko||
+				187|187|kʰɑli||
+				188|188|bʰəri||
+				189|189|nəmɑi||
+				190|190|məstə||
+				191|191|səbwi||
+				192|192|səri||
+				193|193|ustɑi||
+				194|194|pʰərək||
+				195|195|ɑlɑgɑlɑg||
+				196|196|||
+				197|197|||
+				198|198|||
+				199|199|||
+				200|200|||
+				201|201|||
+				202|202|||
+				203|203|||
+				204|204|||
+				205|205|||
+				206|206|||
+				207|207|||
+				208|208|||
+				209|209|||
+				210|210|sukilo||
+				211|211|kɑlo||
+				212|212|rɑto||
+				213|213|dɑⁱnu||
+				214|214|bɑũ||
+				215|215|ləgə||
+				216|216|tɑɾɑ||
+				217|217|jiɑ̃||
+				218|218|tjiɑ̃||
+				219|219|mĩ||
+				220|220|ləg̚gɑi||
+				221|221|bʰit̚trə||
+				222|222|bɑⁱrə||
+				223|223|mutʰi||
+				224|224|muni||
+				225|225|wərɑpərɑ||
+				226|226|ko||
+				227|227|kɑiko||
+				228|228|kʲɑ||
+				229|229|kʲei||
+				230|230|kɑ̃||
+				231|231|kɑilɑ||
+				232|232|ko||
+				233|233|kəti||
+				234|234|kəsto||
+				235|235|kəsəri||
+				236|236|jo||
+				237|237|tjo||
+				238|238|gɑⁱjo||
+				239|239|dʒən dʒɑu||
+				240|240|ɑjo||
+				241|241|dʒən ɑu||
+				242|242|dʒərjo||
+				243|243|dʒən dʒəɾ||
+				244|244|tʃorjo||
+				245|245|dʒən tʃəɾə||
+				246|246|uljo||
+				247|247|dʒən uljo||
+				248|248|ɑnjo||
+				249|249|dʒən ɑnə||
+				250|250|ləgjo||
+				251|251|dʒən leⁱ||
+				252|252|dʒʰikjo||
+				253|253|dʒən dʒʰikə||
+				254|254|rɑkʰjo||
+				255|255|dʒən rɑkhə||
+				256|256|mərjo||
+				257|257|dʒən mərə||
+				258|258|bʰok lɑgjo||
+				259|259|tis lɑgjo||
+				260|260|sutjo||
+				261|261|dʒən sutə||
+				262|262|pəltjo||
+				263|263|dʒən pəltɑ||
+				264|264|bəsjo||
+				265|265|dʒən bəsə||
+				266|266|utʰjo||
+				267|267|dʒən utʰə||
+				268|268|ubhjo||
+				269|269|dʒən ubhjo||
+				270|270|hĩdjo||
+				271|271|dʒən hidə||
+				272|272|uɖjo||
+				273|273|dʒən uɖə||
+				274|274|pʰɑljo||
+				275|275|dʒən pʰɑljo||
+				276|276|hɑ̃sjo||
+				277|277|dʒən hɑ̃sɑ||
+				278|278|rojo||
+				279|279|dʒən rou||
+				280|280|okʰɑljo||
+				281|281|dʒən okʰɑlə||
+				282|282|tʰukjo||
+				283|283|dʒən tʰukə||
+				284|284|kʰɑⁱjo||
+				285|285|dʒən kʰɑᵘ||
+				286|286|kɑtjo||
+				287|287|dʒən tokə||
+				288|288|kʰɑjo||
+				289|289|dʒən kʰɑu||
+				290|290|dijo||
+				291|291|dʒən deu||
+				292|292|bɑljo||
+				293|293|dʒən bɑlə||
+				294|294|kədejo||
+				295|295|dʒən kədejo||
+				296|296|mɑrjo||
+				297|297|dʒən mɑrə||
+				298|298|kɑtjo||
+				299|299|dʒən kɑtə||
+				300|300|hɑpəljo||
+				301|301|dʒən hɑpələ||
+				302|302|kurɑ kɑni gɑrjo / tʃəl pʰəl gɑrjo||
+				303|303|kurɑ kɑni dʒən gɑrə / tʃəl pʰəl dʒən gɑrə||
+				304|304|bʰənjo||
+				305|305|dʒən bənə||
+				306|306|sunjo||
+				307|307|dʒən sunə||
+				308|308|dʰekjo||
+				309|309|herjo||
+				310|310|dʒən hərə||
+				311|311|dʰojo||
+				312|312|dʒən dʰo||
+				313|313|mero||
+				314|314|hə̃ᵘŋro||
+				315|315|tə̃ᵘro||
+				316|316|tə̃ᵘmusəbuⁱko||
+				317|317|tə̃ᵘnuko||
+				318|318|unuko||
+				319|319|mũ||
+				320|320|tə̃ᵘmu||
+				321|321|tĩ / uwɑ||
+				322|322|həmẽ||
+				323|323|təmihəru||
+				324|324|ũwɑ̃hɑru||
+				325|325|||
+			End Transcriptions
+			Current VarietyEntry=314
+			Description=Long (variety) name:\Variety (name):\Abbreviation:\ISO 639-3 code:\Alternate language names:\Genetic classification:\Date transcription started:\Date transcription finished:\Reliability:\Country:\Province/State:\District:\Sub-District:\Village:\Coordinates North Limit:\Coordinates South Limit:\Coordinates East Limit:\Coordinates West Limit:\Coordinates(Latitude):\Coordinates(Longitude):\Speaker:\Speaker(Sex):\Speaker(Age):\Transcriber:\Interviewer:\Recorder:\Unpublished(source):\Published(source):\Remarks:
+		End Variety
+		Start Variety
+			Associated Dictionary=0
+			Name=Kumaoni
+			Start Transcriptions
+				0|0|ɑŋ||
+				1|1|kʰor||
+				2|2|bɑʋ||
+				3|3|mʊkʰ||
+				4|4|ɑ̃kʰ||
+				5|5|kɑn||
+				6|6|nɑk||
+				7|7|toʊ̯||
+				8|8|||
+				9|9|dãnt||
+				10|10|dʒɪbəɽɪ||
+				11|11|tʃʰɑt||
+				12|12|peʈ||
+				13|13|||
+				14|14|hɑtʰ||
+				15|15|kʊhəni||
+				16|16|||
+				17|17|əŋgu||
+				18|18|nəŋ||
+				19|19|kʊt||
+				20|20|||
+				21|21|kʰɑl||
+				22|22|həɖək||
+				23|23|dɪl||
+				24|24|kʰun,lʲu||
+				25|25|mut||
+				26|26|ʈəʈːi,gu||
+				27|27|gũ||
+				28|28|kuɽɪ||
+				29|29|pɑx||
+				30|30|doʋɑɾ||
+				31|31|lɑkəɽ||
+				32|32|kʊtʃ,tʃʊl||
+				33|33|||
+				34|34|muʃoʋ||
+				35|35|ʊkəʋ||
+				36|36|tʰoɽ||
+				37|37|||
+				38|38|||
+				39|39|rəməʈi||
+				40|40|dʒɔɽ||
+				41|41|dʰɑg||
+				42|42|sʲuɾ||
+				43|43|tikɑʋ||
+				44|44|||
+				45|45|mʊnəɽi||
+				46|46|ʃʊn||
+				47|47|gʰɑm||
+				48|48|d̊ʒuɳi||
+				49|49|əgɑs,əsmɑn||
+				50|50|tɑɾ||
+				51|51|dʲu||
+				52|52|paɳɪ||
+				53|53|gɑɽ||
+				54|54|bɑdəʋ||
+				55|55|tʃɑl||
+				56|56|ɪneɳi||
+				57|57|hɑu,bəjɑʋ||
+				58|58|dʰʊŋ,gʰəntəɾ||
+				59|59|||
+				60|60|||
+				61|61|bɑʈ||
+				62|62|ɑg,bʰɪnɛɾ||
+				63|63|dʰũ||
+				64|64|tʃɑɾ||
+				65|65|mɑʈ||
+				66|66|dʰul||
+				67|67|boʈ,ɖɑʋ||
+				68|68|pɑt||
+				69|69|dʒoɽɑ,pʰɑŋ||
+				70|70|||
+				71|71|||
+				72|72|kɑɳ||
+				73|73|pʰul||
+				74|74|||
+				75|75|||
+				76|76|pʰəl||
+				77|77|ɑm||
+				78|78|kʲɑʋ||
+				79|79|gjõ||
+				80|80|tʃəŋgo||
+				81|81|||
+				82|82|||
+				83|83|||
+				84|84|ɑlʊ||
+				85|85|pəʈ||
+				86|86|mofəl||
+				87|87|kʰʊsʲɑgi||
+				88|88|həld||
+				89|89|lɑsəɳ||
+				90|90|pʲɑdʒ||
+				91|91|gobi||
+				92|92|||
+				93|93|tɪmɑʈər||
+				94|94|bənd gobʰi||
+				95|95|||
+				96|96|tel||
+				97|97|nuɳ||
+				98|98|mɑ̃ʃ,ʃɪkɑr||
+				99|99|bəs||
+				100|100|matʃ||
+				101|101|mʊɾgi,kʊkʊɽ||
+				102|102|əɳɖ||
+				103|103|guɽ||
+				104|104|bʰɛ̃s||
+				105|105|dəʋ,dudʰ||
+				106|106|siŋ||
+				107|107|pitʃoɾi||
+				108|108|bəkor||
+				109|109|||
+				110|110|kʊkʊɾ||
+				111|111|||
+				112|112|sʲɑp||
+				113|113|bɑnər||
+				114|114|||
+				115|115|||
+				116|116|||
+				117|117|||
+				118|118|mɑ̃tːʃəɾ||
+				119|119|||
+				120|120|||
+				121|121|kɪrmɑʋ||
+				122|122|bəɖːu||
+				123|123|||
+				124|124|||
+				125|125|||
+				126|126|||
+				127|127|||
+				128|128|mɛ̃ʃ||
+				129|129|sʲɛɳi||
+				130|130|||
+				131|131|tʃəl||
+				132|132|tʃʲeli||
+				133|133|bɑbu||
+				134|134|ɪdʒ||
+				135|135|d̪ɑd̪i||
+				136|136|bʰɛ,nən dɑdi||
+				137|137|dɪdɪ||
+				138|138|bɛɳi||
+				139|139|tʃəl||
+				140|140|tʃeli||
+				141|141|gʰəɾʋɑʋ||
+				142|142|sʲeɳɪ,gʰəɾʋɑi||
+				143|143|||
+				144|144|||
+				145|145|||
+				146|146|||
+				147|147|||
+				148|148|||
+				149|149|||
+				150|150|||
+				151|151|||
+				152|152|||
+				153|153|||
+				154|154|nɑm,nɔ̃||
+				155|155|||
+				156|156|dɪn||
+				157|157|ɾɑt||
+				158|158|ɾɑti bʲɑɳ||
+				159|159|ɑdudɪn||
+				160|160|bjɑʋ||
+				161|161|ɑdʒ||
+				162|162|bʰej||
+				163|163|bʰoʋ||
+				164|164|həptɐ,sɑtdɪn||
+				165|165|məhɛ̃ɳ,məhinɑ||
+				166|166|go sɑl,sɑl,bəɾʃ||
+				167|167|ʈʊl||
+				168|168|nɑn||
+				169|169|bʰɑɾɪ||
+				170|170|həlk,həu̯k||
+				171|171|pʊrɑɳ||
+				172|172|nəi||
+				173|173|bʰəl,nɔko||
+				174|174|nək||
+				175|175|bʰɪdʒi||
+				176|176|ʃuk||
+				177|177|tʰul||
+				178|178|nɑn||
+				179|179|||
+				180|180|gəɾəm,tɑt||
+				181|181|||
+				182|182|||
+				183|183|ʈʰəɳɖ,ʃɑɾdɪ||
+				184|184|||
+				185|185|||
+				186|186|ʈʊʈi||
+				187|187|||
+				188|188|||
+				189|189|mʊɳi||
+				190|190|zʲɑdɑ,ʃɪtːu||
+				191|191|səb||
+				192|192|ɪkːə||
+				193|193|||
+				194|194|fəɾək||
+				195|195|||
+				196|196|||
+				197|197|||
+				198|198|||
+				199|199|||
+				200|200|||
+				201|201|||
+				202|202|||
+				203|203|||
+				204|204|||
+				205|205|||
+				206|206|||
+				207|207|||
+				208|208|||
+				209|209|||
+				210|210|səfed,səped||
+				211|211|kɑʋ||
+				212|212|lɑl||
+				213|213|dɛɳ||
+				214|214|bɑjɑ̃||
+				215|215|nəzdik,sɑmɪɳ||
+				216|216|duɾ,tɑɽ||
+				217|217|||
+				218|218|||
+				219|219|||
+				220|220|||
+				221|221|||
+				222|222|||
+				223|223|məi̯li,məli||
+				224|224|tɛli||
+				225|225|||
+				226|226|ko||
+				227|227|||
+				228|228|kɪ||
+				229|229|||
+				230|230|kɑ̃||
+				231|231|kəsət||
+				232|232|||
+				233|233|koduk||
+				234|234|||
+				235|235|||
+				236|236|jə||
+				237|237|u,jəs||
+				238|238|dʒɑ,dʒɑʋo,nɔ̃ go,dʒɑo,gəjɑ||
+				239|239|||
+				240|240|ɑo,ẽ go||
+				241|241|||
+				242|242|||
+				243|243|||
+				244|244|||
+				245|245|||
+				246|246|||
+				247|247|||
+				248|248|||
+				249|249|||
+				250|250|||
+				251|251|||
+				252|252|||
+				253|253|||
+				254|254|||
+				255|255|||
+				256|256|ni məɾɪn||
+				257|257|||
+				258|258|bʰukʰɛ||
+				259|259|tis||
+				260|260|poɾidʒɨ||
+				261|261|||
+				262|262|poridʒi||
+				263|263|||
+				264|264|bʰɛʈ,bʰɛʈʋə||
+				265|265|||
+				266|266|||
+				267|267|||
+				268|268|||
+				269|269|||
+				270|270|hɪʈ,nʰɔ̃ go||
+				271|271|||
+				272|272|uɖo,uɖ go||
+				273|273|||
+				274|274|dɔɽ,dɔɽɪ go||
+				275|275|||
+				276|276|||
+				277|277|||
+				278|278|||
+				279|279|||
+				280|280|||
+				281|281|||
+				282|282|||
+				283|283|||
+				284|284|kʰɑ||
+				285|285|||
+				286|286|kɑʈo,kɑʈɑ||
+				287|287|||
+				288|288|piʋɑ||
+				289|289|||
+				290|290|dɪjo,de||
+				291|291|||
+				292|292|dʒəgɑ||
+				293|293|||
+				294|294|||
+				295|295|||
+				296|296|ni maɾo,mɑɾ||
+				297|297|||
+				298|298|||
+				299|299|||
+				300|300|||
+				301|301|||
+				302|302|||
+				303|303|||
+				304|304|bol,bulɑi̯||
+				305|305|||
+				306|306|sʲuɳo̯||
+				307|307|||
+				308|308|dekʰ,dekʰəʋ,dekʰi||
+				309|309|||
+				310|310|||
+				311|311|||
+				312|312|||
+				313|313|||
+				314|314|||
+				315|315|||
+				316|316|||
+				317|317|||
+				318|318|||
+				319|319|mɪ,mɛ̃||
+				320|320|tʊm||
+				321|321|ʊ||
+				322|322|həm||
+				323|323|||
+				324|324|||
+				325|325|||
+			End Transcriptions
+			Current VarietyEntry=325
+			Description=Long (variety) name:\Variety (name):\Abbreviation:\ISO 639-3 code:\Alternate language names:\Genetic classification:\Date transcription started:\Date transcription finished:\Reliability:\Country:\Province/State:\District:\Sub-District:\Village:\Coordinates North Limit:\Coordinates South Limit:\Coordinates East Limit:\Coordinates West Limit:\Coordinates(Latitude):\Coordinates(Longitude):\Speaker:\Speaker(Sex):\Speaker(Age):\Transcriber:\Interviewer:\Recorder:\Unpublished(source):\Published(source):\Remarks:
+		End Variety
+	End Varieties
+	Current Variety=2
+	Description=Full Title:\Description:\Remarks:\Complier:\Consultant:\Other Contributor:\Publisher:\Keywords for Searching:\Published Source(s):\Geographic Area Covered:\Stable Copy Located At:\Rights Management:\Rights Holder:\Year Copyright Asserted :\Date Created in WordSurv:7/24/2014 3:43:54 PM\Date Modified in WordSurv:7/24/2014 3:43:54 PM\
+	Current VarietyEntry Column Index=1
+End Survey
+
+Start Comparison
+	Associated Survey=0
+	Name=Dotyali
+	Variety Sort=0|1|2|3|4|5
+	Start Comparison Entries
+		0|dʒiu|2||
+		1|ʈɑuko|2||
+		2|kəpɑl|2||
+		3|ənuhɑr|1||
+		4|ɑ̃khɑ|1||
+		5|kɑn|1||
+		6|nɑk|1||
+		7|mukʰ|1||
+		8|oʈʰ|1||
+		9|dɑ̃t|1||
+		10|dʒibɾo|1||
+		11|tʃʰɑti|1||
+		12|peʈ|1||
+		13|kəmər|1||
+		14|hɑt|1||
+		15|kuⁱno|1||
+		16|hɑtkelɑ|1||
+		17|əᵘlɑ|1||
+		18|nəŋ|1||
+		19|khuʈʈɑ|1||
+		20|gʰũɖɑ|1||
+		21|tʃʰɑlɑ|1||
+		22|hɑɖ|1||
+		23|muʈu|1||
+		24|ɾəgət|1||
+		25|pisɑb|1||
+		26|disɑ|1||
+		27|gɑũ|1||
+		28|gʰər|1||
+		29|tʃɑnɑ|1||
+		30|ɖʰokɑ|1||
+		31|dɑuɾɑ|1||
+		32|kutso|1||
+		33|ləʈʈʰi|1||
+		34|lohoɾo|1||
+		35|siləᵘʈo|2||
+		36|gʰən|1||
+		37|kʰukuɾi|1||
+		38|həsijɑ|1||
+		39|bəntsəɾo|1||
+		40|ɖoɾi|1||
+		41|dʰɑgo|1||
+		42|sijo|1||
+		43|kəpəɖɑ|1||
+		44|ʈopi|1||
+		45|əᵘʈʰi|1||
+		46|sun|1||
+		47|surdʒe|1||
+		48|dʒun|1||
+		49|ɑkɑs|1||
+		50|tɑɾɑ|1||
+		51|pɑni|1||
+		52|pɑni|1||
+		53|kʰolɑ|1||
+		54|bɑdəl|1||
+		55|tʃəʈjæŋ|1||
+		56|indɾeɳi|1||
+		57|hɑwɑ|1||
+		58|ɖʰuŋgɑ|1||
+		59|bɑɾi|1||
+		60|kʰet|1||
+		61|bɑʈo|1||
+		62|ɑgo|1||
+		63|dʰuwɑ̃|2||
+		64|kʰərɑni|3||
+		65|mɑʈo|1||
+		66|dʰulo|1||
+		67|rukʰ|1||
+		68|pɑt|1||
+		69|dʒəɾɑ|1||
+		70|biu|1||
+		71|bokɾo|1||
+		72|kɑ̃ɖo|1||
+		73|pʰul|1||
+		74|bɑ̃s|1||
+		75|tɑmɑ|1||
+		76|pʰəl pʰul|1||
+		77|ɑ̃p|2||
+		78|keɾɑ|1||
+		79|gəũ|1||
+		80|tsɑməl|1||
+		81|dʰɑn|1||
+		82|bʰɑt|1||
+		83|təɾkɑɾi|1||
+		84|ɑlu|1||
+		85|bʰənʈɑ|2||
+		86|bədɑm|1||
+		87|kʰoɹsɑni|1||
+		88|besɑr|1||
+		89|ləsun|1||
+		90|pʲɑdʒ|1||
+		91|kɑuli|1||
+		92|əduwɑ|1||
+		93|golbʰẽɖɑ|1||
+		94|bəndəkobi|1||
+		95|kɑ̃kɾo|1||
+		96|tel|1||
+		97|nun|1||
+		98|mɑsu|1||
+		99|boso|1||
+		100|mɑtʃʰɑ|1||
+		101|kukʰurɑ|1||
+		102|pʰul / əɳɖɑ|1 2||
+		103|gɑi|1||
+		104|bʰəisi|1||
+		105|dudʰ|1||
+		106|siŋ|1||
+		107|puttʃʰər|1||
+		108|bɑkʰɾɑ|1||
+		109|suŋguɾ|1||
+		110|kukur|1||
+		111|biɾɑlo|1||
+		112|sɑ̃p|1||
+		113|bɑ̃dər|1||
+		114|tsəɾɑ|1||
+		115|pəkʰeʈɑ|1||
+		116|pwɑ̃kʰ|1||
+		117|musɑ|1||
+		118|lɑmkʰuʈe|1||
+		119|dʒʰiŋgɑ|1||
+		120|mɑuɾi|1||
+		121|kəmilɑ|1||
+		122|mɑkurɑ|1||
+		123|dʒumrɑ|1||
+		124|uɖus|1||
+		125|upijɑ̃|1||
+		126|dʒʰukɑ|1||
+		127|mɑntʃʰe|1||
+		128|purus|1||
+		129|mɑhilɑ|1||
+		130|bətsɑ|1||x
+		131|keʈɑ|1||
+		132|keʈi|1||
+		133|bɑ / buwɑ|1 2||
+		134|ɑmɑ|1||
+		135|dɑi|1||
+		136|bʰɑi|1||
+		137|didi|1||
+		138|bəhini|1||
+		139|tʃʰoɾo|1||
+		140|tʃʰoɾi|1||
+		141|sɾimɑn|1||x
+		142|sɾiməti|3||
+		143|hədʒuɾ bɑ|1||
+		144|hədʒuɾ ɑmɑ|1||
+		145|nɑti|1||
+		146|nɑtini|1||
+		147|ʈʰulo bɑbu|1||
+		148|sɑnɑ bɑbu|1||
+		149|pʰupu|1||
+		150|mɑmɑ|1||
+		151|ʈʰulo ɑmɑ|1||
+		152|sɑnɑ ɑmɑ|1||x
+		153|sɑtʰi|1||
+		154|nɑũ|1||
+		155|bʰɑsɑ|1||
+		156|din|1||
+		157|ɾɑt|1||
+		158|bihɑnə|1||
+		159|diũso|||x
+		160|belukɑ|||x
+		161|ɑdʒə|1||
+		162|hidʒo|1||
+		163|bʰoli|1||
+		164|həptɑ|1||
+		165|məhinɑ|1||
+		166|bərsə|1||
+		167|ʈʰulo|1||
+		168|sɑno|1||
+		169|gəɾuŋgo|1||
+		170|həluŋgo|1||
+		171|puɾɑno|1||
+		172|nəjɑ̃|1 2||
+		173|ɾɑmɾo|1||
+		174|nəɾɑmɾo|1||
+		175|bhidʒeko|1 2||
+		176|sukkʰə|1 3||
+		177|lɑmo|1||
+		178|tʃʰoʈo|1||
+		179|dublo|1||
+		180|gəɾmi|1||
+		181|dʒɑɖo|1||
+		182|tɑto|1||
+		183|tsiso|1||
+		184|pʰuʈeko|1||
+		185|bigɾieko|1||
+		186|bʰɑtʃeko|1||
+		187|kʰɑli|1||
+		188|bʰəɾibʰərɑu|1||
+		189|tʰorəi|1||
+		190|dʰeɾəi|1||
+		191|səbəi|1||
+		192|bərɑbɑr|1||
+		193|ustəi|1||
+		194|pʰərək|1||
+		195|bibʰinə|1||
+		196|ek|||x
+		197|dui|||x
+		198|tin|||x
+		199|tʃɑɾ|||x
+		200|pɑ̃ts|||x
+		201|tʃɑ|||x
+		202|sɑt|||x
+		203|ɑʈʰ|||x
+		204|nɑu|||x
+		205|dəs|||x
+		206|egʰɑɾə|||x
+		207|bɑhɾɑ|||x
+		208|bis|||x
+		209|ek səj|||x
+		210|seto|1||
+		211|kɑlo|1||
+		212|ɾɑto|1||
+		213|dɑjɑ̃|1||
+		214|bɑjɑ̃|1||
+		215|nədʒik|1||
+		216|ʈɑɖʰɑ|1||
+		217|yɑhɑ̃|1||
+		218|tyɑhɑ̃|1||
+		219|-mɑ|1||
+		220|tʃomɑ|1||x
+		221|bʰittrɑ|1||
+		222|bɑhirə|1||
+		223|mɑtʰi|1||
+		224|tələ /  muni|1 2||
+		225|wɑripɑri|1||
+		226|ko|1||
+		227|kəsko|1||
+		228|ke|1||
+		229|kinə|1||
+		230|kəhɑ̃|1||
+		231|kəile|1||
+		232|kun|1||
+		233|kəti|1||
+		234|kəsto|1||
+		235|kəsəɾi|1||
+		236|jo|1||
+		237|tjo|1||
+		238|tələ gɑjo|1||
+		239|tələ nəgɑu|1||
+		240|ɑjo|1||
+		241|nəɑu|1||
+		242|dʒʰəɾjo|1||
+		243|nədʒʰəɾɑ|1||
+		244|tʃəɖjo|1||
+		245|nətʃəɖə|1||
+		246|oɾljo|1||
+		247|nəoɾljɑ|1||
+		248|ljɑjo|1||
+		249|nəljɑu|1||
+		250|ləgjo|1||
+		251|nələgə|1||
+		252|dʒʰikjo|1||
+		253|nədʒʰikɑ|1||
+		254|rɑkʰjo|1||
+		255|nərɑkʰɑ|1||
+		256|məɾjo|1||
+		257|nəməɾə|1||
+		258|bʰok lɑgʲo|1||
+		259|tiɾkɑ lɑgʲo|1||
+		260|sutjo|1||
+		261|nəsutə|1||
+		262|pəlʈjo|1||
+		263|nəpəlʈə|1||
+		264|bəsjo|1||
+		265|nəbəsə|1||
+		266|uʈʰjo|1||
+		267|nəuʈʰə|1||
+		268|ubʰijo|1||
+		269|nəubʰiu|1||
+		270|hĩɖjo|1||
+		271|nəhĩɖə|1||
+		272|uɖjo|1||
+		273|nəuɖə|1||
+		274|dəguɾjo|1||
+		275|nədəguɾə|1||
+		276|hɑ̃sjo|1||
+		277|nəhɑ̃sɑ|1||
+		278|rojo|1||
+		279|nərou|1||
+		280|bɑntɑ gərijo|1||
+		281|bɑntɑ nəgərɑ|1||
+		282|tʰukjo|1||
+		283|nətʰukɑ|1||
+		284|kʰɑjo|1||
+		285|nəkʰɑu|1||
+		286|ʈokjo|1||
+		287|nəʈokə|1||
+		288|pijo|1||
+		289|nəpiu|1||
+		290|dijo|1||
+		291|nədeu|1||
+		292|dɑurɑ bɑljo|1||
+		293|dɑurɑ nəbɑlɑ|1||
+		294|gɑɖjo|1||
+		295|nəgɑɖɑ|1||
+		296|mɑɾjo|1||
+		297|nəmɑɾə|1||
+		298|kɑʈjo|1||
+		299|nəkɑʈɑ|1||
+		300|pʰɑljo|1||
+		301|nəpʰɑlɑ|1||
+		302|tʃəlpʰəl gəɾjo|1||
+		303|tʃəlpʰəl nəgəɾɑ|1||
+		304|bʰənjo|1||
+		305|nəbʰənə|1||
+		306|sunjo|1||
+		307|nəsunə|1||
+		308|dekʰjo|1||
+		309|heɾjo|1||
+		310|nəheɾə|1||
+		311|dʰojo|1||
+		312|nədʰo|1||
+		313|mero|1||
+		314|həmro|1||
+		315|təpɑĩko|1||
+		316|təpɑĩhəruko|1||
+		317|uwɑ̃hɑko|1||
+		318|uwɑ̃hɑhəruko|1||
+		319|mə|1||
+		320|təpɑĩ|1||
+		321|uhɑ̃|1||
+		322|hɑmi|1||
+		323|təpɑĩhəɾu|1||
+		324|wɑhɑhəɾu|1||
+		325||||x
+		0|həɾ|1||
+		1|munto|1||
+		2|roũ|1||
+		3|ənɑr|1||
+		4|ɑ̃kɑ|1||
+		5|kɑn|1||
+		6|nɑk|1||
+		7|muk|1||
+		8|tʰol|2||
+		9|dɑ̃t|1||
+		10|dʒibəɾo|1||
+		11|tʃʰɑti|1||
+		12|pet|1||
+		13|kəɳɳə|1||
+		14|pəkʰuɾɑ|2||
+		15|kum|1||
+		16|hətkelɑ|1||
+		17|ɑũlɑ|1||
+		18|nəŋ|1||
+		19|kuʈɑ|1||
+		20|gũɳɑ̃|1||
+		21|tʃʰɑlɑ|1||
+		22|hɑɖ|1||
+		23|muʈu|1||
+		24|rəgət|1||
+		25|muʈ̚|2||
+		26|gu|2||
+		27|gɑũ|1||
+		28|gʰɑr|1||
+		29|pɑkho|2||
+		30|dwər|3 4||
+		31|dərwə̃|1||
+		32|kutʃo|1||
+		33|lɑuro|1||
+		34|loro|1||
+		35|silɑuʈo|2||
+		36|gʰən|1||
+		37|kʰukuri|1||
+		38|ɑ̃ʃi|2||
+		39|bəntʃəro|1||
+		40|rəsi|2||
+		41|dʰɑgo|1||
+		42|ʃujo|1||
+		43|kəpəɾɑ|1||
+		44|tɑkʰi|1||
+		45|ɑũʈʰi|1||
+		46|sun|1||
+		47|surʒʲæ|1||
+		48|dʒun|1||
+		49|sərgə|2||
+		50|tɑrɑ|1||
+		51|meg|2||
+		52|pɑni|1||
+		53|kʰolɑ|1||
+		54|bɑdəl|1||
+		55|tʃilko|2||
+		56|indrəini|1||
+		57|bətɑs|2||
+		58|duŋɑ|1||
+		59|bɑri|1||
+		60|kʰet|1||
+		61|bɑʈo|1||
+		62|ɑgo|1||
+		63|dʰukəl|1||
+		64|tʃɑɾ|2||
+		65|mɑʈi|1||
+		66|dʰulo|1||
+		67|rukʰ|1||
+		68|pɑt|1||
+		69|dʒəɖɑ|1||
+		70|bi|2||
+		71|bokəɖɑ|1||
+		72|kɑ̃ɖɑ̃|1||
+		73|pʰul|1||
+		74|bɑ̃s|1||
+		75|kəllɑ|2||
+		76|pʰəl pʰul|1||
+		77|ɑm|1||
+		78|kelɑ|1||
+		79|gõu|1||
+		80|tʃɑməl|1||
+		81|dʰɑn|1||
+		82|bʰɑt|1||
+		83|tərkɑri / sɑg|1 2||
+		84|ɑlu|1||
+		85|bɑigun|1||
+		86|məmpʰəli|2||
+		87|ɖɑ|2||
+		88|həldo|2 3||
+		89|lɑʃun|1||
+		90|pjædʒ|1||
+		91|gopi|2||
+		92|ɑɖo|2||
+		93|golbĩɾɑ|1||
+		94|bəndɑgopi|1||
+		95|kɑ̃kõɖo|1||
+		96|tel|1||
+		97|nun|1||
+		98|sikɑr|2||
+		99|boso|1||
+		100|mɑtʃʰɑ|1||
+		101|kukurɑ|1||
+		102|əndɑ / pʰul|1 2||
+		103|gɑi|1||
+		104|bʰɑĩso|1||
+		105|dud|1||
+		106|ʃiŋ|1||
+		107|putʃəɾi|1||
+		108|bəkɑrɑ|1||
+		109|sumər|1||
+		110|kukur|1||
+		111|billo|1||
+		112|ʃjæp|1||
+		113|bɑnər|1||
+		114|tʃərɑ|1||
+		115|pəkʰetɑ|1||
+		116|pəkʰjɑr|2||
+		117|musɑ|1||
+		118|mətʃəɾ|2||
+		119|mɑkʰɑ|2||
+		120|mourɑ|1||
+		121|kirmilo|1||
+		122|bəɖuwɑ|2||
+		123|dʒoɽɑ̃|2||
+		124|uɖus|1||
+		125|upəjæ̃|1||
+		126|dʒugɑ|1||
+		127|mɑntʒʰe|1||
+		128|bəikɑn|2||
+		129|swɑini|2||
+		130|dʒɑtku|2||x
+		131|ketɑ|1||
+		132|keti|1||
+		133|bɑ|1||
+		134|iʒɑ|2||
+		135|dɑi|1||
+		136|bʰɑi|1||
+		137|didi|1||
+		138|bəhini|1||
+		139|tʃelo|1 2||
+		140|tʃeli|1||
+		141|bɑikɑn|2||x
+		142|swɑⁱni|1 4||
+		143|bədʒe|2||
+		144|bədʒeⁱ|2||
+		145|nɑti|1||
+		146|nɑtini|1||
+		147|dʒetɑ bɑ|2||
+		148|kɑntʃɑ bɑ|2||
+		149|phupʰu|1||
+		150|mɑmɑ|1||
+		151|dʒeti ɑmɑ|2||
+		152|kɑntʃi ɑmɑ|2||x
+		153|sɑtʰi|1||
+		154|nɑu|1||
+		155|bʰɑsɑ|1||
+		156|din|1||
+		157|rɑt|1||
+		158|bihɑnə|1||
+		159|dinə|||x
+		160|bəsɑitikə|||x
+		161|ɑdʒə|1||
+		162|beli|2||
+		163|bʰolɑ|1||
+		164|həptɑ|1||
+		165|mɑinɑ|1||
+		166|bərsɑ / sɑl|1 2||
+		167|bəɖo|2||
+		168|nɑno|1 2||
+		169|bʰɑri|2||
+		170|həluko|1 2||
+		171|purɑno|1||
+		172|nəjɑ / nõlu|1 2||
+		173|rɑməro|1||
+		174|nərɑməro / nəniko|1||
+		175|ruʒeko|1||
+		176|sukeko|1||
+		177|lɑmo|1||
+		178|tʃʰoto|1||
+		179|dubəlo|1||
+		180|gərəm / ghɑm|1||
+		181|dʒɑɖi / ʈənni|1 2||
+		182|tɑto|1||
+		183|tʰənni|2||
+		184|pʰutjæ|2||
+		185|bigərjæ|1||
+		186|tutjæ|2 3||
+		187|kʰɑli|1||
+		188|bʰəri|2||
+		189|tokɑi|1||
+		190|dʒikəi|2||
+		191|səbɑi|1||
+		192|bərɑbər|1||
+		193|usɑi|1||
+		194|njænjærɑi|2||x
+		195|njænjærɑi|||x
+		196||||x
+		197||||x
+		198||||x
+		199||||x
+		200||||x
+		201||||x
+		202||||x
+		203||||x
+		204||||x
+		205||||x
+		206||||x
+		207||||x
+		208||||x
+		209||||x
+		210|dɑulo|2||
+		211|kɑlo|1||
+		212|rɑto|1||
+		213|dɑjɑ̃|1||
+		214|bɑjɑ̃|1||
+		215|ləgə|2||
+		216|durə|2||
+		217|jɑ̃|2||
+		218|tjɑ̃|2||
+		219|mɑ|1||
+		220|jɛllɑi|2||x
+		221|bitəɾə|1||
+		222|bɑiɾə|1||
+		223|mətʰi / məltiɾə|1||
+		224|təltiɾə|1||
+		225|jeheɾə wietə|2||
+		226|ko|1||
+		227|kɑiko|1||
+		228|ke|1||
+		229|kelɑi|1||
+		230|kɑ̃|2||
+		231|kɑile|1||
+		232|ko|2||
+		233|kəti|1||
+		234|kəso|1||
+		235|kəsəri|1||
+		236|jo|1||
+		237|tjo|1||
+		238|gəjo|1||
+		239|dʒən dʒɑ|2||
+		240|ɑjo|1||
+		241|dʒən ɑ|2||
+		242|dʒərjo|1||
+		243|dʒən dʒərə|1||
+		244|tʃərdjo|1||
+		245|dʒən tʃərɖɑ|1||
+		246|oljo|1||
+		247|dʒən ol|2||
+		248|lejo|1||
+		249|dʒən ljæ|1 3||
+		250|lɑigjo|1||
+		251|dʒən ləgə|1||
+		252|nikɑljo|2||
+		253|dʒən nikɑlə|2||
+		254|rɑkjo|1||
+		255|dʒən rɑkə|1||
+		256|mərjo|1||
+		257|dʒən mərə|1||
+		258|bok lɑgjo|1||
+		259|tis lɑgjo|2||
+		260|sijo|1||
+		261|dʒən sijə|1 2||
+		262|tertʃjo|2||
+		263|dʒən tertʃje|2||
+		264|bəsjo|1||
+		265|dʒən bəsə|1||
+		266|uʈʰjo|1||
+		267|dʒən uʈʰə|1||
+		268|kəlijo|2||
+		269|dʒən kəliɑ|2||
+		270|hĩɖjõ|1||
+		271|dʒən hĩɖə|1||
+		272|uɖjo|1||
+		273|dʒən uɖə|1||
+		274|dourjo|1 4||
+		275|dʒən dourə|1||
+		276|hɑ̃sjo|1||
+		277|dʒən hɑ̃sə|1||
+		278|rojo|1||
+		279|dʒən ro|2||
+		280|ulti gɑrjo|2||
+		281|ulti dʒən gərə|2||
+		282|tʰukjo|1||
+		283|dʒən tʰəkə|1||
+		284|kʰɑjo|1||
+		285|dʒən kʰɑ|2||
+		286|kɑʈjo|2||
+		287|dʒən kɑʈə|2||
+		288|pijo|1||
+		289|dʒən pe|2||
+		290|dijo|1||
+		291|dʒən de|2||
+		292|səlkɑjo|2||
+		293|dʒən səlkɑ|2||
+		294|dəbɑrjo|2||
+		295|dʒən dəbɑrə|2||
+		296|mɑrjo|1||
+		297|dʒən mɑrə|1||
+		298|kɑʈjo|1||
+		299|dʒən kɑʈə|1||
+		300|hɑpʰɑljo|2||
+		301|dʒən hɑpʰələ|2||
+		302|tʃəl pəl ɑrjo|2||
+		303|tʃəl pəl dʒən ɑrɑ|2||
+		304|bɑ̃ɳjo|1||
+		305|dʒən bə̃nə|1||
+		306|sunjo|1||
+		307|dʒən sunə|1||
+		308|dʰekjo|1||
+		309|herjo|1||
+		310|dʒən herə / dʒən tɑkɑ|1 2||
+		311|pəkʰɑljo|2||
+		312|dʒən pəkʰɑlə|2||
+		313|mero|1||
+		314|həməro|1||
+		315|təməro|2||
+		316||||x
+		317|unəro|2||
+		318||||x
+		319|mə̃|1||
+		320|təm|2||
+		321|un|2||
+		322|həm|1||
+		323|təmihəru|1||
+		324||||x
+		325||||x
+		0|səril|3||
+		1|munto|1||
+		2|roɑ̃|1||
+		3|ɑnɑr|1||
+		4|ɑ̃khɑ|1||
+		5|kɑn|1||
+		6|nɑk|1||
+		7|muk|1||
+		8|tʰol|2||
+		9|dɑ̃dɑ|1||
+		10|dʒibəro|1||
+		11|tʃʰɑti|1||
+		12|pet|1||
+		13|kənnu|1||
+		14|hɑt̪|1||
+		15|kum|1||
+		16|hətolɑ|1||
+		17|ɑŋglo|1||
+		18|nəŋ|1||
+		19|kʰuttɑ|1||
+		20|gʰuɳɑ|1||
+		21|tʃʰɑlɑ|1||
+		22|hɑrd|1||
+		23|muʈu|1||
+		24|rəgət|1||
+		25|mut̚|2||
+		26|gu|2||
+		27|gɑũ|1||
+		28|gʰɑr|1||
+		29|pɑkho|2||
+		30|delo|2||
+		31|dəruŋo|1||
+		32|kutʃo|1||
+		33|lɑuro|1||
+		34|loro|1||
+		35|silo / silɑuto|1 2||
+		36|gʰən|1||
+		37|kʰukuri|1||
+		38|ɑ̃ʃi|2||
+		39|bəntʃəro|1||
+		40|dʒəᵘro|3||
+		41|dʰɑgo|1||
+		42|ʃuⁱje|1||
+		43|kəpərɑ|1||
+		44|kulo|2||
+		45|munɑɖo|2||
+		46|sun|1||
+		47|bel|2||
+		48|dʒun|1||
+		49|sərku|2||
+		50|tɑrɑ|1||
+		51|pɑni|1||
+		52|pɑni|1||
+		53|kʰolɑ|1||
+		54|bɑdəl|1||
+		55|tʃirəko|2||
+		56|ʃinərɑin|1||
+		57|bətɑs|2||
+		58|ɖʰũŋɑ|1||
+		59|swɑ̃ɖo|2||
+		60|gɑɖɑ|2||
+		61|bɑʈo|1||
+		62|ɑgo|1||
+		63|dʰukɑl|1||
+		64|ʃɑdʒi|1||
+		65|məʈi / mɑto|1||
+		66|dʰulo|1||
+		67|rukʰ|1||
+		68|pɑt|1||
+		69|dʒəɖɑ|1||
+		70|biu|1||
+		71|bokoɖo|1||
+		72|kɑ̃ɖõ|1||
+		73|pʰul|1||
+		74|bɑ̃s|1||
+		75|tuʃo|3||
+		76|pʰəl pʰul|1||
+		77|ɑm|1||
+		78|kelɑ|1||
+		79|gõu|1||
+		80|tʃɑŋəl|1||
+		81|dʰɑn|1||
+		82|bʰɑt|1||
+		83|sɑg|2||
+		84|ɑlu|1||
+		85|bʰɑikən|1||
+		86|mukʰpəli|2||
+		87|ɖɑ|2||
+		88|həlɖu|2 3||
+		89|ləʃon|1||
+		90|pjædʒ|1||
+		91|pʰulgʰobi|3||
+		92|ɑdo|2||
+		93|tæmmiʈər|2||
+		94|bəndɑgobi|1||
+		95|kɑ̃koɖo|1||
+		96|tel|1||
+		97|nun|1||
+		98|sikɑr|2||
+		99|boso|1||
+		100|mɑtʃʰɑ|1||
+		101|kukʰudɑ|1||
+		102|əndɑ|2||
+		103|gɑi|1||
+		104|bʰɑiso|1||
+		105|dud̪|1||
+		106|ʃiŋ|1||
+		107|putʃɑr|1||
+		108|bɑkʰoro|1||
+		109|sũŋə̃r|1||
+		110|kukur|1||
+		111|billu|1||
+		112|ʃjæp|1||
+		113|bɑnər|1||
+		114|tʃəɳo|1||
+		115|pɑkʰitɑ|1||
+		116|pɑk|1||
+		117|musɑ|1||
+		118|mətʃʰəɾ|2||
+		119|mækʰɑ|2||
+		120|mɑurɑ|1||
+		121|kirmulo|1||
+		122|bəɖuwɑ|2||
+		123|dʒoɽo|2||
+		124|kətməl|2||
+		125|upɑijẽ|1||
+		126|dʒukɑ|1||
+		127|mɑis|2||
+		128|bɑikɑn / bɑuse|2 3||
+		129|swɑni|2||
+		130|bɑlək|3||x
+		131|tʃelo|2||
+		132|tʃeli|2||
+		133|buɑ|2||
+		134|idʒɑ|2||
+		135|dɑdɑ|2||
+		136|bʰɑi|1||
+		137|didi|1||
+		138|bəhini|1||
+		139|tʃelo|1 2||
+		140|tʃeli|1||
+		141|poi|3||x
+		142|dʒoi / swɑni|1 2 4||
+		143|bɑdʒe|2||
+		144|ɑmɑ|3||
+		145|nɑti|1||
+		146|nɑtini|1||
+		147|dʒetɑ buɑ|2||
+		148|kɑkɑ|3||
+		149|phuidʒu|1||
+		150|mɑmɑ|1||
+		151|dʒeidʒɑ|3||
+		152|kõiʃi|3||x
+		153|sɑtʰi|1||
+		154|nɑu|1||
+		155|bhɑsɑ|1||
+		156|din|1||
+		157|rɑt|1||
+		158|pɑrbhɑt|2||
+		159|dopɑri (noon)|1||
+		160|bɑʃɑ|1||
+		161|ɑdʒ|1||
+		162|beli|2||
+		163|bʰolə|1||
+		164|həptɑ|1||
+		165|mɑinɑ|1||
+		166|bərsɑ / sɑl|1 2||
+		167|ʈʰulo|1||
+		168|nɑno|1 2||
+		169|gəruɳõ|1||
+		170|həlko|1 2||
+		171|purɑno|1||
+		172|nɔ̃je|1 2||
+		173|niko / rɑməro|1 2||
+		174|nərɑməro / gətto|1 2||
+		175|bhidʒeko|1 2||
+		176|sukeko|1||
+		177|lɑmo|1||
+		178|tʃʰoto|1||
+		179|dubəlo|1||
+		180|gərəm|1||
+		181|ʈʰənni|2||
+		182|tɑto|1||
+		183|tʰənno|2||
+		184|pʰuteko|1||
+		185|bigəreko|1||
+		186|bhɑtʃeko|1||
+		187|rito / kʰɑli|1 2||
+		188|bʰəri|2||
+		189|təkɑi|1||
+		190|dherɑi / dʒikhɑ|1 2||
+		191|sep̚pɑi|1||
+		192|bɑrɑbər|1||
+		193|uʃwɑi|1||
+		194|bʰinɑ̃i|3||x
+		195|ɑlɑkɑlɑk|2||
+		196||||x
+		197||||x
+		198||||x
+		199||||x
+		200||||x
+		201||||x
+		202||||x
+		203||||x
+		204||||x
+		205||||x
+		206||||x
+		207||||x
+		208||||x
+		209||||x
+		210|doulo|2||
+		211|kɑlo|1||
+		212|rɑto|1||
+		213|dɑjɑ̃|1||
+		214|bɑjɑ̃|1||
+		215|nəgikʰ|1||
+		216|ʈɑɳɑ|1||
+		217|ɳɑ̃|3||
+		218|tjɑ̃|2||
+		219|mɑ|1||
+		220|nədʒikʰ|3||x
+		221|bʰitərɑ|1||
+		222|bɑirə|1||
+		223|mɑtʰi|1||
+		224|təlɑ|1||
+		225|wɑripəri|1||
+		226|ko|1||
+		227|kɑiko|1||
+		228|ke|1||
+		229|kʲɑki|1||
+		230|kɑ̃|2||
+		231|kəbə|1||
+		232|ko|2||
+		233|kəti|1||
+		234|kəso|1||
+		235|kəsəri|1||
+		236|jo|1||
+		237|tjo|1||
+		238|gəjo|1||
+		239|dʒin dʒɑi|1||
+		240|ɑjo|1||
+		241|dʒin ɑi|3||
+		242|dʒəɾjo|1||
+		243|dʒin dʒərɑi|1||
+		244|tʃoɽjo|1||
+		245|dʒin tʃoɾɑi|1||
+		246|orijo|1||
+		247|dʒin orɑi|1||
+		248|ləʃjo|1||
+		249|dʒin ləʃɑi|2||
+		250|ləigjo|1||
+		251|dʒin ləgɑi|1||
+		252|nikɑljo|2||
+		253|dʒin nikɑllɑi|2||
+		254|rɑkʰjo|1||
+		255|dʒin rɑkʰɑi|1||
+		256|mərjo|1||
+		257|dʒin mərɑi|1||
+		258|bʰok lɑgjo|1||
+		259|tis lɑgjo|2||
+		260|ʃejo|1||
+		261|dʒin ʃei|2||
+		262|pɑrjo|1 3||
+		263|dʒin pɑrɑi|3||
+		264|bəsjo|1||
+		265|dʒin bəsɑi|1||
+		266|uʈʰjo|1||
+		267|dʒin uʈʰɑi|1||
+		268|kəljo|2||
+		269|dʒin kəle|2||
+		270|hĩʈjo|1||
+		271|dʒin hit̚tɑi|1||
+		272|uɖjo|1||
+		273|dʒin uɖɑi|1||
+		274|bisəljo|2||
+		275|dʒin bisɑlɑi|2||
+		276|hɑ̃sjo|1||
+		277|dʒin hɑsɑi|1||
+		278|rojo|1||
+		279|dʒin roje|1||
+		280|ulti gɑrjo / okʰɑljo|2 3||
+		281|ulti dʒin gɑrɑi / dʒin okʰɑlɑi|2 3||
+		282|tʰukjo|1||
+		283|dʒin tʰukɑi|1||
+		284|kʰɑⁱjo|1||
+		285|dʒin kʰɑi|1||
+		286|kɑʈjo|2||
+		287|dʒin kɑʈɑi|2||
+		288|pijo|1||
+		289|dʒin pie|1||
+		290|dijo|1||
+		291|dʒin die|3||
+		292|bɑljo|1||
+		293|dʒin bɑlɑi|1||
+		294|kədejo|1||
+		295|dʒin kədei|3||
+		296|mɑrjo|1||
+		297|dʒin mɑrɑi|1||
+		298|kɑtjo|1||
+		299|dʒin kɑtɑi|1||
+		300|hɑpɑlijo|2||
+		301|dʒin hɑpɑlɑi|2||
+		302|kureri gɑrjo|3||
+		303|kureri dʒin gɑrɑi|3||
+		304|bʰənjo|1||
+		305|dʒin bʰəne|1||
+		306|sunjo|1||
+		307|dʒin sunɑi|1||
+		308|dʰekjo|1||
+		309|herjo|1||
+		310|dʒin herɑi|1||
+		311|dʰojo|1||
+		312|dʒin dʰoe|1||
+		313|mero|1||
+		314|həməro|1||
+		315|təməro|2||
+		316|(sɑme ɑs 316)|||x
+		317|unəro|2||
+		318|(sɑme ɑs 318)|||x
+		319|mũ|1||
+		320|təm|2||
+		321|un|2||
+		322|həm|1||
+		323|(sɑme ɑs 321)|||x
+		324|(sɑme ɑs 322)|||x
+		325||||x
+		0|səriʒ / həɾ|1 3||
+		1|mundo|1||
+		2|rɑõ|1||
+		3|ɑnɑr|1||
+		4|ɑ̃khɑ|1||
+		5|kɑn|1||
+		6|nɑk|1||
+		7|mukʰ|1||
+		8|tʰol|2||
+		9|dɑ̃t|1||
+		10|dʒibəro|1||
+		11|tʃʰɑti|1||
+		12|ɖʰɑɖ|2||
+		13|kəmər|1||
+		14|hɑt̪|1||
+		15|kum|1||
+		16|hɑtkəlɑ|1||
+		17|əᵘnlɑ|1||
+		18|nəŋ|1||
+		19|kʰuttɑ|1||
+		20|gʰũɳɑ|1||
+		21|tʃʰɑlɑ|1||
+		22|hɑrd|1||
+		23|mutu|1||
+		24|rəgət|1||
+		25|mutʰ|2||
+		26|gũ|2||
+		27|gɑũ|1||
+		28|gʰər|1||
+		29|pɑkho|2||
+		30|d̪elo|2||
+		31|dəruwɑ̃|1||
+		32|kutso|1||
+		33|lət̚tʰi|1||
+		34|loro|1||
+		35|ʃilo|1||
+		36|gʰən|1||
+		37|kʰukuri|1||
+		38|ɑ̃ʃi|2||
+		39|bəntʃəro|1||
+		40|dʒəᵘro|3||
+		41|dʰɑgo|1||
+		42|ʃuijo|1||
+		43|lət̚tɑ|2||
+		44|topi|1||
+		45|ɑũtʰi|1||
+		46|sun|1||
+		47|surdʒʰə|1||
+		48|dʒun|1||
+		49|ʃərəgɑ|2||
+		50|tɑrɑ|1||
+		51|mek / pɑni|1 2||
+		52|pɑni|1||
+		53|kʰolo|1||
+		54|bɑ̃dəl|1||
+		55|tʃiɾəko|2||
+		56|ʃinɑrɑin|1||
+		57|bətɑs|2||
+		58|ɖuŋɑ|1||
+		59|swɑ̃ɖo|2||
+		60|kʰet|1||
+		61|bɑʈo|1||
+		62|ɑgo|1||
+		63|dʰũkɑ|1 2||
+		64|ʃɑdʒi|1||
+		65|mɑto|1||
+		66|dʰulo|1||
+		67|rukʰ|1||
+		68|pɑt|1||
+		69|dʒəɖɑ|1||
+		70|bi|2||
+		71|bokoɖo|1||
+		72|kɑ̃ɖõ|1||
+		73|pʰul|1||
+		74|bɑ̃s|1||
+		75|bʰuto|4||
+		76|pʰəl pʰul|1||
+		77|ɑm|1||
+		78|kelɑ|1||
+		79|gõ|1||
+		80|tʃʰɑmɑl|1||
+		81|dʰɑn|1||
+		82|bʰɑt|1||
+		83|sɑg|2||
+		84|ɑlu|1||
+		85|bʰɑigən|1||
+		86|mumpʰəli|2||
+		87|korsɑni|1||
+		88|həld̪o|2 3||
+		89|ləsun|1||
+		90|pjædʒ|1||
+		91|pʰulgʰobi|3||
+		92|ɑɖo|2||
+		93|golibʰĩɳɑ|1||
+		94|bəndɑkopi|1||
+		95|kɑ̃kodo|1||
+		96|tel|1||
+		97|nun|1||
+		98|sikɑr|2||
+		99|boso|1||
+		100|mɑtʃʰɑ|1||
+		101|kukʰudɑ|1||
+		102|ɑ̃ɳɑ̃|2||
+		103|gɑi|1||
+		104|bʰɑiso|1||
+		105|dud|1||
+		106|siŋ|1||
+		107|putʃɑr|1||
+		108|bɑkʰərɑ|1||
+		109|suŋər|1||
+		110|kukur|1||
+		111|billo|1||
+		112|ʃʲæp|1||
+		113|bɑ̃nɑr|1||
+		114|tʃərɑ|1||
+		115|pɑ̃k|2||
+		116|pɑ̃k|1||
+		117|muso|1||
+		118|mətʃʰɑr|2||
+		119|mɑkʰɑ|2||
+		120|mourɑ|1||
+		121|kirməlɑ|1||
+		122|bəɖuwɑ|2||
+		123|dʒorɑ|2||
+		124|uɖus / ʃələʃ|1 3||
+		125|upʲɑ|1||
+		126|dʒugɑ|1||
+		127|mɑnse|1 2||
+		128|bɑrse|3||
+		129|putɑri|3||
+		130|gedɑ|4||x
+		131|ketɑ|1||
+		132|keti|1||
+		133|bɑbɑ|3||
+		134|idʒɑ|2||
+		135|dɑdɑ|2||
+		136|bʰɑi|1||
+		137|didi|1||
+		138|bəhini|1||
+		139|tʃelo|1 2||
+		140|tʃeli|1||
+		141|bɑᵘse|4||x
+		142|ʃwɑin|1||
+		143|bədʒe|2||
+		144|ɑmɑ|3||
+		145|nɑti|1||
+		146|nɑtini|1||
+		147|dʒetɑ bɑbɑ|2||
+		148|kɑkɑ|3||
+		149|pʰuidʒu / phupu|1||
+		150|mɑmɑ|1||
+		151|dʒedʒɑ|3||
+		152|kɑⁱdʒɑ|4||x
+		153|səŋʲi|1||
+		154|nõ|1||
+		155|bhɑsɑ|1||
+		156|din|1||
+		157|rɑt|1||
+		158|pɑrəwɑ̃t|2||
+		159|tʃɑkəlɑ (12-2pm)|||x
+		160|bɑsɑ|1||
+		161|ɑdʒ|1||
+		162|beli|2||
+		163|bʰolə|1||
+		164|həptɑ|1||
+		165|mɑⁱnɑ|1||
+		166|bərsɑ|1||
+		167|tʰulo|1||
+		168|nɑno|1 2||
+		169|gəruwɑ|1||
+		170|həluko|1 2||
+		171|purɑno|1||
+		172|nəjɑ̃|1 2||
+		173|niko|2||
+		174|gət̚to|2||
+		175|rudʒeⁱko|1||
+		176|əkʰəreɑ|2||
+		177|lɑmo|1||
+		178|tʃʰoto|1||
+		179|dubəlo|1||
+		180|gərəm / ghɑm|1||
+		181|tʰənni|2||
+		182|tɑto|1||
+		183|tʰənnũ|2||
+		184|pʰuteko|1||
+		185|bigəreko|1||
+		186|tuteko|2||
+		187|kʰɑli|1||
+		188|bʰəri|2||
+		189|tʰokɑⁱ|1||
+		190|dʒikɑ|2||
+		191|səbɑi|1||
+		192|bɑrɑbər|1||
+		193|uʃwɑi|1||
+		194|dʒudui|4||x
+		195|bibʰinə|1||
+		196||||x
+		197||||x
+		198||||x
+		199||||x
+		200||||x
+		201||||x
+		202||||x
+		203||||x
+		204||||x
+		205||||x
+		206||||x
+		207||||x
+		208||||x
+		209||||x
+		210|ʃukilo / doulo|2 3||
+		211|kɑlo|1||
+		212|rɑto|1||
+		213|dɑⁱne|1||
+		214|boũ|1||
+		215|nədʒik|1||
+		216|tɑrɑ|1||
+		217|jehikɑi|4||
+		218|wɑkʰɑ̃i|3||
+		219|mɑ|1||
+		220|tʃɑlmɑ|1||x
+		221|bʰitərɑ|1||
+		222|bʰɑirə|1||
+		223|mətʰi|1||
+		224|təli|1||
+		225|itʰə utʰə|3||
+		226|ko|1||
+		227|kɑiko|1||
+		228|ke|1||
+		229|kʲɑⁱki|1||
+		230|kɑ̃|2||
+		231|kəbə|1||
+		232|ko|2||
+		233|kəti|1||
+		234|kəso|1||
+		235|kɑseɾ|1||
+		236|jo|1||
+		237|tjo|1||
+		238|gəjo|1||
+		239|dʒən dʒɑi|1||
+		240|ɑjo|1||
+		241|dʒən ɑi|3||
+		242|dʒərjo|1||
+		243|dʒən dʒərɑⁱ|1||
+		244|tʃorijo|1||
+		245|dʒən tʃorɑⁱ|1||
+		246|orəljo|1||
+		247|dʒən orəlɑi|1||
+		248|lejo|1||
+		249|dʒən le|3||
+		250|ləⁱgjo|1||
+		251|dʒən ləⁱdʒʰɑⁱ|1||
+		252|gɑdjo|3||
+		253|dʒən gɑrɑ|3||
+		254|rɑkʰjo|1||
+		255|dʒən rɑkɑⁱ|1||
+		256|mərjo|1||
+		257|dʒən mərɑⁱ|1||
+		258|bʰok lɑgjo|1||
+		259|tis lɑgjo|2||
+		260|ʃijo|1||
+		261|dʒən ʃei|2||
+		262|pɑrjo|1 3||
+		263|dʒən pɑrɑⁱ|3||
+		264|bəsjo|1||
+		265|dʒən bəsɑⁱ|1||
+		266|uʈʰjo|1||
+		267|dʒən uʈᵗɑⁱ|1||
+		268|kəlijo|2||
+		269|dʒən kəlie|2||
+		270|hitjo|1||
+		271|dʒən hitɑⁱ|1||
+		272|uɖjo|1||
+		273|dʒən udɑⁱ|1||
+		274|dəgurjo|1||
+		275|dʒən dəgurɑⁱ|1||
+		276|hɑ̃sjo|1||
+		277|dʒən hɑ̃sɑⁱ|1||
+		278|rojo|1||
+		279|dʒən roⁱ|2||
+		280|ukɑljo|3||
+		281|dʒən okɑlɑⁱ|3||
+		282|tʰukjo|1||
+		283|dʒən tʰukɑⁱ|1||
+		284|kʰɑjo|1||
+		285|dʒən kʰɑⁱ|1||
+		286|kɑtjo|2||
+		287|dʒən kɑtɑⁱ|2||
+		288|kʰɑjo|2||
+		289|dʒən kʰɑⁱ|3||
+		290|dijoᵘ|1||
+		291|dʒən deⁱ|1 2||
+		292|bɑljo|1||
+		293|dʒən bɑlɑⁱ|1||
+		294|dərejo|2||
+		295|dʒən dəreⁱ|4||
+		296|mɑrjo|1||
+		297|dʒən mɑrɑⁱ|1||
+		298|kɑtjo|1||
+		299|dʒən kɑteⁱ|1||
+		300|kitjo|3||
+		301|dʒən kitɑⁱ|3||
+		302|kurəri kɑnɑ gɑrjo|4||
+		303|kurəri kɑnɑ dʒən gɑro|4||
+		304|bəɳjo|1||
+		305|dʒən bəɳɑⁱ|1||
+		306|suɳjo|1||
+		307|dʒən suɳɑⁱ|1||
+		308|dʰekjo|1||
+		309|herjo|1||
+		310|dʒən herɑⁱ|1||
+		311|dʰojo|1||
+		312|dʒən dʰoⁱ|1||
+		313|mero|1||
+		314|həməro|1||
+		315|təməro|2||
+		316|təmərõnko|1||
+		317|unəro|2||
+		318|unərõnko|2||
+		319|mui|2||
+		320|təm|2||
+		321|un|2||
+		322|həmun|1||
+		323|təmun|2||
+		324|unun|2||
+		325||||x
+		0|həɾ|1||
+		1|munʈo|1||
+		2|rumɑ|1||
+		3|ɑnuwɑr|1||
+		4|ɑ̃khɑ|1||
+		5|kɑn|1||
+		6|nɑk|1||
+		7|mukʰ|1||
+		8|tʰol / oʈʰ|1 2||
+		9|dɑɖɑ / dɑ̃t|1||
+		10|dʒibəro|1||
+		11|tʃʰɑti|1||
+		12|lɑd̪ʰo|3||
+		13|kəmmər|1||
+		14|hɑt̪|1||
+		15|kũnu|1||
+		16|hətkelɑ|1||
+		17|əᵘnlɑ|1||
+		18|nəŋ|1||
+		19|dʒəŋɳo|2||
+		20|gʰudɑ|1||
+		21|tʃʰɑlɑ|1||
+		22|hɑd|1||
+		23|mutu|1||
+		24|rəgət|1||
+		25||||x
+		26|gu|2||
+		27|gɑũ|1||
+		28|gʰɑr|1||
+		29|pɑkho|2||
+		30|delo / dwɑr|2 3||
+		31|dourɑ|1||
+		32|kutʃo|1||
+		33|louɖi|1||
+		34|loɾo|1||
+		35|silo|1||
+		36|gʰən|1||
+		37|kʰukuɾi|1||
+		38|ɑ̃si|2||
+		39|bəntʃəro|1||
+		40|ɖor|1||
+		41|dʰɑgo|1||
+		42|sijo|1||
+		43|nɑt̚tɑ|2||
+		44|topi|1||
+		45|mundəɾo|2||
+		46|sun|1||
+		47|bel|2||
+		48|dʒun|1||
+		49|sərək|2||
+		50|tɑɾɑ|1||
+		51|bərʃə|3||
+		52|pɑni|1||
+		53|kʰolɑ|1||
+		54|bɑld̪o|1||
+		55|tʃirəko|2||
+		56|indrɑini|1||
+		57|bɑĩhɑlo|3||
+		58|ɖʰuŋɑ|1||
+		59|sʷɑrdo|2||
+		60|kʰet|1||
+		61|bɑʈo|1||
+		62|ɑgo|1||
+		63|dʰukɑl|1||
+		64|ʃɑdʒi|1||
+		65|mɑto|1||
+		66|dʰulo|1||
+		67|rukʰ|1||
+		68|pɑt|1||
+		69|dʒəɖɑ|1||
+		70|biu|1||
+		71|bokəɖɑ|1||
+		72|kɑ̃do|1||
+		73|pʰul|1||
+		74|bɑ̃s|1||
+		75|tɑmɑ|1||
+		76|pʰəl pʰul|1||
+		77|ɑm|1||
+		78|kelɑ|1||
+		79|goũ|1||
+		80|tʃɑməl|1||
+		81|dʰɑn|1||
+		82|bʰɑt|1||
+		83|sɑg|2||
+		84|ɑlu|1||
+		85|bʰĩɖo|2||
+		86|məmpʰəli|2||
+		87|kursɑni|1||
+		88|həɖʲəlo|2||
+		89|ləsun|1||
+		90|pʲædʒ|1||
+		91|gop̚pi|2||
+		92|ɑd̚do|2||
+		93|golbʰeɖɑ|1||
+		94|bəndə|2||
+		95|kɑ̃kdo|1||
+		96|tel|1||
+		97|nun|1||
+		98|sikɑr|2||
+		99|boso|1||
+		100|mɑtʃʰɑ|1||
+		101|kukʰudɑ|1||
+		102|pʰul|1||
+		103|gɑi|1||
+		104|bʰɑĩso|1||
+		105|dudʰ|1||
+		106|siŋ|1||
+		107|putʃʰɑr|1||
+		108|bɑkʰro|1||
+		109|suŋgɑr|1||
+		110|kukur|1||
+		111|billo|1||
+		112|sʲæp|1||
+		113|bɑ̃nɑr|1||
+		114|tʃəɖo|1||
+		115|pəkʰetɑ|1||
+		116|pɑ̃k|1||
+		117|muso|1||
+		118|mətʃʰɑɾ|2||
+		119|mɑkʰo|2||
+		120|mourɑ|1||
+		121|kirəmulo|1||
+		122|bõɖeⁱ|3||
+		123|dʒũdɑ|1 2||
+		124|kʰətməl|2||
+		125|upɑijũ|1||
+		126|dʒukɑ|1||
+		127|mɑⁱʃə|1 2||
+		128|logənɑⁱ|4||
+		129|swɑini|2||
+		130|tʃərɑ tʃəri|||x
+		131|tʃoret̚to|3||
+		132|tʃoret̚ti|3||
+		133|bɑ|1||
+		134|ɑmɑ|1||
+		135|dɑdʒu|2||
+		136|bʰɑdʒɑ|2||
+		137|di|2||
+		138|bɑdʒi|2||
+		139|tʃelo|1 2||
+		140|tʃeli|1||
+		141|logənʲe|5||x
+		142|swɑini|1 4||
+		143|bɑdʒʲɑ|2||
+		144|bədʒʲe|2||
+		145|nɑti|1||
+		146|nɑtini|1||
+		147|dʒetɑ bɑ|2||
+		148|kɑkɑ|3||
+		149|puidʒu|1||
+		150|mɑmɑ|1||
+		151|dʒetɑ ɑmɑ|2||
+		152|nɑni|5||x
+		153|soᵘɖi|1||
+		154|nɑũ|1||
+		155|bhɑsɑ|1||
+		156|din|1||
+		157|rɑt|1||
+		158|tʃəkɑlɑ|3||
+		159|dʲopəri|1||
+		160|bɑsɑ|1||
+		161|ɑdʒi|1||
+		162|beli|2||
+		163|bʰolə|1||
+		164|həptɑ|1||
+		165|muⁱnɑ|1||
+		166|bərʃɑ|1||
+		167|tʰulo|1||
+		168|nɑno|1 2||
+		169|gəro|3||
+		170|həllo|1 2||
+		171|purɑnu|1||
+		172|nolu|1||
+		173|niko|2||
+		174|kətʃʰəko|3||
+		175|rudʒʲæko|1||
+		176|sukʲæko|1||
+		177|lɑmõ|1||
+		178|tʃoto|1||
+		179|dublo|1||
+		180|gərəm|1||
+		181|dʒɑɖi|1||
+		182|tɑto|1||
+		183|tʰənnə|2||
+		184|pʰuteⁱko|1||
+		185|bigreⁱko|1||
+		186|bʰɑtʃeko|1||
+		187|kʰɑli|1||
+		188|bʰəri|2||
+		189|nəmɑi|2||
+		190|məstə|3||
+		191|səbwi|1||
+		192|səri|2||
+		193|ustɑi|1||
+		194|pʰərək|1||
+		195|ɑlɑgɑlɑg|2||
+		196||||x
+		197||||x
+		198||||x
+		199||||x
+		200||||x
+		201||||x
+		202||||x
+		203||||x
+		204||||x
+		205||||x
+		206||||x
+		207||||x
+		208||||x
+		209||||x
+		210|sukilo|3||
+		211|kɑlo|1||
+		212|rɑto|1||
+		213|dɑⁱnu|1||
+		214|bɑũ|1||
+		215|ləgə|2||
+		216|tɑɾɑ|1||
+		217|jiɑ̃|2||
+		218|tjiɑ̃|2||
+		219|mĩ|2||
+		220|ləg̚gɑi|4||x
+		221|bʰit̚trə|1||
+		222|bɑⁱrə|1||
+		223|mutʰi|1||
+		224|muni|2||
+		225|wərɑpərɑ|1||
+		226|ko|1||
+		227|kɑiko|1||
+		228|kʲɑ|1||
+		229|kʲei|1||
+		230|kɑ̃|2||
+		231|kɑilɑ|1||
+		232|ko|2||
+		233|kəti|1||
+		234|kəsto|1||
+		235|kəsəri|1||
+		236|jo|1||
+		237|tjo|1||
+		238|gɑⁱjo|1||
+		239|dʒən dʒɑu|1||
+		240|ɑjo|1||
+		241|dʒən ɑu|1||
+		242|dʒərjo|1||
+		243|dʒən dʒəɾ|1||
+		244|tʃorjo|1||
+		245|dʒən tʃəɾə|1||
+		246|uljo|1||
+		247|dʒən uljo|1||
+		248|ɑnjo|2||
+		249|dʒən ɑnə|4||
+		250|ləgjo|1||
+		251|dʒən leⁱ|2||
+		252|dʒʰikjo|1||
+		253|dʒən dʒʰikə|1||
+		254|rɑkʰjo|1||
+		255|dʒən rɑkhə|1||
+		256|mərjo|1||
+		257|dʒən mərə|1||
+		258|bʰok lɑgjo|1||
+		259|tis lɑgjo|2||
+		260|sutjo|1||
+		261|dʒən sutə|1||
+		262|pəltjo|1||
+		263|dʒən pəltɑ|1||
+		264|bəsjo|1||
+		265|dʒən bəsə|1||
+		266|utʰjo|1||
+		267|dʒən utʰə|1||
+		268|ubhjo|1||
+		269|dʒən ubhjo|3||
+		270|hĩdjo|1||
+		271|dʒən hidə|1||
+		272|uɖjo|1||
+		273|dʒən uɖə|1||
+		274|pʰɑljo|3||
+		275|dʒən pʰɑljo|3||
+		276|hɑ̃sjo|1||
+		277|dʒən hɑ̃sɑ|1||
+		278|rojo|1||
+		279|dʒən rou|1||
+		280|okʰɑljo|3||
+		281|dʒən okʰɑlə|3||
+		282|tʰukjo|1||
+		283|dʒən tʰukə|1||
+		284|kʰɑⁱjo|1||
+		285|dʒən kʰɑᵘ|1||
+		286|kɑtjo|2||
+		287|dʒən tokə|1||
+		288|kʰɑjo|2||
+		289|dʒən kʰɑu|3||
+		290|dijo|1||
+		291|dʒən deu|1||
+		292|bɑljo|1||
+		293|dʒən bɑlə|1||
+		294|kədejo|1||
+		295|dʒən kədejo|3||
+		296|mɑrjo|1||
+		297|dʒən mɑrə|1||
+		298|kɑtjo|1||
+		299|dʒən kɑtə|1||
+		300|hɑpəljo|2||
+		301|dʒən hɑpələ|2||
+		302|kurɑ kɑni gɑrjo / tʃəl pʰəl gɑrjo|1 4||
+		303|kurɑ kɑni dʒən gɑrə / tʃəl pʰəl dʒən gɑrə|3 4||
+		304|bʰənjo|1||
+		305|dʒən bənə|1||
+		306|sunjo|1||
+		307|dʒən sunə|1||
+		308|dʰekjo|1||
+		309|herjo|1||
+		310|dʒən hərə|1||
+		311|dʰojo|1||
+		312|dʒən dʰo|1||
+		313|mero|1||
+		314|hə̃ᵘŋro|1||
+		315|tə̃ᵘro|2||
+		316|tə̃ᵘmusəbuⁱko|2||
+		317|tə̃ᵘnuko|3||
+		318|unuko|3||
+		319|mũ|1||
+		320|tə̃ᵘmu|2||
+		321|tĩ / uwɑ|3||
+		322|həmẽ|1||
+		323|təmihəru|1||
+		324|ũwɑ̃hɑru|1||
+		325||||x
+		0|ɑŋ|4||
+		1|kʰor|3||
+		2|bɑʋ|3||
+		3|mʊkʰ|2||
+		4|ɑ̃kʰ|2||
+		5|kɑn|1||
+		6|nɑk|1||
+		7|toʊ̯|2||
+		8||||x
+		9|dãnt|1||
+		10|dʒɪbəɽɪ|1||
+		11|tʃʰɑt|1||
+		12|peʈ|1||
+		13||||x
+		14|hɑtʰ|1||
+		15|kʊhəni|1||
+		16||||x
+		17|əŋgu|2||
+		18|nəŋ|1||
+		19|kʊt|1||
+		20||||x
+		21|kʰɑl|2||
+		22|həɖək|1||
+		23|dɪl|2||
+		24|kʰun lʲu|2||
+		25|mut|2||
+		26|gu|2||
+		27|gũ|1||
+		28|kuɽɪ|2||
+		29|pɑx|2||
+		30|doʋɑɾ|1 4||
+		31|lɑkəɽ|2||
+		32|kʊtʃ|1||
+		33||||x
+		34|muʃoʋ|2||
+		35|ʊkəʋ|3||
+		36|tʰoɽ|2||
+		37||||x
+		38||||x
+		39|rəməʈi|2||
+		40|dʒɔɽ|1||
+		41|dʰɑg|1||
+		42|sʲuɾ|2||
+		43|tikɑʋ|3||
+		44||||x
+		45|mʊnəɽi|2||
+		46|ʃʊn|1||
+		47|gʰɑm|3||
+		48|d̊ʒuɳi|1||
+		49|əgɑs|1||
+		50|tɑɾ|1||
+		51|dʲu|4||
+		52|paɳɪ|1||
+		53|gɑɽ|||x
+		54|bɑdəʋ|1||
+		55|tʃɑl|3||
+		56|ɪneɳi|1||
+		57|hɑu|1||
+		58|dʰʊŋ|1||
+		59||||x
+		60||||x
+		61|bɑʈ|1||
+		62|ɑg|2||
+		63|dʰũ|3||
+		64|tʃɑɾ|2||
+		65|mɑʈ|1||
+		66|dʰul|1||
+		67|boʈ ɖɑʋ|2||
+		68|pɑt|1||
+		69|dʒoɽɑ|1||
+		70||||x
+		71||||x
+		72|kɑɳ|1||
+		73|pʰul|1||
+		74||||x
+		75||||x
+		76|pʰəl|2||
+		77|ɑm|1||
+		78|kʲɑʋ|2||
+		79|gjõ|1||
+		80|tʃəŋgo|2||
+		81||||x
+		82||||x
+		83||||x
+		84|ɑlʊ|1||
+		85|pəʈ|3||
+		86|mofəl|3||
+		87|kʰʊsʲɑgi|1||
+		88|həld|3||
+		89|lɑsəɳ|1||
+		90|pʲɑdʒ|1||
+		91|gobi|2||
+		92||||x
+		93|tɪmɑʈər|2||
+		94|bəndgobʰi|1||
+		95||||x
+		96|tel|1||
+		97|nuɳ|1||
+		98|mɑ̃ʃ ʃɪkɑr|1 2||
+		99|bəs|1||
+		100|matʃ|1||
+		101|kʊkʊɽ|1||
+		102|əɳɖ|2||
+		103|guɽ|2||
+		104|bʰɛ̃s|1||
+		105|dudʰ|1||
+		106|siŋ|1||
+		107|pitʃoɾi|1||
+		108|bəkor|1||
+		109||||x
+		110|kʊkʊɾ|1||
+		111||||x
+		112|sʲɑp|1||
+		113|bɑnər|1||
+		114||||x
+		115||||x
+		116||||x
+		117||||x
+		118|mɑ̃tːʃəɾ|2||
+		119||||x
+		120||||x
+		121|kɪrmɑʋ|1||
+		122|bəɖːu|2 3||
+		123||||x
+		124||||x
+		125||||x
+		126||||x
+		127||||x
+		128|mɛ̃ʃ|5||
+		129|sʲɛɳi|4||
+		130||||x
+		131|tʃəl|2||
+		132|tʃʲeli|2||
+		133|bɑbu|3||
+		134|ɪdʒ|3||
+		135|d̪ɑd̪i|1 2||
+		136|bʰɛ nən dɑdi|3||
+		137|dɪdɪ|1||
+		138|bɛɳi|1 2||
+		139|tʃəl|2||
+		140|tʃeli|1||
+		141|gʰəɾʋɑʋ|6||x
+		142|sʲeɳɪ gʰəɾʋɑi|4||
+		143||||x
+		144||||x
+		145||||x
+		146||||x
+		147||||x
+		148||||x
+		149||||x
+		150||||x
+		151||||x
+		152||||x
+		153||||x
+		154|nɑm nɔ̃|1||
+		155||||x
+		156|dɪn|1||
+		157|ɾɑt|1||
+		158|ɾɑti bʲɑɳ|4||
+		159|ɑdudɪn|2||
+		160|bjɑʋ|2||
+		161|ɑdʒ|1||
+		162|bʰej|3||
+		163|bʰoʋ|2||
+		164|həptɐ|1||
+		165|məhinɑ|1||
+		166|go sɑl sɑl bəɾʃ|1 2 ||
+		167|ʈʊl|1||
+		168|nɑn|2||
+		169|bʰɑɾɪ|2||
+		170|həlk həu̯k|2||
+		171|pʊrɑɳ|1||
+		172|nəi|2||
+		173|nɔko|2||
+		174|nək|4||
+		175|bʰɪdʒi|2||
+		176|ʃuk|3||
+		177|tʰul|2||
+		178|nɑn|2||
+		179||||x
+		180|gəɾəm|1||
+		181||||x
+		182||||x
+		183|ʈʰəɳɖ ʃɑɾdɪ|3||
+		184||||x
+		185||||x
+		186|ʈʊʈi|3||
+		187||||x
+		188||||x
+		189|mʊɳi|3||
+		190|zʲɑdɑ ʃɪtːu|4||
+		191|səb|2||
+		192|ɪkːə|3||
+		193||||x
+		194|fəɾək|1||
+		195||||x
+		196||||x
+		197||||x
+		198||||x
+		199||||x
+		200||||x
+		201||||x
+		202||||x
+		203||||x
+		204||||x
+		205||||x
+		206||||x
+		207||||x
+		208||||x
+		209||||x
+		210|səfed səped|4||
+		211|kɑʋ|2||
+		212|lɑl|2||
+		213|dɛɳ|1||
+		214|bɑjɑ̃|1||
+		215|nəzdik|1||
+		216|duɾ tɑɽ|1 2 ||
+		217||||x
+		218||||x
+		219||||x
+		220||||x
+		221||||x
+		222||||x
+		223|məi̯li məli|1||
+		224|tɛli|1||
+		225||||x
+		226|ko|1||
+		227||||x
+		228|kɪ|1||
+		229||||x
+		230|kɑ̃|2||
+		231|kəsət|2||
+		232||||x
+		233|koduk|2||
+		234||||x
+		235||||x
+		236|jə|1||
+		237|u jəs|2||
+		238|dʒɑ dʒɑʋo nɔ̃ go dʒɑo gəjɑ|1||
+		239||||x
+		240|ɑo ẽ go|1||
+		241||||x
+		242||||x
+		243||||x
+		244||||x
+		245||||x
+		246||||x
+		247||||x
+		248||||x
+		249||||x
+		250||||x
+		251||||x
+		252||||x
+		253||||x
+		254||||x
+		255||||x
+		256|ni məɾɪn|1||
+		257||||x
+		258|bʰukʰɛ|1||
+		259|tis|2||
+		260|poɾidʒɨ|||x
+		261||||x
+		262|poridʒi|3||
+		263||||x
+		264|bʰɛʈ bʰɛʈʋə|2||
+		265||||x
+		266||||x
+		267||||x
+		268||||x
+		269||||x
+		270|hɪʈ nʰɔ̃ go|1||
+		271||||x
+		272|uɖo uɖ go|1||
+		273||||x
+		274|dɔɽ dɔɽɪ go|4||
+		275||||x
+		276||||x
+		277||||x
+		278||||x
+		279||||x
+		280||||x
+		281||||x
+		282||||x
+		283||||x
+		284|kʰɑ|1||
+		285||||x
+		286|kɑʈo kɑʈɑ|2||
+		287||||x
+		288|piʋɑ|1||
+		289||||x
+		290|dɪjo de|1||
+		291||||x
+		292|dʒəgɑ|3||
+		293||||x
+		294||||x
+		295||||x
+		296|ni maɾo mɑɾ|1||
+		297||||x
+		298||||x
+		299||||x
+		300||||x
+		301||||x
+		302||||x
+		303||||x
+		304|bol bulɑi̯|2||
+		305||||x
+		306|sʲuɳo̯|1||
+		307||||x
+		308|dekʰ dekʰəʋ dekʰi|1||
+		309||||x
+		310||||x
+		311||||x
+		312||||x
+		313||||x
+		314||||x
+		315||||x
+		316||||x
+		317||||x
+		318||||x
+		319|mɪ mɛ̃|1||
+		320|tʊm|2||
+		321|ʊ|4||
+		322|həm|1||
+		323||||x
+		324||||x
+		325||||x
+	End Comparison Entries
+	Current Variety=2
+	Description=Survey: Dotyali\Comparison Created: 7/24/2014 3:47:44 PM\Description:
+	Start Date=
+	End Date=
+	Current Variety Column Index=4
+	DD Used Chars=
+	Start DD Values
+	End DD Values
+	Excluded DD Chars=
+End Comparison
+
+Start WordSurv Data
+	Current Dictionary=0
+	Current Survey=0
+	Current Comparison=0
+	Primary Language=Primary Gloss
+	Secondary Language=Secondary Gloss
+	Primary Font=Microsoft Sans Serif,8
+	Secondary Font=Microsoft Sans Serif,8
+	Transcription Font=Microsoft Sans Serif,8
+End WordSurv Data
