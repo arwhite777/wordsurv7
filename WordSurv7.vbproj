@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B5F976B0-C76A-4484-82E7-28C4818B07FF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>WordSurv7</RootNamespace>
+    <AssemblyName>WordSurv7</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>Off</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <SignAssembly>false</SignAssembly>
+    <ManifestCertificateThumbprint>8B88FA857A1FDB53DB1161976C029AE83F49C811</ManifestCertificateThumbprint>
+    <ManifestKeyFile>WordSurv7_1_TemporaryKey.pfx</ManifestKeyFile>
+    <ApplicationIcon>Resources\WSIcon128-32B.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <PublishUrl>\\fileshare\arwhite\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>7.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Code\Data\Module1.vb" />
+    <Compile Include="Code\Data\WordSurv6Import.vb" />
+    <Compile Include="Code\Forms\AboutWordSurvForm.Designer.vb">
+      <DependentUpon>AboutWordSurvForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\AboutWordSurvForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\ConfirmDeleteDialogBoxForm.Designer.vb">
+      <DependentUpon>ConfirmDeleteDialogBoxForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\ConfirmDeleteDialogBoxForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Constants.vb" />
+    <Compile Include="Code\Forms\ComboForm.Designer.vb">
+      <DependentUpon>ComboForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\ComboForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\ComparisonMergeForm.Designer.vb">
+      <DependentUpon>ComparisonMergeForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\ComparisonMergeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Data\FileOperations.vb" />
+    <Compile Include="Code\Data\Preferences.vb" />
+    <Compile Include="Code\Data\UndoSystem.vb" />
+    <Compile Include="Code\Forms\MultilineInputForm.Designer.vb">
+      <DependentUpon>MultilineInputForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\MultilineInputForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\DDExcludeCharsForm.Designer.vb">
+      <DependentUpon>DDExcludeCharsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\DDExcludeCharsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\ExceptionForm.Designer.vb">
+      <DependentUpon>ExceptionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\ExceptionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\SplitterTest.Designer.vb">
+      <DependentUpon>SplitterTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\SplitterTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\SurveySelectForm.Designer.vb">
+      <DependentUpon>SurveySelectForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\SurveySelectForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\CreateVarietiesForm.Designer.vb">
+      <DependentUpon>CreateVarietiesForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\CreateVarietiesForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Data\DataObjects.vb" />
+    <Compile Include="Code\Forms\EncodingChoice.Designer.vb">
+      <DependentUpon>EncodingChoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\EncodingChoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Code\Forms\InputForm.Designer.vb">
+      <DependentUpon>InputForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\InputForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\SearchForm.Designer.vb">
+      <DependentUpon>SearchForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\SearchForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Forms\StrengthsSummaryForm.Designer.vb">
+      <DependentUpon>StrengthsSummaryForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\StrengthsSummaryForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\Data\WordSurv2_5Import.vb" />
+    <Compile Include="Code\Forms\WordSurvForm.Designer.vb">
+      <DependentUpon>WordSurvForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Code\Forms\WordSurvForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Code\Forms\AboutWordSurvForm.resx">
+      <DependentUpon>AboutWordSurvForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\ComboForm.resx">
+      <DependentUpon>ComboForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\ConfirmDeleteDialogBoxForm.resx">
+      <DependentUpon>ConfirmDeleteDialogBoxForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\ComparisonMergeForm.resx">
+      <DependentUpon>ComparisonMergeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\MultilineInputForm.resx">
+      <DependentUpon>MultilineInputForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\DDExcludeCharsForm.resx">
+      <DependentUpon>DDExcludeCharsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\ExceptionForm.resx">
+      <DependentUpon>ExceptionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\SplitterTest.resx">
+      <DependentUpon>SplitterTest.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\SurveySelectForm.resx">
+      <DependentUpon>SurveySelectForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\CreateVarietiesForm.resx">
+      <DependentUpon>CreateVarietiesForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\EncodingChoice.resx">
+      <DependentUpon>EncodingChoice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\InputForm.resx">
+      <DependentUpon>InputForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\SearchForm.resx">
+      <DependentUpon>SearchForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\StrengthsSummaryForm.resx">
+      <DependentUpon>StrengthsSummaryForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\Forms\WordSurvForm.resx">
+      <DependentUpon>WordSurvForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\WordSurvSplash.jpg" />
+    <Content Include="Resources\WSIcon128-32B.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
