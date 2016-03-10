@@ -4393,19 +4393,19 @@ Restart:
             Dim writer As New StreamWriter(frmSaveDialog.FileName, False, System.Text.Encoding.UTF8)
 
             'First surround everything in quote marks so we don't not escape things.
-            For rowIndex As Integer = 0 To dt.Rows.Count - 1
-                Dim line As String = ""
-                For colIndex As Integer = 0 To dt.Columns.Count - 1
-                    dt.Rows(rowIndex)(colIndex) = """" & dt.Rows(rowIndex)(colIndex).ToString & """"
-                Next
-            Next
+            'For rowIndex As Integer = 0 To dt.Rows.Count - 1
+            'Dim line As String = ""
+            'For colIndex As Integer = 0 To dt.Columns.Count - 1
+            'dt.Rows(rowIndex)(colIndex) = """" & dt.Rows(rowIndex)(colIndex).ToString & """"
+            'Next
+            'Next
 
             'Then actually write it.
             writer.WriteLine(dt.TableName)
             For rowIndex As Integer = 0 To dt.Rows.Count - 1
                 Dim line As String = ""
                 For colIndex As Integer = 0 To dt.Columns.Count - 1
-                    line &= dt.Rows(rowIndex)(colIndex).ToString & ","
+                    line &= """" & dt.Rows(rowIndex)(colIndex).ToString & ""","
                 Next
                 writer.WriteLine(line.TrimEnd(","c))
             Next
