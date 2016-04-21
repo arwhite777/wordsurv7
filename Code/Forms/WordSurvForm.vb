@@ -1598,6 +1598,9 @@ Public Class WordSurvForm
 
         'Select all the cells in that row if the header is clicked.
         grd.ClearSelection()
+        For Each column As DataGridViewColumn In grd.Columns
+            grd.Rows(e.RowIndex).Cells(column.Index).Selected = True
+        Next
     End Sub
 
     Private Sub splTab1A_SplitterMoved(ByVal sender As Object, ByVal e As System.Windows.Forms.SplitterEventArgs)
