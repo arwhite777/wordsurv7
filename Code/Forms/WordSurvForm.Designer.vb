@@ -518,6 +518,8 @@ Partial Class WordSurvForm
         Me.Label76 = New System.Windows.Forms.Label()
         Me.Label77 = New System.Windows.Forms.Label()
         Me.ComboBox15 = New System.Windows.Forms.ComboBox()
+        Me.mnuAssociateFileExtension = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator7 = New System.Windows.Forms.ToolStripSeparator()
         Me.tabWordSurv.SuspendLayout()
         Me.TabPage2.SuspendLayout()
         CType(Me.splTab1A, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -3534,7 +3536,7 @@ Partial Class WordSurvForm
         '
         'mnuTools
         '
-        Me.mnuTools.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuSetPrimaryFont, Me.mnuSetSecondaryFont, Me.mnuSetTranscriptionFont, Me.ToolStripMenuItem12, Me.mnuPrimaryLanguage, Me.mnuSecondaryLanguage, Me.ToolStripSeparator3, Me.mnuNumUndos})
+        Me.mnuTools.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuSetPrimaryFont, Me.mnuSetSecondaryFont, Me.mnuSetTranscriptionFont, Me.ToolStripMenuItem12, Me.mnuPrimaryLanguage, Me.mnuSecondaryLanguage, Me.ToolStripSeparator3, Me.mnuNumUndos, Me.ToolStripSeparator7, Me.mnuAssociateFileExtension})
         Me.mnuTools.Name = "mnuTools"
         Me.mnuTools.Size = New System.Drawing.Size(61, 20)
         Me.mnuTools.Text = "&Options"
@@ -5444,6 +5446,17 @@ Partial Class WordSurvForm
         Me.ComboBox15.Size = New System.Drawing.Size(233, 21)
         Me.ComboBox15.TabIndex = 10
         '
+        'mnuAssociateFileExtension
+        '
+        Me.mnuAssociateFileExtension.Name = "mnuAssociateFileExtension"
+        Me.mnuAssociateFileExtension.Size = New System.Drawing.Size(257, 22)
+        Me.mnuAssociateFileExtension.Text = "Associate File Extension"
+        '
+        'ToolStripSeparator7
+        '
+        Me.ToolStripSeparator7.Name = "ToolStripSeparator7"
+        Me.ToolStripSeparator7.Size = New System.Drawing.Size(254, 6)
+        '
         'WordSurvForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -6088,4 +6101,6 @@ Partial Class WordSurvForm
         FillRecentDatabasesList()
     End Sub
     Friend WithEvents mnuHelpQuickReference As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ToolStripSeparator7 As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents mnuAssociateFileExtension As System.Windows.Forms.ToolStripMenuItem
 End Class

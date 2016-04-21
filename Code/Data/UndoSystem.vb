@@ -86,7 +86,7 @@
     's     s1    s2     s3    s3
 
 
-    Private ramWatcher As New System.Diagnostics.PerformanceCounter("Memory", "Available MBytes")
+    'Private ramWatcher As New System.Diagnostics.PerformanceCounter("Memory", "Available MBytes")
 
     Private UndoBuffer As New Generic.LinkedList(Of WordSurvData)
     Private CurrentState As Generic.LinkedListNode(Of WordSurvData)

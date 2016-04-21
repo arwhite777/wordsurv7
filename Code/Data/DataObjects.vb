@@ -4522,8 +4522,10 @@ Restart:
                     heading2(col) = "Transcription" : heading2(col + 1) = "Plural/Frame" : heading2(col + 2) = "Notes"
                     survTable.Columns.AddRange({New DataColumn, New DataColumn, New DataColumn, New DataColumn})
                     Dim tr As VarietyEntry = var.VarietyEntries(gl)
-                    Dim synonyms As String() = Split(tr.Transcription, ",")
-                    row(col) = synonyms(0) : row(col + 1) = tr.PluralFrame : row(col + 2) = tr.Notes
+                    'Dim synonyms As String() = Split(tr.Transcription, ",")
+                    row(col) = tr.Transcription
+                    row(col + 1) = tr.PluralFrame
+                    row(col + 2) = tr.Notes
                     col = col + 3
                     Debug.Print(col)
                 Next

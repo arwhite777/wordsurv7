@@ -15,6 +15,7 @@ Public Class WordSurvForm
     Private grids As DataGridView()
 
     'Code in here only does things directly associated with the form.  It should NEVER touch the data objects directly, but only access them through the data object's interface.
+    Private rowHeaderCellSize As Integer = 0
 
     Private data As New WordSurvData 'A reference to the ultimate data object ever. 
     Private newMiddleRow As Boolean = False 'A flag to tell us when we have inserted a row using the menu or shortcut.
@@ -23,7 +24,6 @@ Public Class WordSurvForm
     Private sourceDictIndex As Integer = Nothing
 
     Public KillPipeKeyFlag As Boolean = False
-
     'Entry point for this form
     Private Sub WordSurvForm_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
        
@@ -39,10 +39,6 @@ Public Class WordSurvForm
         AddHandler currentDomain.UnhandledException, AddressOf MYExceptionHandler
         AddHandler Application.ThreadException, AddressOf MYThreadHandler
 
-
-        'open("test.wsv")
-        'data.fillTestData
-
         Dim grids As DataGridView() = {Me.grdGlossDictionary, Me.grdVariety, Me.grdComparisonGloss, Me.grdComparison, Me.grdComparisonAnalysis, Me.grdDegreesOfDifference, Me.grdPhonoStats, Me.grdPhoneCorr, Me.grdCognateStrengths}
         Me.grids = grids
         For Each grd As DataGridView In Me.grids
@@ -52,6 +48,7 @@ Public Class WordSurvForm
             'AddHandler grd.MouseUp, AddressOf Me.grdMouseUp
             AddHandler grd.CellBeginEdit, AddressOf gridCellBeginEditHandleMenus
             AddHandler grd.CellEndEdit, AddressOf gridCellEndEditHandleMenus
+            AddHandler grd.RowPostPaint, AddressOf gridShowRowIndex
         Next
 
         'We still have to manually add the columns to the grid.  The virtual mode thing isn't that smart.
@@ -60,6 +57,8 @@ Public Class WordSurvForm
         Me.grdGlossDictionary.Columns.Add("PartOfSpeech", "POS")
         Me.grdGlossDictionary.Columns.Add("FieldTip", "Field Tip")
         Me.grdGlossDictionary.Columns.Add("Comments", "Comments")
+        Me.grdGlossDictionary.RowHeadersVisible = True
+
 
         For Each col As DataGridViewColumn In Me.grdGlossDictionary.Columns
             col.SortMode = DataGridViewColumnSortMode.Programmatic
@@ -75,6 +74,7 @@ Public Class WordSurvForm
         Me.grdVariety.Columns.Add("PluralFrame", "Plural/Frame")
         Me.grdVariety.Columns.Add("Notes", "Notes")
         VarietyGridColCount = Me.grdVariety.Columns.Count
+        Me.grdVariety.RowHeadersVisible = True
 
 
         For Each col As DataGridViewColumn In Me.grdVariety.Columns
@@ -86,6 +86,7 @@ Public Class WordSurvForm
         Me.grdComparisonGloss.Columns("Name").ReadOnly = True
         Me.grdComparisonGloss.Columns("Name").DefaultCellStyle.BackColor = NON_EDITABLE_COLOR
         ComparisonGlossGridColCount = Me.grdComparisonGloss.Columns.Count
+        Me.grdComparisonGloss.RowHeadersVisible = True
 
 
         Me.grdComparison.Columns.Add("Variety", "Variety")
@@ -101,6 +102,7 @@ Public Class WordSurvForm
         Me.grdComparison.Columns.Add("Grouping", "Grouping")
         Me.grdComparison.Columns.Add("Notes", "Notes")
         Me.grdComparison.Columns.Add("Exclude", "Exclude")
+        Me.grdComparison.RowHeadersVisible = True
 
         For Each col As DataGridViewColumn In Me.grdComparison.Columns
             col.SortMode = DataGridViewColumnSortMode.Programmatic
@@ -111,12 +113,14 @@ Public Class WordSurvForm
 
         Me.grdComparisonAnalysis.ReadOnly = True
         Me.grdComparisonAnalysis.DefaultCellStyle.BackColor = NON_EDITABLE_COLOR
+        Me.grdComparisonAnalysis.RowHeadersVisible = True
 
         Me.grdCognateStrengths.Columns.Add("Gloss", "Gloss")
         Me.grdCognateStrengths.Columns.Add("Form 1", "Form 1")
         Me.grdCognateStrengths.Columns.Add("Form 2", "Form 2")
         Me.grdCognateStrengths.Columns.Add("Strength", "Strength")
         CognateStrengthsGridColCount = Me.grdCognateStrengths.Columns.Count
+        Me.grdCognateStrengths.RowHeadersVisible = True
 
 
 
@@ -219,7 +223,21 @@ Public Class WordSurvForm
         Log = New List(Of String)
         If DoLog Then Log.Add("Form Loaded Successfully")
         Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.Default
+        'numberRows(grdGlossDictionary)
+    End Sub
 
+    Private Sub gridShowRowIndex(sender As Object, e As DataGridViewRowPostPaintEventArgs)
+        Dim dg As DataGridView = DirectCast(sender, DataGridView)
+        Dim row As DataGridViewRow = dg.Rows(e.RowIndex)
+        Dim str As String = (row.Index + 1).ToString
+        If Not row.IsNewRow And row.HeaderCell.Value <> str Then
+            row.HeaderCell.Value = str
+        End If
+        Dim size As Integer = (dg.Rows.Count - 1) \ 10
+        If size <> Me.rowHeaderCellSize Then
+            Me.rowHeaderCellSize = size
+            dg.AutoResizeRowHeadersWidth(DataGridViewRowHeadersWidthSizeMode.AutoSizeToAllHeaders)
+        End If
     End Sub
 
 #Region "File Management"
@@ -1863,6 +1881,13 @@ Public Class WordSurvForm
         InitUndo(data, prefs)
     End Sub
 
+    Private Sub mnuAssociateFileExtension_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuAssociateFileExtension.Click
+        My.Computer.Registry.CurrentUser.CreateSubKey("Software\Classes\.wsv").SetValue("", "WordSurv", Microsoft.Win32.RegistryValueKind.String)
+        My.Computer.Registry.CurrentUser.CreateSubKey("Software\Classes\WordSurv\shell\open\command").SetValue("", Application.ExecutablePath & " ""%l"" ", Microsoft.Win32.RegistryValueKind.String)
+        'My.Computer.Registry.CurrentUser.CreateSubKey(".wsv").SetValue("", "WordSurv", Microsoft.Win32.RegistryValueKind.String)
+        'My.Computer.Registry.ClassesRoot.CreateSubKey("WordSurv\shell\open\command").SetValue("", Application.ExecutablePath & " ""%l"" ", Microsoft.Win32.RegistryValueKind.String)
+    End Sub
+
     Private Sub mnuPrimaryLanguage_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuPrimaryLanguage.Click
         Me.CommitGrids()
         Dim frmInput As New InputForm("Set Primary Language", "Enter your primary language.  This will be displayed in the first column of the Dictionary grid.", ValidationType.NOT_EMPTY, data, "")
@@ -3018,7 +3043,7 @@ Public Class WordSurvForm
         End If
     End Sub
     Private Sub btnComparisonStatistics_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnComparisonStatistics.Click
-        Dim stats As String = data.getComparisonStatistics()
+        Dim stats As String = data.GetComparisonStatistics()
         MsgBox(stats, MsgBoxStyle.OkOnly, "Comparison Statistics")
         If DoLog Then Log.Add("Got Comparison Statistics: " & stats)
     End Sub
@@ -4193,7 +4218,7 @@ Public Class WordSurvForm
     '                        Y8bod. 
     '                        `""""' 
 
-  
+
     Private Sub mnuEditSurveyMetadata_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuEditSurveyMetadata.Click
         Dim frmInput As New MultilineInputForm
         frmInput.txtInput.Text = Me.txtSurveyDescription.Text
