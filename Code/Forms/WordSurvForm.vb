@@ -47,6 +47,7 @@ Public Class WordSurvForm
         Me.grids = grids
         For Each grd As DataGridView In Me.grids
             AddHandler grd.ColumnHeaderMouseClick, AddressOf ColumnHeaderClicked
+            AddHandler grd.ColumnHeaderMouseClick, AddressOf RowHeaderClicked
             AddHandler grd.GotFocus, AddressOf Me.GridGotFocus
             'AddHandler grd.MouseUp, AddressOf Me.grdMouseUp
             AddHandler grd.CellBeginEdit, AddressOf gridCellBeginEditHandleMenus
@@ -1571,6 +1572,16 @@ Public Class WordSurvForm
         grd.ClearSelection()
         For Each row As DataGridViewRow In grd.Rows
             row.Cells(e.ColumnIndex).Selected = True
+        Next
+    End Sub
+
+    Private Sub RowHeaderClicked(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellMouseEventArgs)
+        Dim grd As DataGridView = DirectCast(sender, DataGridView)
+
+        'Select all the cells in that column if the header is clicked.
+        grd.ClearSelection()
+        For Each column As DataGridViewRow In grd.Columns
+            column.Cells(e.RowIndex).Selected = True
         Next
     End Sub
 
