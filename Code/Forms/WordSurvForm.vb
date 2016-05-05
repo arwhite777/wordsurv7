@@ -1881,8 +1881,7 @@ Public Class WordSurvForm
     Private Sub mnuAssociateFileExtension_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuAssociateFileExtension.Click
         My.Computer.Registry.CurrentUser.CreateSubKey("Software\Classes\.wsv").SetValue("", "WordSurv", Microsoft.Win32.RegistryValueKind.String)
         My.Computer.Registry.CurrentUser.CreateSubKey("Software\Classes\WordSurv\shell\open\command").SetValue("", Application.ExecutablePath & " ""%l"" ", Microsoft.Win32.RegistryValueKind.String)
-        'My.Computer.Registry.CurrentUser.CreateSubKey(".wsv").SetValue("", "WordSurv", Microsoft.Win32.RegistryValueKind.String)
-        'My.Computer.Registry.ClassesRoot.CreateSubKey("WordSurv\shell\open\command").SetValue("", Application.ExecutablePath & " ""%l"" ", Microsoft.Win32.RegistryValueKind.String)
+        MsgBox(".WSV files associated with WordSurv")
     End Sub
 
     Private Sub mnuPrimaryLanguage_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuPrimaryLanguage.Click
