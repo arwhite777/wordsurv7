@@ -48,7 +48,8 @@ Public Class WordSurvForm
             'AddHandler grd.MouseUp, AddressOf Me.grdMouseUp
             AddHandler grd.CellBeginEdit, AddressOf gridCellBeginEditHandleMenus
             AddHandler grd.CellEndEdit, AddressOf gridCellEndEditHandleMenus
-            AddHandler grd.RowPostPaint, AddressOf gridShowRowIndex
+            AddHandler grd.CellFormatting, AddressOf UpdateToolTipText
+            grd.ShowCellToolTips = True
         Next
 
         'We still have to manually add the columns to the grid.  The virtual mode thing isn't that smart.
@@ -58,6 +59,8 @@ Public Class WordSurvForm
         Me.grdGlossDictionary.Columns.Add("FieldTip", "Field Tip")
         Me.grdGlossDictionary.Columns.Add("Comments", "Comments")
         Me.grdGlossDictionary.RowHeadersVisible = True
+        AddHandler Me.grdGlossDictionary.RowPostPaint, AddressOf gridShowRowIndex
+
 
 
         For Each col As DataGridViewColumn In Me.grdGlossDictionary.Columns
@@ -75,6 +78,7 @@ Public Class WordSurvForm
         Me.grdVariety.Columns.Add("Notes", "Notes")
         VarietyGridColCount = Me.grdVariety.Columns.Count
         Me.grdVariety.RowHeadersVisible = True
+        AddHandler Me.grdVariety.RowPostPaint, AddressOf gridShowRowIndex
 
 
         For Each col As DataGridViewColumn In Me.grdVariety.Columns
@@ -87,6 +91,7 @@ Public Class WordSurvForm
         Me.grdComparisonGloss.Columns("Name").DefaultCellStyle.BackColor = NON_EDITABLE_COLOR
         ComparisonGlossGridColCount = Me.grdComparisonGloss.Columns.Count
         Me.grdComparisonGloss.RowHeadersVisible = True
+        AddHandler Me.grdComparisonGloss.RowPostPaint, AddressOf gridShowRowIndex
 
 
         Me.grdComparison.Columns.Add("Variety", "Variety")
@@ -102,7 +107,7 @@ Public Class WordSurvForm
         Me.grdComparison.Columns.Add("Grouping", "Grouping")
         Me.grdComparison.Columns.Add("Notes", "Notes")
         Me.grdComparison.Columns.Add("Exclude", "Exclude")
-        Me.grdComparison.RowHeadersVisible = True
+        
 
         For Each col As DataGridViewColumn In Me.grdComparison.Columns
             col.SortMode = DataGridViewColumnSortMode.Programmatic
@@ -113,7 +118,7 @@ Public Class WordSurvForm
 
         Me.grdComparisonAnalysis.ReadOnly = True
         Me.grdComparisonAnalysis.DefaultCellStyle.BackColor = NON_EDITABLE_COLOR
-        Me.grdComparisonAnalysis.RowHeadersVisible = True
+        'Me.grdComparisonAnalysis.RowHeadersVisible = True
 
         Me.grdCognateStrengths.Columns.Add("Gloss", "Gloss")
         Me.grdCognateStrengths.Columns.Add("Form 1", "Form 1")
@@ -121,6 +126,7 @@ Public Class WordSurvForm
         Me.grdCognateStrengths.Columns.Add("Strength", "Strength")
         CognateStrengthsGridColCount = Me.grdCognateStrengths.Columns.Count
         Me.grdCognateStrengths.RowHeadersVisible = True
+        AddHandler Me.grdCognateStrengths.RowPostPaint, AddressOf gridShowRowIndex
 
 
 
@@ -224,6 +230,34 @@ Public Class WordSurvForm
         If DoLog Then Log.Add("Form Loaded Successfully")
         Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.Default
         'numberRows(grdGlossDictionary)
+    End Sub
+
+    Public Sub UpdateToolTipText(sender As Object, e As DataGridViewCellFormattingEventArgs) _
+        Handles DataGridView1.CellFormatting
+        Dim grd As DataGridView = sender
+        If e.RowIndex > 0 And e.ColumnIndex > 0 Then
+            Dim text As String = grd.Rows.Item(e.RowIndex).Cells.Item(e.ColumnIndex).Value
+            Dim newText = ""
+            Dim charCount As Integer = 0
+            Dim lastSpace As Integer = 0
+            Dim lastSplit As Integer = 0
+            Dim i As Integer = 0
+            While i < text.Length - 1
+                If text(i) = " " Then
+                    lastSpace = i
+                End If
+                charCount += 1
+                If charCount > 80 And lastSpace <> lastSplit Then
+                    newText = newText & text.Substring(lastSplit, lastSpace - lastSplit) & Environment.NewLine
+                    lastSplit = lastSpace + 1
+                    charCount = 0
+                    i = lastSplit
+                End If
+                i = i + 1
+            End While
+            newText = newText & text.Substring(lastSplit)
+            grd.Rows.Item(e.RowIndex).Cells.Item(e.ColumnIndex).ToolTipText = newText
+        End If
     End Sub
 
     Private Sub gridShowRowIndex(sender As Object, e As DataGridViewRowPostPaintEventArgs)
@@ -859,6 +893,8 @@ Public Class WordSurvForm
             'Me.mnuRecentDatabases.Enabled = False
             setSubmenuItemsEnabledState(Me.mnuEdit, False)
             setSubmenuItemsEnabledState(Me.mnuTools, False)
+            Me.mnuTools.Enabled = True
+            Me.mnuTools.DropDownItems.Item(9).Enabled = True
             setSubmenuItemsEnabledState(Me.mnuDictionary, False)
             setSubmenuItemsEnabledState(Me.mnuSurvey, False)
             setSubmenuItemsEnabledState(Me.mnuVariety, False)
@@ -4270,5 +4306,19 @@ Public Class WordSurvForm
         cmnuCutVarietyCells.Enabled = True
         cmnuPasteVarietyCells.Enabled = True
         cmnuDeleteVarietyCells.Enabled = True
+    End Sub
+
+    Private Sub ToggleRowNumberingToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TurnOffRowNumberingToolStripMenuItem.Click
+        If Me.grdGlossDictionary.RowHeadersVisible = True Then
+            Me.grdVariety.RowHeadersVisible = False
+            Me.grdGlossDictionary.RowHeadersVisible = False
+            Me.grdComparisonGloss.RowHeadersVisible = False
+            Me.grdCognateStrengths.RowHeadersVisible = False
+        Else
+            Me.grdVariety.RowHeadersVisible = True
+            Me.grdGlossDictionary.RowHeadersVisible = True
+            Me.grdComparisonGloss.RowHeadersVisible = True
+            Me.grdCognateStrengths.RowHeadersVisible = True
+        End If
     End Sub
 End Class
