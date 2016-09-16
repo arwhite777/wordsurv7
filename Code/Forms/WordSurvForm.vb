@@ -237,6 +237,9 @@ Public Class WordSurvForm
         Dim grd As DataGridView = sender
         If e.RowIndex > 0 And e.ColumnIndex > 0 Then
             Dim text As String = grd.Rows.Item(e.RowIndex).Cells.Item(e.ColumnIndex).Value
+            If text Is Nothing Then
+                Return
+            End If
             Dim newText = ""
             Dim charCount As Integer = 0
             Dim lastSpace As Integer = 0

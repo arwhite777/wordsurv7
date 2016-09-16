@@ -4331,8 +4331,11 @@ Restart:
                 excelApp = New Excel.Application
                 excelApp.EnableEvents = False
                 excelWB = excelApp.Workbooks.Add()
-                CType(excelWB.Sheets(1), Excel.Worksheet).Delete()
-                CType(excelWB.Sheets(1), Excel.Worksheet).Delete()
+                While excelWB.Sheets.Count > 1
+                    CType(excelWB.Sheets(1), Excel.Worksheet).Delete()
+                End While
+                'CType(excelWB.Sheets(1), Excel.Worksheet).Delete()
+                'CType(excelWB.Sheets(1), Excel.Worksheet).Delete()
 
                 ws = CType(excelWB.Sheets(1), Excel.Worksheet)
 
